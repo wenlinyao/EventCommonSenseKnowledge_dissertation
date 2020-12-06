@@ -1,0 +1,4401 @@
+< [imposed] > <== < [invasion] of LOCATION >
+< PERSON [died] > <== < [illness] >
+< PERSON [died] > <== < [battle] with cancer >
+< [made] remarks > <== < [meeting] with PERSON >
+< PERSON be [sentenced] > <== < [pleading] >
+< PERSON [returned] > <== < [missing] games >
+< PERSON [arrived] > <== < [visit] to LOCATION >
+< [left] LOCATION > <== < [visit] >
+< PERSON [worked] > ==> < [joining] ORGANIZATION >
+< PERSON [returned] > <== < [visit] to LOCATION >
+< [imposed] sanctions > <== < [invasion] of LOCATION >
+< sanctions be [imposed] > <== < [invasion] of LOCATION >
+< PERSON [returned] > <== < [absence] >
+< [standings] > <== < [stage] of Tour >
+< PERSON [died] > <== < [attack] >
+< PERSON be [released] > <== < [serving] years >
+< [imposed] in 1990 > <== < [invasion] of LOCATION >
+< [picked] up win > <== < [holding] ORGANIZATION >
+< PERSON [elected] > <== < [winning] toss >
+< PERSON be [convicted] > <== < [trial] >
+< PERSON [left] > <== < [visit] to LOCATION >
+< PERSON [arrived] > <== < [visiting] LOCATION >
+< LOCATION [invaded] > <== < [coup] by supporters >
+< [standings] in league > <== < [matches] >
+< [standings] in league > <== < [games] >
+< PERSON [returned] > <== < [war] >
+< PERSON be [released] > <== < [serving] >
+< [conference] > <== < [meeting] with PERSON >
+< [made] announcement > <== < [meeting] with PERSON >
+< [invaded] third > <== < [coup] >
+< PERSON [advanced] > <== < [beating] PERSON >
+< PERSON [retired] > <== < [career] >
+< PERSON [died] > <== < [suffering] attack >
+< [issued] statement > <== < [meeting] >
+< [visited] LOCATION > ==> < [arriving] in LOCATION >
+< PERSON be [sentenced] > <== < [trial] >
+< [made] remarks > <== < [meeting] >
+< PERSON [resigned] > <== < [admitting] >
+< PERSON be [sentenced] > <== < [found] >
+< PERSON [played] > ==> < [joining] ORGANIZATION >
+< LOCATION [split] > <== < [war] >
+< [made] statement > <== < [meeting] with PERSON >
+< PERSON be [released] > <== < [posting] bail >
+< PERSON [died] > <== < [suffering] stroke >
+< PERSON be [sentenced] > <== < [convicted] >
+< PERSON [served] > ==> < [joining] ORGANIZATION >
+< PERSON [left] > <== < [concluding] visit >
+< [gained] independence > <== < [war] >
+< [visit] LOCATION > ==> < [returning] on DATE >
+< [visit] LOCATION > ==> < [returning] to LOCATION >
+< [results] in ORGANIZATION > <== < [games] >
+< prices [closed] > <== < [gains] >
+< PERSON [lived] > ==> < [moving] to LOCATION >
+< [fled] LOCATION > <== < [uprising] against rule >
+< PERSON be [released] > <== < [serving] sentence >
+< [form] government > <== < [elections] >
+< PERSON [died] > <== < [surgery] >
+< [made] comments > <== < [meeting] with PERSON >
+< PERSON be [fired] > <== < [seasons] >
+< PERSON [retired] > <== < [seasons] >
+< [left] LOCATION > <== < [visit] to LOCATION >
+< [issued] > <== < [meeting] of ORGANIZATION >
+< PERSON be [released] > <== < [questioning] >
+< PERSON [spent] > ==> < [joining] ORGANIZATION >
+< PERSON [died] > <== < [accident] >
+< PERSON [returned] > <== < [trip] to LOCATION >
+< PERSON [died] > <== < [hit] >
+< [attended] ceremony > <== < [meeting] >
+< PERSON be [released] > <== < [serving] months >
+< PERSON be [released] > <== < [arrest] >
+< greenback [moved] > ==> < [rebounding] >
+< [serving] sentence > <== < [pleading] >
+< PERSON [retired] > <== < [losing] set >
+< PERSON be [found] > <== < [trial] >
+< government [fled] > <== < [losing] war >
+< [made] announcement > <== < [meeting] >
+< PERSON [arrived] > <== < [concluding] visit >
+< government be [formed] > <== < [elections] >
+< [won] title > <== < [beating] PERSON >
+< PERSON [died] > <== < [battle] with disease >
+< [batting] > <== < [winning] toss >
+< talks [resumed] > <== < [break] >
+< futures [settled] > <== < [touching] low >
+< [form] government > <== < [election] >
+< PERSON be [held] > ==> < [released] >
+< PERSON [left] > <== < [winding] up visit >
+< PERSON [died] > <== < [shot] >
+< [standings] of league > <== < [matches] >
+< PERSON [returned] > <== < [break] >
+< [imposed] in DATE > <== < [invasion] of LOCATION >
+< PERSON [left] > <== < [visit] >
+< PERSON be [acquitted] > <== < [trial] >
+< PERSON [arrived] > <== < [trip] to LOCATION >
+< PERSON [returned] > <== < [concluding] visit >
+< PERSON [returned] > <== < [surgery] >
+< LOCATION [qualified] > <== < [beating] LOCATION >
+< [statement] > <== < [meeting] with PERSON >
+< [standings] in soccer > <== < [games] >
+< PERSON [died] > <== < [bout] with cancer >
+< [killed] people > ==> < [turning] gun >
+< [leading] scorers > <== < [matches] >
+< [spent] seasons > ==> < [joining] ORGANIZATION >
+< prices [closed] > <== < [session] >
+< trial [resumed] > <== < [break] >
+< [invaded] third > <== < [coup] in LOCATION >
+< PERSON be [arrested] > <== < [manhunt] >
+< [fled] LOCATION > <== < [war] >
+< embargo be [imposed] > <== < [invasion] of LOCATION >
+< PERSON [led] > <== < [leg] >
+< [seized] power > <== < [war] >
+< [results] > <== < [stage] of Tour >
+< PERSON [died] > <== < [undergoing] surgery >
+< PERSON [arrived] > <== < [flight] from LOCATION >
+< [issued] > <== < [meeting] in LOCATION >
+< PERSON [worked] > <== < [school] >
+< PERSON [worked] > ==> < [moving] to LOCATION >
+< PERSON [returns] > <== < [absence] >
+< [championship] on DATE > <== < [matches] >
+< PERSON be [released] > <== < [posting] bond >
+< LOCATION [broke] > <== < [war] >
+< [made] statement > <== < [meeting] >
+< [lift] sanctions > <== < [invasion] of LOCATION >
+< [hold] conference > <== < [meeting] >
+< PERSON [worked] > <== < [college] >
+< PERSON [worked] > <== < [graduating] from ORGANIZATION >
+< futures [settled] > <== < [touching] high >
+< [picked] up win > <== < [giving] up runs >
+< PERSON be [arrested] > <== < [shooting] >
+< PERSON [resigned] > <== < [pleading] >
+< PERSON [died] > <== < [crash] >
+< PERSON [arrived] > <== < [visits] to LOCATION >
+< [interview] > ==> < [release] of report >
+< [statement] > <== < [meeting] in LOCATION >
+< [back] > <== < [missing] games >
+< PERSON [wait] > ==> < [deciding] >
+< [won] independence > <== < [war] >
+< [league] > <== < [matches] on DATE >
+< PERSON [returned] > <== < [injury] >
+< PERSON be [freed] > <== < [serving] years >
+< [issued] > <== < [meeting] with PERSON >
+< statement be [issued] > <== < [meeting] >
+< PERSON [fled] > <== < [uprising] >
+< Nationalists [fled] > <== < [losing] war >
+< [signed] agreement > <== < [meeting] >
+< PERSON be [arrested] > <== < [investigation] >
+< [seized] control > <== < [routing] forces >
+< PERSON be [sidelined] > <== < [undergoing] surgery >
+< PERSON [returned] > <== < [missing] game >
+< [made] comment > <== < [meeting] >
+< [annexed] LOCATION > <== < [war] >
+< [issued] > <== < [meeting] between PERSON >
+< PERSON [returned] > <== < [spending] in LOCATION >
+< PERSON [recovering] > <== < [surgery] >
+< PERSON [resigned] > <== < [seasons] >
+< PERSON [fled] > <== < [uprising] against rule >
+< PERSON be [banned] > <== < [failing] test >
+< PERSON be [hospitalized] > <== < [suffering] stroke >
+< PERSON be [honored] > ==> < [game] >
+< PERSON be [quoted] > <== < [meeting] with PERSON >
+< PERSON [died] > <== < [struck] >
+< PERSON [left] > <== < [ending] visit >
+< prices [closed] > <== < [gains] on Street >
+< PERSON be [arrested] > <== < [returning] from LOCATION >
+< [joined] ORGANIZATION > <== < [graduating] from ORGANIZATION >
+< [fled] LOCATION > <== < [uprising] >
+< PERSON [died] > <== < [shooting] >
+< [made] remark > <== < [meeting] with PERSON >
+< [rebuild] LOCATION > <== < [war] >
+< PERSON be [ruled] > <== < [failing] to recover >
+< PERSON [moved] > <== < [war] >
+< [fled] LOCATION > <== < [invasion] >
+< PERSON be [released] > <== < [serving] time >
+< [formed] government > <== < [elections] >
+< PERSON be [suspended] > <== < [failing] test >
+< [imposed] embargo > <== < [invasion] of LOCATION >
+< prices [closed] > <== < [losses] on Street >
+< [seized] power > <== < [death] of PERSON >
+< [joined] ORGANIZATION > <== < [school] >
+< PERSON be [arrested] > <== < [bombing] >
+< [earned] $ > ==> < [taxes] >
+< LOCATION [advanced] > <== < [beating] LOCATION >
+< [issued] > <== < [meeting] of ministers >
+< sides [split] > <== < [war] >
+< [made] remarks > <== < [meeting] in LOCATION >
+< LOCATION be [divided] > <== < [coup] >
+< [standings] > <== < [match] on DATE >
+< PERSON be [sidelined] > <== < [surgery] >
+< [visit] LOCATION > ==> < [returning] >
+< [reached] agreement > <== < [negotiations] >
+< PERSON [flew] > <== < [visit] to LOCATION >
+< PERSON [died] > <== < [falling] >
+< [standings] of league > <== < [games] >
+< PERSON be [jailed] > <== < [pleading] >
+< PERSON be [arrested] > <== < [arriving] from LOCATION >
+< PERSON be [held] > <== < [arrest] >
+< PERSON be [arrested] > <== < [incident] >
+< [forming] government > <== < [election] >
+< [invaded] island > <== < [coup] by supporters >
+< PERSON be [banned] > <== < [found] >
+< [hold] talks > ==> < [leaving] for LOCATION >
+< [fled] mainland > <== < [losing] war >
+< [made] remarks > <== < [meeting] PERSON >
+< PERSON [died] > <== < [beaten] >
+< PERSON [returned] > <== < [visit] >
+< PERSON [died] > <== < [struggle] with cancer >
+< PERSON be [released] > <== < [spending] in jail >
+< PERSON [advanced] > <== < [defeating] PERSON >
+< PERSON [resigned] > <== < [accused] >
+< [results] of ORGANIZATION > <== < [games] >
+< PERSON [withdrew] > ==> < [match] >
+< PERSON be [arrested] > <== < [murder] >
+< [picked] up win > <== < [holding] scoreless >
+< [clean] up politics > ==> < [holding] elections >
+< [left] LOCATION > <== < [meeting] with PERSON >
+< [found] guilty > <== < [trial] >
+< PERSON [died] > <== < [losing] battle >
+< [left] LOCATION > <== < [concluding] visit >
+< [results] > <== < [stage] of race >
+< [missed] all > <== < [surgery] >
+< PERSON be [captured] > <== < [manhunt] >
+< ORGANIZATION [returned] > <== < [absence] >
+< [entered] north > <== < [coup] >
+< announcement be [made] > <== < [meeting] >
+< PERSON [travel] > <== < [visit] to LOCATION >
+< [championship] > <== < [matches] on DATE >
+< PERSON [recovering] > <== < [undergoing] surgery >
+< [leads] 1-0 > <== < [winning] test >
+< PERSON [died] > <== < [career] >
+< [killing] people > ==> < [turning] gun >
+< [seized] power > <== < [routing] forces >
+< PERSON [served] > <== < [pleading] >
+< PERSON [decided] > <== < [consideration] >
+< PERSON be [arrested] > <== < [operation] >
+< [opened] fire > ==> < [fleeing] >
+< PERSON [returned] > <== < [trip] >
+< [began] career > ==> < [joining] ORGANIZATION >
+< [shot] people > ==> < [killing] himself >
+< [rebuilding] LOCATION > <== < [war] >
+< people be [killed] > ==> < [cease-fire] >
+< PERSON [served] > ==> < [appointment] >
+< PERSON [left] > <== < [meeting] >
+< prices [closed] > <== < [losses] >
+< [joined] ORGANIZATION > <== < [seasons] >
+< [standings] of soccer > <== < [matches] >
+< PERSON be [sentenced] > <== < [admitting] >
+< [annexed] LOCATION > <== < [capturing] it >
+< [slaughtered] children > ==> < [defeated] >
+< PERSON be [arrested] > <== < [bombings] >
+< PERSON [died] > <== < [shot] times >
+< PERSON be [sentenced] > <== < [pleading] contest >
+< PERSON [confessed] > <== < [arrest] >
+< LOCATION be [bowled] out > <== < [losing] toss >
+< PERSON be [arrested] > <== < [killing] >
+< PERSON [died] > <== < [battling] cancer >
+< PERSON be [ruled] > <== < [suffering] injury >
+< PERSON [ruled] > <== < [hearing] >
+< [opened] fire > <== < [attack] >
+< PERSON [fled] > <== < [shooting] >
+< [conference] with PERSON > <== < [meeting] >
+< nationalists [fled] > <== < [losing] war >
+< people [died] > <== < [drinking] liquor >
+< PERSON [returned] > <== < [winding] up visit >
+< PERSON [returned] > <== < [tour] >
+< PERSON be [pulled] > <== < [allowing] goals >
+< [fled] scene > <== < [attack] >
+< [leads] standings > <== < [races] >
+< ORGANIZATION [concluded] > <== < [investigation] >
+< [held] seats > ==> < [election] >
+< PERSON [arrived] > <== < [attending] meeting >
+< [fled] LOCATION > <== < [coup] >
+< [donate] organs > <== < [death] >
+< [standings] of tournament > <== < [matches] >
+< [driven] off mainland > <== < [losing] war >
+< PERSON [died] > <== < [suffering] injuries >
+< LOCATION be [bowled] out > <== < [winning] toss >
+< PERSON be [arrested] > <== < [arriving] in LOCATION >
+< PERSON [played] > <== < [missing] games >
+< PERSON [met] > ==> < [leaving] for LOCATION >
+< [received] sentence > <== < [pleading] >
+< [left] ORGANIZATION > <== < [seasons] >
+< PERSON [flew] > <== < [visit] >
+< LOCATION [standings] > <== < [games] >
+< [leaving] LOCATION > <== < [visit] >
+< [annexed] LOCATION > <== < [intervening] in war >
+< [severed] relations > <== < [revolution] >
+< ORGANIZATION [moved] > <== < [win] over ORGANIZATION >
+< PERSON [met] > ==> < [flying] to LOCATION >
+< PERSON [died] > <== < [shot] in head >
+< PERSON be [quoted] > <== < [meeting] >
+< PERSON be [executed] > <== < [convicted] >
+< [visited] LOCATION > ==> < [arriving] >
+< PERSON [retiring] > <== < [terms] >
+< [sentenced] PERSON > <== < [convicting] him >
+< [earnings] of $ > ==> < [interest] >
+< [opened] fire > <== < [blast] >
+< soccer [results] > <== < [matches] >
+< PERSON be [suspended] > <== < [testing] for cocaine >
+< PERSON [travel] > ==> < [returning] to LOCATION >
+< [passed] > <== < [attacks] in LOCATION >
+< PERSON [returned] > <== < [serving] suspension >
+< [left] school > <== < [grade] >
+< [caught] fire > <== < [collision] >
+< [saved] points > ==> < [beating] PERSON >
+< LOCATION [finished] > <== < [beating] LOCATION >
+< [standings] > <== < [matches] on DATE >
+< boat [sank] > <== < [colliding] with vessel >
+< PERSON [arrived] > <== < [attending] summit >
+< PERSON [resigned] > <== < [defeat] >
+< PERSON [returned] > <== < [undergoing] surgery >
+< [caught] fire > <== < [crash] >
+< [earnings] of $ > ==> < [taxes] >
+< [convicted] PERSON > <== < [trial] >
+< driver [fled] > <== < [accident] >
+< [invaded] third > <== < [coup] by union >
+< PERSON be [hospitalized] > <== < [attack] >
+< [made] landing > <== < [colliding] with jet >
+< PERSON be [arrested] > <== < [attacks] in LOCATION >
+< [left] LOCATION > <== < [meeting] >
+< PERSON [died] > <== < [arrested] >
+< PERSON [step] down > <== < [terms] >
+< PERSON be [suspended] > <== < [arrest] >
+< [standings] in tournament > <== < [matches] >
+< inspections [resumed] > <== < [break] >
+< [earnings] of $ > ==> < [amortization] >
+< index [closed] > <== < [moving] in range >
+< PERSON [died] > <== < [fight] with cancer >
+< PERSON [worked] > <== < [leaving] ORGANIZATION >
+< [rose] $ > <== < [rising] >
+< PERSON be [suspended] > <== < [testing] for substance >
+< PERSON [played] > ==> < [moving] to ORGANIZATION >
+< PERSON [left] > <== < [meeting] with PERSON >
+< PERSON [moved] > <== < [school] >
+< PERSON [died] > <== < [battle] against cancer >
+< PERSON [arrived] > <== < [stop] in LOCATION >
+< PERSON be [released] > <== < [serving] term >
+< PERSON [returning] > <== < [absence] >
+< PERSON [returned] > <== < [recovering] from injury >
+< people [died] > <== < [contracting] virus >
+< [won] title > <== < [beating] LOCATION >
+< [missed] games > <== < [undergoing] surgery >
+< LOCATION [separated] > <== < [war] >
+< PERSON [died] > <== < [collapsing] >
+< PERSON [stepping] down > <== < [terms] >
+< [cause] of death > <== < [cancer] >
+< [earnings] of $ > ==> < [depreciation] >
+< PERSON [returned] > <== < [attending] meeting >
+< PERSON [returns] > <== < [injury] >
+< government be [formed] > <== < [election] >
+< PERSON be [activated] > <== < [missing] games >
+< PERSON be [activated] > ==> < [game] >
+< PERSON be [arrested] > <== < [accused] >
+< PERSON be [questioned] > ==> < [released] >
+< [left] over > <== < [taxes] >
+< PERSON [died] > <== < [suffering] arrest >
+< PERSON [died] > <== < [battle] with leukemia >
+< [reached] final > ==> < [losing] to PERSON >
+< PERSON be [sent] off > <== < [receiving] card >
+< [made] announcement > <== < [meeting] in LOCATION >
+< PERSON be [arrested] > <== < [fleeing] LOCATION >
+< [signed] agreement > <== < [negotiations] >
+< [leave] LOCATION > <== < [visit] >
+< [activated] PERSON > ==> < [game] >
+< PERSON [arrived] > <== < [trip] >
+< PERSON [arrived] > <== < [winding] up visit >
+< PERSON [died] > <== < [attacked] >
+< PERSON be [introduced] > ==> < [game] >
+< baby [died] > <== < [birth] >
+< PERSON [returned] > <== < [meeting] >
+< PERSON be [released] > <== < [serving] half >
+< [missed] season > <== < [surgery] >
+< PERSON be [released] > <== < [detention] >
+< Play [resumed] > <== < [delay] >
+< [missed] season > <== < [undergoing] surgery >
+< [standings] in division > <== < [games] >
+< PERSON [returned] > <== < [meeting] with PERSON >
+< PERSON [retire] > <== < [tournament] >
+< [visit] LOCATION > ==> < [heading] to LOCATION >
+< PERSON be [fired] > <== < [start] >
+< [hold] talks > ==> < [returning] to LOCATION >
+< [lifting] sanctions > <== < [invasion] of LOCATION >
+< PERSON [died] > <== < [operation] >
+< [resumed] talks > <== < [break] >
+< [standings] in league > <== < [game] >
+< PERSON [moved] > <== < [living] in LOCATION >
+< PERSON be [arrested] > <== < [entering] LOCATION >
+< people [died] > <== < [contracting] SARS >
+< [made] remarks > <== < [holding] talks >
+< [issued] statement > <== < [meeting] in LOCATION >
+< PERSON be [banned] > <== < [testing] for nandrolone >
+< [faces] years > <== < [pleading] >
+< [fled] LOCATION > <== < [revolution] >
+< [visit] LOCATION > <== < [tour] >
+< PERSON be [jailed] > <== < [convicted] >
+< PERSON be [released] > <== < [pleading] >
+< LOCATION [returned] > <== < [absence] >
+< PERSON [finished] > <== < [starting] >
+< PERSON [returned] > <== < [release] >
+< [left] hospital > <== < [treatment] >
+< [invaded] third > <== < [coup] by supporters >
+< jury [deliberated] > ==> < [returning] verdict >
+< ORGANIZATION [standings] > <== < [games] >
+< PERSON [returned] > <== < [treatment] >
+< [withdrew] troops > <== < [occupation] >
+< [hosted] banquet > <== < [meeting] >
+< [leads] standings > <== < [events] >
+< [made] decision > <== < [meeting] >
+< PERSON [died] > <== < [suffering] from cancer >
+< PERSON [moved] > <== < [college] >
+< PERSON [returned] > <== < [visiting] LOCATION >
+< [conference] in LOCATION > <== < [meeting] >
+< [issued] statement > <== < [vote] >
+< PERSON be [arrested] > <== < [arriving] on flight >
+< [formed] in 1993 > <== < [elections] >
+< PERSON [spent] > <== < [pleading] >
+< [picked] up win > <== < [giving] up run >
+< forces [fled] > <== < [losing] war >
+< [issue] statement > <== < [meeting] >
+< [cause] of death > <== < [disease] >
+< PERSON be [suspended] > <== < [found] >
+< jury [deliberated] > ==> < [convicting] PERSON >
+< [made] comments > <== < [meeting] PERSON >
+< PERSON [fled] > <== < [conviction] >
+< PERSON [spent] > ==> < [moving] to LOCATION >
+< PERSON be [banned] > <== < [testing] for cocaine >
+< PERSON [died] > <== < [shooting] himself >
+< [speech] > ==> < [session] of ORGANIZATION >
+< [forming] government > <== < [elections] >
+< PERSON [returned] > <== < [attending] summit >
+< [launched] on LOCATION > <== < [attacks] >
+< PERSON be [released] > <== < [serving] two-thirds >
+< [shot] people > ==> < [turning] gun >
+< PERSON [fled] > <== < [receiving] threats >
+< [named] > <== < [section] of code >
+< [play] LOCATION > ==> < [facing] LOCATION >
+< PERSON [retiring] > <== < [career] >
+< [resume] talks > <== < [break] >
+< PERSON be [sidelined] > <== < [suffering] injury >
+< [bought] equities > <== < [selling] shares >
+< PERSON [fled] > <== < [killing] >
+< PERSON [appeared] > ==> < [hearing] >
+< PERSON [fled] > <== < [attack] >
+< [left] hospital > <== < [surgery] >
+< PERSON [spent] > ==> < [returning] to LOCATION >
+< PERSON be [detained] > ==> < [released] >
+< PERSON [taught] > ==> < [joining] faculty >
+< PERSON [arrived] > <== < [spending] in LOCATION >
+< PERSON [moved] > <== < [divorce] >
+< PERSON [testified] > ==> < [hearing] >
+< PERSON be [freed] > <== < [serving] sentence >
+< PERSON [spent] > ==> < [released] >
+< assailants [fled] > <== < [attack] >
+< group [standings] > <== < [matches] >
+< PERSON [returned] > <== < [living] in LOCATION >
+< PERSON be [released] > <== < [spending] behind bars >
+< PERSON [recovering] > <== < [operation] >
+< PERSON be [released] > <== < [serving] days >
+< PERSON [retired] > <== < [winning] title >
+< PERSON [died] > <== < [illness] at age >
+< [earnings] > ==> < [interest] of euros >
+< NUMBER [died] > <== < [birth] >
+< man [died] > <== < [hit] >
+< PERSON [played] > ==> < [moving] to LOCATION >
+< [made] comments > <== < [meeting] in LOCATION >
+< PERSON be [fired] > <== < [games] >
+< [standings] in division > <== < [game] >
+< body be [found] > <== < [search] >
+< PERSON be [charged] > <== < [arrest] >
+< PERSON be [banned] > <== < [testing] for steroids >
+< PERSON [died] > <== < [stabbed] >
+< PERSON [died] > <== < [admitted] to hospital >
+< PERSON be [suspended] > <== < [incident] >
+< ORGANIZATION [moved] > <== < [beating] ORGANIZATION >
+< [adopted] > <== < [invasion] of LOCATION >
+< PERSON [arrived] > <== < [accident] >
+< PERSON be [deported] > <== < [serving] sentence >
+< PERSON [settled] > <== < [war] >
+< PERSON be [released] > <== < [treatment] >
+< PERSON [settled] > <== < [start] >
+< PERSON [fled] > <== < [ouster] >
+< PERSON [arrived] > <== < [meeting] in LOCATION >
+< groups [standings] > <== < [matches] >
+< [fled] country > <== < [war] >
+< [standings] of league > <== < [match] >
+< PERSON be [ordered] > <== < [pleading] >
+< [visit] LOCATION > ==> < [traveling] to LOCATION >
+< [telling] reporters > <== < [meeting] >
+< PERSON [died] > <== < [giving] birth >
+< insurgency [erupted] > <== < [invasion] >
+< [made] announcement > <== < [meeting] PERSON >
+< PERSON be [suspended] > <== < [testing] for steroids >
+< [played] seasons > ==> < [joining] ORGANIZATION >
+< building [collapsed] > <== < [explosion] >
+< [serving] sentence > <== < [admitting] >
+< PERSON [signed] > <== < [seasons] >
+< PERSON [missed] > <== < [surgery] >
+< PERSON be [released] > <== < [interrogation] >
+< man be [sentenced] > <== < [pleading] >
+< [earnings] of euros > ==> < [interest] >
+< [made] landing > <== < [collision] >
+< PERSON be [ejected] > <== < [receiving] card >
+< LOCATION be [divided] > <== < [war] >
+< PERSON [returned] > <== < [visits] to LOCATION >
+< [fled] scene > <== < [shooting] >
+< PERSON be [released] > <== < [questioned] >
+< [standings] of championship > <== < [matches] >
+< PERSON [returned] > <== < [exile] >
+< PERSON [returned] > <== < [serving] ban >
+< [standings] > <== < [match] between LOCATION >
+< [launched] in LOCATION > <== < [attacks] >
+< PERSON be [banned] > <== < [admitting] >
+< bishop [resigned] > <== < [admitting] >
+< [results] in round > <== < [games] >
+< PERSON [left] > <== < [wrapping] up visit >
+< PERSON be [fired] > <== < [arrest] >
+< PERSON be [freed] > <== < [serving] >
+< PERSON be [stripped] > <== < [failing] test >
+< PERSON [arrived] > <== < [holding] talks >
+< PERSON [died] > <== < [suffering] hemorrhage >
+< LOCATION [withdrew] > <== < [occupation] >
+< [miss] rest > <== < [undergoing] surgery >
+< PERSON [signed] > <== < [released] >
+< [ended] season > <== < [games] >
+< PERSON be [named] > <== < [leading] ORGANIZATION >
+< PERSON [arrived] > <== < [crash] >
+< PERSON [returned] > <== < [missing] weeks >
+< PERSON [travel] > ==> < [returning] on DATE >
+< [issued] in LOCATION > <== < [meeting] >
+< [deliberated] hours > ==> < [convicting] PERSON >
+< [rose] cents > <== < [rising] >
+< PERSON [tested] > <== < [match] >
+< PERSON [served] > ==> < [moving] to LOCATION >
+< [annexed] territory > <== < [withdrawal] of LOCATION >
+< LOCATION [invaded] > <== < [coup] >
+< LOCATION [died] > <== < [illness] >
+< [fired] shots > ==> < [fleeing] >
+< [leads] PERSON > <== < [races] >
+< stocks [ended] > <== < [session] >
+< [series] > <== < [losing] games >
+< [killed] people > ==> < [cease-fire] >
+< [standings] of division > <== < [matches] >
+< PERSON be [released] > <== < [completing] sentence >
+< [resumed] work > <== < [break] >
+< [hold] talks > ==> < [heading] to LOCATION >
+< PERSON [dropped] > <== < [grade] >
+< [executed] prisoners > <== < [coup] >
+< [left] office > <== < [serving] terms >
+< [fired] PERSON > <== < [seasons] >
+< [interview] > ==> < [visit] to LOCATION >
+< plane [crashed] > ==> < [landing] >
+< PERSON [emigrated] > <== < [war] >
+< gunmen [fled] > <== < [attack] >
+< PERSON [landed] > <== < [flight] from LOCATION >
+< PERSON be [elected] > <== < [death] of PERSON >
+< PERSON [quit] > <== < [protests] >
+< PERSON be [suspended] > <== < [testing] >
+< jury [found] > <== < [trial] >
+< [serving] term > <== < [pleading] >
+< [conference] > <== < [meeting] of ministers >
+< [met] PERSON > <== < [arriving] in LOCATION >
+< PERSON [resigned] > <== < [scandal] >
+< ORGANIZATION [closed] > <== < [hitting] high >
+< PERSON [resigned] > <== < [losing] vote >
+< PERSON [met] > <== < [arriving] >
+< PERSON be [arrested] > ==> < [boarding] flight >
+< PERSON [died] > <== < [battle] >
+< [made] remarks > <== < [delivering] speech >
+< [beating] in 1998 > <== < [arrest] >
+< PERSON [died] > <== < [arrest] >
+< PERSON [died] > <== < [shot] in chest >
+< troops [withdrew] > <== < [war] >
+< PERSON be [buried] > <== < [funeral] >
+< PERSON be [scheduled] > ==> < [returning] to LOCATION >
+< [put] in place > <== < [attacks] >
+< PERSON [returned] > <== < [invasion] >
+< PERSON be [suspended] > <== < [admitting] >
+< PERSON [died] > <== < [hitting] head >
+< PERSON be [hospitalized] > <== < [complaining] of pains >
+< jury [deliberated] > <== < [trial] >
+< [match] > ==> < [test] against LOCATION >
+< PERSON [worked] > ==> < [entering] politics >
+< index [closed] > <== < [hitting] high >
+< [issued] statement > <== < [meeting] with PERSON >
+< [hold] talks > ==> < [flying] to LOCATION >
+< [reached] semifinals > ==> < [losing] to PERSON >
+< [left] hospital > <== < [undergoing] surgery >
+< [began] career > ==> < [moving] to ORGANIZATION >
+< PERSON [admitted] > <== < [arrest] >
+< [standings] in championship > <== < [matches] >
+< PERSON [flew] > <== < [meeting] with PERSON >
+< [made] statement > <== < [meeting] in LOCATION >
+< [caught] fire > <== < [explosion] >
+< [statement] in LOCATION > <== < [meeting] >
+< PERSON be [suspended] > <== < [test] >
+< plane [landed] > <== < [flight] from LOCATION >
+< [awarded] $ > <== < [trial] >
+< [opened] fire > <== < [explosion] >
+< PERSON [returned] > <== < [missing] matches >
+< PERSON [died] > <== < [arriving] at hospital >
+< PERSON be [killed] > <== < [hit] >
+< PERSON [finished] > <== < [start] >
+< PERSON [arrived] > <== < [tour] of LOCATION >
+< PERSON [tested] > <== < [finishing] >
+< pilot [ejected] > ==> < [crash] >
+< PERSON be [sentenced] > <== < [conviction] >
+< ORGANIZATION [fled] > <== < [losing] war >
+< people [lived] > ==> < [war] >
+< [marked] return > <== < [absence] >
+< [made] decision > <== < [meeting] with PERSON >
+< [passed] bill > <== < [debate] >
+< PERSON be [arrested] > <== < [chase] >
+< [standings] of teams > <== < [matches] >
+< [acquitted] PERSON > <== < [trial] >
+< [left] LOCATION > <== < [holding] talks >
+< PERSON [arrived] > <== < [tour] >
+< [banned] imports > <== < [discovery] of case >
+< PERSON be [released] > <== < [undergoing] surgery >
+< PERSON [scored] > <== < [receiving] pass >
+< [fled] LOCATION > <== < [pleading] >
+< PERSON [died] > <== < [series] of strokes >
+< [scored] goal > <== < [receiving] pass >
+< PERSON [worked] > ==> < [arrest] >
+< [opened] fire > ==> < [killing] himself >
+< [hosted] dinner > <== < [meeting] >
+< [invaded] island > <== < [coup] >
+< [died] DATE > <== < [illness] >
+< LOCATION be [split] > <== < [war] >
+< [formed] government > <== < [election] >
+< [joined] ORGANIZATION > <== < [graduating] with degree >
+< [won] medal > <== < [beating] LOCATION >
+< [fled] homeland > <== < [uprising] against rule >
+< PERSON be [released] > <== < [charged] >
+< [reached] final > ==> < [losing] to LOCATION >
+< [freed] > <== < [held] hostage >
+< [sent] troops > <== < [ouster] of PERSON >
+< [killing] people > ==> < [shooting] himself >
+< decision be [made] > <== < [consideration] >
+< PERSON [led] > <== < [dance] >
+< PERSON [resigned] > <== < [allegations] >
+< [wash] hands > ==> < [eating] >
+< PERSON [arrived] > <== < [stops] in LOCATION >
+< PERSON [stressed] > <== < [meeting] with PERSON >
+< [fleeing] LOCATION > <== < [uprising] against rule >
+< PERSON be [jailed] > <== < [found] >
+< PERSON [died] > <== < [blast] >
+< PERSON [died] > <== < [found] in room >
+< [slapped] > <== < [invasion] of LOCATION >
+< PERSON be [released] > <== < [spending] in prison >
+< [declined] comment > <== < [hearing] >
+< [fled] LOCATION > <== < [revolt] against rule >
+< [held] hostage > ==> < [surrendering] >
+< [standings] > <== < [stage] of race >
+< talks [resume] > <== < [break] >
+< [boil] water > ==> < [drinking] it >
+< [launched] > <== < [attacks] on LOCATION >
+< [boil] water > ==> < [drinking] >
+< PERSON [dropped] > <== < [finishing] >
+< [left] afternoon > <== < [concluding] visit >
+< [succeeded] PERSON > <== < [death] >
+< [left] game > <== < [hit] >
+< PERSON [died] > <== < [diagnosed] with cancer >
+< PERSON [withdrew] > ==> < [tournament] >
+< PERSON [steps] down > <== < [terms] >
+< [failed] to qualify > <== < [finishing] >
+< [fled] province > <== < [war] >
+< PERSON [surrendered] > <== < [standoff] >
+< agreement be [reached] > <== < [negotiations] >
+< PERSON [returned] > <== < [ending] visit >
+< PERSON [arrived] > <== < [wrapping] up visit >
+< PERSON [left] > <== < [seasons] >
+< [fired] PERSON > <== < [start] to season >
+< [made] remarks > ==> < [leaving] to attend >
+< delegation [arrived] > <== < [visit] to LOCATION >
+< PERSON [miss] > <== < [undergoing] surgery >
+< refugees [staying] > <== < [forced] to flee >
+< people be [rescued] > <== < [accident] >
+< [standings] in tournament > <== < [match] >
+< shares [closed] > <== < [trading] >
+< [deliberated] hours > ==> < [returning] verdict >
+< PERSON be [freed] > <== < [serving] months >
+< PERSON be [born] > <== < [war] >
+< [fought] wars > <== < [gaining] independence >
+< island [split] > <== < [war] >
+< [retained] title > <== < [beating] PERSON >
+< PERSON [played] > ==> < [joining] LOCATION >
+< PERSON [fled] > <== < [incident] >
+< [serving] sentence > <== < [convicted] >
+< [scored] points > ==> < [fouling] out >
+< country be [divided] > <== < [war] >
+< PERSON be [released] > <== < [paying] bail >
+< bodies be [found] > <== < [search] >
+< PERSON [returned] > <== < [operation] >
+< [standings] in tournament > <== < [games] >
+< PERSON be [elected] > <== < [campaign] >
+< [earnings] of euros > ==> < [tax] >
+< PERSON [returned] > <== < [tour] of LOCATION >
+< people be [released] > <== < [questioning] >
+< delegation [left] > <== < [visit] to LOCATION >
+< PERSON [met] > ==> < [heading] to LOCATION >
+< PERSON [arrived] > <== < [journey] >
+< PERSON [declared] > <== < [meeting] >
+< [rebuilding] country > <== < [war] >
+< PERSON [met] > <== < [arriving] from LOCATION >
+< [launched] > <== < [attacks] in LOCATION >
+< [founded] giant > ==> < [entering] politics >
+< [made] remarks > <== < [hearing] report >
+< PERSON [served] > ==> < [assuming] post >
+< [won] title > <== < [defeating] PERSON >
+< PERSON be [freed] > <== < [arrest] >
+< [resumed] inspections > <== < [break] >
+< [site] of wars > <== < [collapse] of LOCATION >
+< [fled] LOCATION > <== < [genocide] >
+< [ended] strike > <== < [reaching] agreement >
+< PERSON [returns] > <== < [missing] games >
+< PERSON [returned] > <== < [attending] conference >
+< [introduced] > <== < [attacks] in LOCATION >
+< [results] > <== < [matches] in tournament >
+< PERSON [fled] > <== < [losing] war >
+< [standings] > <== < [event] in LOCATION >
+< PERSON be [arrested] > <== < [search] >
+< PERSON be [sentenced] > <== < [pleading] in DATE >
+< PERSON [fled] > <== < [war] >
+< PERSON [moved] > <== < [graduating] from ORGANIZATION >
+< PERSON [died] > <== < [strike] >
+< prices [closed] > <== < [rally] >
+< PERSON [pulled] > <== < [failing] to recover >
+< [suffered] injuries > <== < [hit] >
+< PERSON be [extradited] > <== < [battle] >
+< [put] in LOCATION > <== < [winning] toss >
+< [opting] to bat > <== < [winning] toss >
+< [made] statement > <== < [meeting] PERSON >
+< [activated] PERSON > ==> < [game] against ORGANIZATION >
+< [released] > <== < [meeting] between PERSON >
+< [arrested] PERSON > <== < [investigation] >
+< [won] title > <== < [finishing] >
+< [pay] $ > <== < [pleading] >
+< man be [arrested] > <== < [attack] >
+< PERSON [returned] > <== < [wrapping] up visit >
+< LOCATION be [unbeaten] > <== < [games] >
+< [left] LOCATION > <== < [winding] up visit >
+< ORGANIZATION [found] > <== < [investigation] >
+< PERSON be [suspended] > <== < [testing] for nandrolone >
+< PERSON be [ruled] > <== < [injuring] ankle >
+< [hold] talks > ==> < [returning] on DATE >
+< PERSON [died] > <== < [shot] in back >
+< PERSON be [sidelined] > <== < [injuring] knee >
+< [missed] season > <== < [having] surgery >
+< PERSON be [suspended] > <== < [picking] up card >
+< PERSON be [suspended] > <== < [pleading] >
+< woman [died] > <== < [hit] >
+< [hold] talks > ==> < [traveling] to LOCATION >
+< [beat] PERSON > ==> < [losing] to PERSON >
+< fire [broke] out > <== < [explosion] >
+< [step] down > <== < [terms] >
+< PERSON [returned] > <== < [missing] match >
+< ORGANIZATION [ended] > <== < [hitting] high >
+< PERSON be [hospitalized] > <== < [suffering] attack >
+< [joined] ORGANIZATION > <== < [graduating] from school >
+< PERSON be [hospitalized] > <== < [falling] >
+< PERSON [returned] > <== < [seasons] >
+< PERSON [died] > <== < [rushed] to hospital >
+< [declared] independence > <== < [war] >
+< [began] career > ==> < [moving] to LOCATION >
+< violence [erupted] > <== < [election] >
+< PERSON [returned] > <== < [receiving] treatment >
+< [make] statement > <== < [meeting] >
+< [passed] > <== < [attacks] on LOCATION >
+< [picked] up win > <== < [holding] Fighters >
+< violence [erupted] > <== < [elections] >
+< [committed] suicide > <== < [learning] >
+< [make] return > <== < [absence] >
+< PERSON be [ruled] out > <== < [suffering] injury >
+< [released] > <== < [meeting] in LOCATION >
+< [caught] fire > <== < [hit] >
+< PERSON [fumbled] > <== < [reception] >
+< PERSON [concluded] > <== < [investigation] >
+< PERSON be [released] > <== < [serving] for role >
+< [made] return > <== < [absence] >
+< [visit] LOCATION > ==> < [leaving] for LOCATION >
+< PERSON be [buried] > <== < [death] >
+< father [died] > <== < [illness] >
+< [conference] > <== < [meeting] PERSON >
+< [married] PERSON > <== < [divorce] >
+< PERSON [returned] > <== < [spending] >
+< [missed] all > <== < [undergoing] surgery >
+< [rebuild] country > <== < [war] >
+< PERSON [flew] > <== < [meeting] >
+< shares [closed] > <== < [hitting] high >
+< borders [existed] > ==> < [war] >
+< [left] afternoon > <== < [visit] to LOCATION >
+< PERSON [returned] > <== < [giving] birth >
+< Cheonan [sank] > <== < [explosion] >
+< stocks [closed] > <== < [session] >
+< [lost] games > <== < [start] >
+< average [closed] > <== < [rising] points >
+< [sanctions] > <== < [invasion] of LOCATION >
+< [briefed] reporters > <== < [meeting] >
+< [doubled] risk > <== < [use] >
+< [ruled] LOCATION > <== < [sending] in troops >
+< [pulled] staff > <== < [bombings] at headquarters >
+< PERSON be [freed] > <== < [posting] bail >
+< [beat] PERSON > ==> < [losing] in final >
+< [standings] > <== < [matches] in tournament >
+< [suspended] LOCATION > <== < [coup] >
+< PERSON [travel] > <== < [visit] >
+< [caught] fire > <== < [blast] >
+< [won] match > ==> < [tournament] >
+< PERSON [left] > <== < [paying] visit >
+< PERSON [died] > <== < [sustaining] injuries >
+< ORGANIZATION [died] > <== < [illness] >
+< PERSON [flew] > <== < [concluding] visit >
+< play [resumed] > <== < [delay] >
+< PERSON be [admitted] > <== < [complaining] >
+< PERSON [pleaded] > <== < [arrest] >
+< PERSON be [charged] > <== < [investigation] >
+< [league] on DATE > <== < [matches] >
+< [opened] fire > <== < [attacked] >
+< PERSON [recuperating] > <== < [surgery] >
+< [lead] 1-0 > <== < [winning] Test >
+< [missed] most > <== < [surgery] >
+< PERSON [arrived] > <== < [flying] from LOCATION >
+< [held] positions > ==> < [joining] ORGANIZATION >
+< [gained] independence > <== < [collapse] of LOCATION >
+< soccer [standings] > <== < [matches] >
+< [made] decision > <== < [hearing] >
+< ship [sank] > <== < [colliding] with vessel >
+< PERSON [returns] > <== < [recovering] from injury >
+< [honored] PERSON > ==> < [game] >
+< [step] down > <== < [term] >
+< PERSON be [admitted] > <== < [complaining] of pains >
+< PERSON [died] > <== < [falling] into coma >
+< PERSON be [arrested] > <== < [attempt] >
+< PERSON [enrolled] > <== < [school] >
+< PERSON [withdrew] > ==> < [match] against PERSON >
+< PERSON be [named] > <== < [leading] LOCATION >
+< body be [found] > <== < [disappearance] >
+< PERSON be [hospitalized] > <== < [accident] >
+< [governed] LOCATION > <== < [invasion] >
+< LOCATION [scored] > <== < [losing] toss >
+< PERSON [convalescing] > <== < [surgery] >
+< PERSON [died] > <== < [collapsing] during match >
+< [joined] ORGANIZATION > <== < [war] >
+< [join] ORGANIZATION > <== < [attacks] >
+< PERSON [died] > <== < [collapsing] in LOCATION >
+< PERSON be [questioned] > <== < [arrest] >
+< PERSON [fly] > <== < [visit] to LOCATION >
+< PERSON [left] > <== < [pitches] >
+< PERSON [died] > <== < [suffering] from disease >
+< wife [died] > <== < [illness] >
+< [opened] investigation > <== < [receiving] complaints >
+< [cordoned] off area > <== < [blast] >
+< gunmen [fled] > <== < [shooting] >
+< PERSON [worked] > ==> < [joining] PERSON >
+< [cleared] deal > <== < [receiving] complaints >
+< [standings] > <== < [matches] in LOCATION >
+< PERSON [returned] > <== < [missing] Test >
+< [made] remarks > <== < [learning] >
+< bodies be [recovered] > <== < [crash] >
+< PERSON be [released] > ==> < [start] of season >
+< PERSON [returned] > <== < [working] in LOCATION >
+< PERSON be [imposed] > <== < [invasion] of LOCATION >
+< [fled] homeland > <== < [uprising] >
+< [sentenced] PERSON > <== < [trial] >
+< PERSON be [suspended] > <== < [sent] off against LOCATION >
+< PERSON be [ordered] > <== < [hearing] >
+< [seeking] win > <== < [losing] Test >
+< PERSON [arrived] > <== < [ending] visit >
+< [missed] games > <== < [spraining] ankle >
+< delegation [returned] > <== < [visit] to LOCATION >
+< [entered] orbit > <== < [launch] >
+< PERSON [served] > <== < [revolution] >
+< [spent] hours > ==> < [released] >
+< PERSON be [released] > <== < [spending] years >
+< PERSON be [named] > <== < [scoring] points >
+< shares [closed] > <== < [session] >
+< [made] it > ==> < [losing] to PERSON >
+< [travel] to LOCATION > ==> < [returning] to LOCATION >
+< [made] landing > <== < [collision] with jet >
+< PERSON [arrived] > <== < [explosion] >
+< PERSON be [released] > <== < [serving] for rape >
+< LOCATION [advanced] > <== < [defeating] LOCATION >
+< PERSON be [arrested] > <== < [flying] from LOCATION >
+< [reconstruction] of LOCATION > <== < [war] >
+< [withdrew] leaving > <== < [war] >
+< PERSON [signed] > <== < [spending] seasons >
+< PERSON [doing] > <== < [surgery] >
+< [joined] ORGANIZATION > <== < [leaving] ORGANIZATION >
+< [imposed] > <== < [assassination] of PERSON >
+< PERSON [died] > <== < [fight] against cancer >
+< PERSON [returns] > <== < [missing] match >
+< PERSON [lived] > ==> < [returning] to LOCATION >
+< [pay] fine > <== < [pleading] >
+< PERSON [resume] > <== < [break] >
+< [standings] of ORGANIZATION > <== < [matches] on DATE >
+< PERSON [quit] > <== < [defeat] >
+< [named] > <== < [capital] of LOCATION >
+< PERSON [arrived] > <== < [extradited] from LOCATION >
+< jury [deliberated] > ==> < [reaching] verdict >
+< [won] title > <== < [beating] ORGANIZATION >
+< [completed] move > <== < [passing] medical >
+< [withdrew] ambassador > <== < [assassination] of PERSON >
+< PERSON be [placed] > <== < [pleading] >
+< PERSON [concluded] > <== < [review] >
+< PERSON [comment] > <== < [hearing] >
+< play [resumed] > <== < [break] >
+< [scored] points > <== < [missing] games >
+< Shares [rose] > <== < [comment] >
+< PERSON [look] > <== < [interests] >
+< index [closed] > <== < [touching] high >
+< game [resumed] > <== < [delay] >
+< PERSON [flew] > <== < [visiting] LOCATION >
+< ORGANIZATION be [unbeaten] > <== < [games] >
+< [lock] in profits > <== < [gains] >
+< PERSON [met] > ==> < [returning] to LOCATION >
+< PERSON be [sentenced] > <== < [convicted] on charges >
+< [won] medal > <== < [beating] PERSON >
+< [wounded] others > ==> < [killing] himself >
+< [attended] ORGANIZATION > <== < [school] >
+< Gold [opened] > <== < [closing] in LOCATION >
+< PERSON be [suspended] > <== < [receiving] card >
+< [saved] point > ==> < [beating] PERSON >
+< PERSON be [detained] > <== < [arriving] on flight >
+< people [missing] > <== < [accident] >
+< troops [withdrew] > <== < [occupation] >
+< PERSON be [beaten] > <== < [arrest] >
+< [hit] high > ==> < [closing] at $ >
+< [visited] LOCATION > ==> < [flying] to LOCATION >
+< [visit] LOCATION > ==> < [arriving] in LOCATION >
+< PERSON [returned] > <== < [paying] visit >
+< LOCATION [scored] > <== < [winning] toss >
+< ORGANIZATION [looks] > <== < [interests] in LOCATION >
+< [fled] LOCATION > <== < [uprising] in 1959 >
+< PERSON be [hospitalized] > <== < [complaining] of pain >
+< [returning] > <== < [visit] to LOCATION >
+< PERSON be [forced] > <== < [protests] >
+< [resumed] hunts > <== < [break] >
+< PERSON be [released] > <== < [seasons] >
+< PERSON [improved] > <== < [holding] ORGANIZATION >
+< PERSON [lived] > ==> < [moving] >
+< PERSON [arrived] > <== < [deported] from LOCATION >
+< PERSON [spent] > ==> < [release] >
+< [left] LOCATION > <== < [visit] to country >
+< forces [withdrew] > <== < [war] >
+< decision be [made] > <== < [meeting] of ORGANIZATION >
+< [fined] $ > <== < [pleading] >
+< PERSON be [released] > <== < [surgery] >
+< [fled] scene > <== < [accident] >
+< [gripped] cities > <== < [election] >
+< PERSON be [banned] > <== < [testing] for drugs >
+< PERSON be [admitted] > <== < [suffering] stroke >
+< PERSON [resigned] > <== < [losing] support >
+< [visit] LOCATION > ==> < [flying] to LOCATION >
+< PERSON [spent] > ==> < [returning] >
+< attackers [fled] > <== < [shooting] >
+< [reached] final > <== < [beating] PERSON >
+< [started] career > ==> < [joining] ORGANIZATION >
+< index [closed] > <== < [trading] in range >
+< [left] LOCATION > <== < [trip] >
+< [serving] sentence > <== < [convicted] in DATE >
+< [died] DATE > <== < [battle] with cancer >
+< man be [beheaded] > <== < [convicted] >
+< [made] call > <== < [meeting] with PERSON >
+< PERSON [returned] > <== < [playing] in LOCATION >
+< [missed] games > <== < [surgery] >
+< [met] PERSON > ==> < [returning] to LOCATION >
+< PERSON [left] > <== < [throwing] pitches >
+< [approved] bill > <== < [debate] >
+< PERSON [testified] > ==> < [jury] >
+< season [ended] > <== < [games] >
+< [returning] > <== < [trip] to LOCATION >
+< [left] prison > <== < [serving] sentence >
+< PERSON [arrived] > <== < [leaving] LOCATION >
+< PERSON be [arrested] > <== < [accident] >
+< [severed] ties > <== < [revolution] >
+< [standings] > <== < [stage] of LOCATION >
+< ORGANIZATION be [established] > <== < [invasion] of LOCATION >
+< PERSON be [banned] > <== < [test] >
+< [joined] ORGANIZATION > <== < [working] in LOCATION >
+< PERSON be [named] > <== < [guiding] ORGANIZATION >
+< [signed] treaty > <== < [war] >
+< LOCATION [moved] > <== < [beating] LOCATION >
+< [protect] minority > <== < [coup] by supporters >
+< [leave] ORGANIZATION > <== < [seasons] >
+< [earnings] > ==> < [interest] of $ >
+< PERSON be [sentenced] > <== < [trial] in LOCATION >
+< [issued] > <== < [meeting] of officials >
+< ORGANIZATION [concluded] > <== < [examining] operation >
+< PERSON [resigned] > <== < [leading] LOCATION >
+< PERSON [retired] > <== < [games] >
+< PERSON [rallied] > <== < [dropping] set >
+< PERSON [stepped] down > <== < [leading] LOCATION >
+< [awaiting] sentencing > <== < [pleading] >
+< [face] squad > <== < [convicted] >
+< PERSON [spent] > ==> < [moving] to ORGANIZATION >
+< [invaded] LOCATION > <== < [coup] by supporters >
+< [declared] war > <== < [attacks] >
+< [won] games > <== < [start] >
+< [joined] war > <== < [attacks] >
+< PERSON be [optioned] > <== < [game] >
+< [sat] out season > <== < [transferring] from LOCATION >
+< [leads] 1-0 > <== < [winning] match >
+< [made] decision > <== < [consideration] >
+< [make] announcement > <== < [meeting] >
+< [changed] mind > <== < [meeting] with PERSON >
+< [form] government > <== < [polls] >
+< ORGANIZATION [determined] > <== < [investigation] >
+< [hold] talks > ==> < [returning] >
+< PERSON [died] > <== < [suffering] injury >
+< PERSON [died] > <== < [collapsing] at home >
+< [defeated] PERSON > <== < [campaign] >
+< [evicted] troops > <== < [occupation] >
+< PERSON be [installed] > <== < [coup] >
+< PERSON [fumbled] > <== < [catching] pass >
+< PERSON [retired] > <== < [dropping] set >
+< [made] remarks > <== < [meeting] with officials >
+< investors [paused] > <== < [rally] >
+< PERSON [moved] > <== < [working] in LOCATION >
+< [get] permission > ==> < [spending] dues >
+< PERSON [left] > <== < [hit] >
+< [returning] > <== < [missing] games >
+< [leading] standings > <== < [events] >
+< [claimed] responsibility > <== < [attack] >
+< [wounding] people > ==> < [shot] >
+< [lost] contact > ==> < [landing] >
+< euro [stood] > <== < [hitting] high >
+< PERSON [died] > <== < [poisoned] >
+< [joined] ORGANIZATION > <== < [career] >
+< PERSON [retired] > <== < [terms] >
+< PERSON be [elected] > <== < [death] >
+< PERSON be [indicted] > <== < [investigation] >
+< [standings] in League > <== < [games] >
+< [entered] final > <== < [beating] PERSON >
+< PERSON be [sworn] in > <== < [election] >
+< PERSON [returned] > <== < [incident] >
+< family [lived] > ==> < [moving] to LOCATION >
+< PERSON [retired] > <== < [leading] LOCATION >
+< [wounding] others > ==> < [turning] gun >
+< LOCATION be [annexed] > <== < [war] >
+< [quit] school > <== < [grade] >
+< PERSON [returns] > <== < [break] >
+< PERSON be [held] > ==> < [trial] >
+< [signed] agreements > <== < [meeting] >
+< PERSON be [released] > <== < [appearance] >
+< PERSON [returned] > <== < [suffering] injury >
+< [left] office > <== < [terms] >
+< PERSON [traveled] > <== < [release] >
+< [killed] people > ==> < [shooting] himself >
+< [made] name > ==> < [moving] to LOCATION >
+< [made] remarks > <== < [attending] seminar >
+< [killing] people > ==> < [committing] suicide >
+< [serving] sentence > <== < [pleading] in DATE >
+< PERSON [returned] > <== < [missing] months >
+< government [resigned] > <== < [losing] vote >
+< PERSON [died] > <== < [ruling] country >
+< [prevent] pregnancy > <== < [sex] >
+< PERSON be [banned] > <== < [testing] for substance >
+< PERSON [died] > <== < [suffering] failure >
+< forces [retreated] > <== < [war] >
+< [killed] people > ==> < [shot] >
+< [made] statements > <== < [arrest] >
+< [standings] in premiership > <== < [games] >
+< [formed] government > <== < [winning] elections >
+< [launched] in 2001 > <== < [attacks] >
+< judge [ruled] > <== < [hearing] >
+< [left] > <== < [paying] taxes >
+< [standings] > <== < [competitions] on DATE >
+< PERSON be [banned] > <== < [testing] >
+< [reached] quarterfinals > ==> < [losing] to PERSON >
+< [standings] of Tour > <== < [stage] from LOCATION >
+< PERSON [admitted] > <== < [defeat] >
+< [lost] $ > ==> < [taxes] >
+< PERSON [resigned] > <== < [indicted] >
+< [imposed] against LOCATION > <== < [invasion] of LOCATION >
+< delegation [left] > <== < [concluding] visit >
+< [released] > <== < [meeting] with PERSON >
+< mother [died] > <== < [giving] birth >
+< PERSON [returned] > <== < [meeting] in LOCATION >
+< [rose] cents > <== < [hitting] high >
+< [made] appeal > <== < [meeting] with PERSON >
+< [hold] talks > <== < [ceremony] >
+< PERSON [tested] > <== < [match] against ORGANIZATION >
+< [earnings] of dollars > ==> < [interest] >
+< [made] decision > <== < [consulting] with PERSON >
+< PERSON [retire] > <== < [game] >
+< [drove] troops > <== < [occupation] >
+< [killed] people > ==> < [committing] suicide >
+< [authorized] program > <== < [attacks] >
+< PERSON be [admitted] > <== < [complaining] of pain >
+< [left] court > <== < [hearing] >
+< PERSON [worked] > ==> < [joining] administration >
+< PERSON [moved] > ==> < [settling] in LOCATION >
+< PERSON [served] > <== < [convicted] >
+< PERSON [complained] > <== < [match] >
+< delegation [left] > <== < [visit] >
+< [returning] > <== < [absence] of years >
+< [cordoned] off area > <== < [attack] >
+< PERSON be [deported] > <== < [pleading] >
+< ORGANIZATION [retreated] > <== < [losing] war >
+< [sentenced] man > <== < [convicting] him >
+< PERSON be [ruled] > <== < [injuring] knee >
+< PERSON be [replaced] > <== < [allowing] goals >
+< PERSON [served] > ==> < [elected] president >
+< [fought] wars > <== < [collapse] of LOCATION >
+< PERSON be [placed] > <== < [arrest] >
+< penalty be [applied] > <== < [proceedings] >
+< [won] two > <== < [losing] games >
+< militants [fled] > <== < [attack] >
+< [visited] LOCATION > ==> < [returning] to LOCATION >
+< PERSON [returned] > <== < [exile] in LOCATION >
+< PERSON be [arrested] > <== < [spotted] >
+< PERSON [returned] > <== < [missing] series >
+< bodies be [recovered] > <== < [accident] >
+< PERSON be [executed] > <== < [trial] >
+< people [died] > <== < [shocked] >
+< Tour [results] > <== < [stage] >
+< [withdrew] troops > <== < [presence] >
+< [step] down > <== < [serving] terms >
+< PERSON be [fired] > <== < [incident] >
+< [remarks] > <== < [meeting] with PERSON >
+< [killing] people > ==> < [shot] >
+< [field] > <== < [winning] toss >
+< [ruled] LOCATION > ==> < [ousted] in elections >
+< [restore] democracy > <== < [coup] >
+< leader [fled] > <== < [uprising] against rule >
+< [get] permission > ==> < [using] dues >
+< PERSON [worked] > <== < [graduating] from school >
+< [succeed] PERSON > <== < [elections] >
+< PERSON be [arrested] > <== < [killings] >
+< PERSON be [freed] > <== < [spending] in prison >
+< rebels [fled] > <== < [genocide] >
+< ORGANIZATION [reopened] > <== < [renovation] >
+< index [closed] > <== < [reaching] high >
+< [serving] years > <== < [pleading] >
+< PERSON [worked] > ==> < [moving] to ORGANIZATION >
+< [released] PERSON > <== < [holding] him >
+< [issued] on DATE > <== < [meeting] >
+< most be [released] > <== < [questioning] >
+< PERSON [resigned] > <== < [move] >
+< PERSON [died] > <== < [collapsing] at hotel >
+< PERSON [spent] > ==> < [emigrating] in 1985 >
+< [held] lead > <== < [stages] >
+< PERSON [quit] > <== < [riots] against rule >
+< [made] start > <== < [winning] toss >
+< [briefing] > <== < [meeting] with PERSON >
+< PERSON [died] > <== < [hospitalized] >
+< PERSON be [released] > <== < [held] >
+< PERSON [declared] > <== < [meeting] with PERSON >
+< [seized] power > <== < [coup] >
+< [leave] for LOCATION > <== < [seeking] asylum >
+< PERSON [played] > ==> < [transferring] to ORGANIZATION >
+< PERSON [died] > <== < [detained] >
+< PERSON [quit] > <== < [admitting] >
+< [scored] points > <== < [scoring] points >
+< PERSON be [hospitalized] > <== < [feeling] >
+< [standings] of league > <== < [matches] on DATE >
+< [restored] relations > <== < [break] >
+< PERSON [admitted] > <== < [denying] >
+< PERSON be [banned] > <== < [pleading] >
+< [fled] LOCATION > <== < [bombing] >
+< [left] afternoon > <== < [winding] up visit >
+< [made] remarks > <== < [meeting] with counterpart >
+< [made] remarks > ==> < [leaving] for LOCATION >
+< [married] PERSON > <== < [meeting] him >
+< PERSON be [released] > <== < [serving] most >
+< [leading] goalscorers > <== < [matches] >
+< trial [resumed] > <== < [delay] >
+< PERSON be [recalled] > <== < [absence] >
+< PERSON be [captured] > <== < [attacks] >
+< [made] landing > <== < [experiencing] problems >
+< LOCATION [closed] > <== < [session] >
+< PERSON [grew] up > ==> < [moving] to LOCATION >
+< PERSON [returned] > <== < [missing] win >
+< [opened] fire > ==> < [turning] gun >
+< PERSON [arrived] > <== < [incident] >
+< PERSON [step] down > <== < [term] >
+< PERSON [tested] > <== < [winning] medal >
+< ORGANIZATION be [created] > <== < [attacks] >
+< PERSON [arrived] > <== < [visit] >
+< PERSON be [released] > <== < [paying] fine >
+< PERSON [lived] > ==> < [settling] in LOCATION >
+< [played] seasons > ==> < [signing] with ORGANIZATION >
+< people [died] > <== < [contracting] flu >
+< PERSON be [arrested] > <== < [crossing] border >
+< PERSON [spent] > <== < [school] >
+< PERSON [recovered] > <== < [dropping] set >
+< others be [released] > <== < [questioning] >
+< government [collapsed] > <== < [losing] vote >
+< [seized] power > <== < [death] of president >
+< LOCATION be [eliminated] > <== < [losing] to LOCATION >
+< PERSON [learned] > <== < [fact] >
+< PERSON [fled] > <== < [learning] >
+< [named] > <== < [wing] of movement >
+< PERSON be [released] > <== < [serving] part >
+< [standings] of teams > <== < [games] >
+< suspects be [held] > ==> < [charged] >
+< PERSON be [arrested] > <== < [stop] >
+< PERSON [died] > <== < [battle] with illness >
+< PERSON [retired] > <== < [game] >
+< PERSON [found] > <== < [investigation] >
+< [fined] dollars > <== < [pleading] >
+< PERSON [led] > <== < [rounds] >
+< PERSON be [released] > <== < [held] hostage >
+< protests [erupted] > <== < [election] >
+< PERSON be [born] > <== < [death] >
+< PERSON [worked] > <== < [graduating] with degree >
+< [imposed] > <== < [outbreak] of disease >
+< LOCATION be [suspended] > <== < [coup] >
+< PERSON [served] > <== < [conviction] >
+< [questioned] PERSON > <== < [attacks] >
+< PERSON [spent] > ==> < [released] on bail >
+< ORGANIZATION [returned] > <== < [break] >
+< [found] evidence > <== < [investigation] >
+< [trails] PERSON > <== < [races] >
+< [breaching] conditions > <== < [incident] >
+< PERSON be [scheduled] > <== < [visit] >
+< PERSON be [remembered] > <== < [death] >
+< PERSON be [pulled] > <== < [giving] up goals >
+< [lost] four > <== < [start] >
+< PERSON [moved] > <== < [seasons] >
+< crude [rose] > ==> < [retreating] to trade >
+< PERSON be [sentenced] > <== < [trial] behind doors >
+< [seized] power > <== < [stepping] down in 1987 >
+< man [died] > <== < [shot] >
+< PERSON [pleaded] > <== < [admitting] >
+< [standings] of A > <== < [matches] >
+< [intimidate] voters > ==> < [election] >
+< [made] remarks > <== < [arriving] in LOCATION >
+< [standings] of championship > <== < [matches] on DATE >
+< PERSON be [rushed] > <== < [complaining] of pains >
+< PERSON [served] > ==> < [joining] administration >
+< [makes] up LOCATION > <== < [war] >
+< PERSON [left] > <== < [holding] talks >
+< [spent] seasons > ==> < [joining] LOCATION >
+< [killed] himself > <== < [learning] >
+< [recognized] LOCATION > <== < [war] >
+< [annexed] LOCATION > <== < [seizing] it >
+< PERSON be [freed] > <== < [spending] behind bars >
+< cabinet be [formed] > <== < [elections] >
+< [issued] statement > <== < [hearing] >
+< mother [died] > <== < [illness] >
+< PERSON be [detained] > <== < [clash] between mob >
+< PERSON [stay] > ==> < [returning] to LOCATION >
+< PERSON [retired] > <== < [leading] ORGANIZATION >
+< PERSON be [released] > <== < [spending] months >
+< [issued] > <== < [meeting] of leaders >
+< what [happens] > <== < [elections] >
+< [gave] birth > <== < [pregnancy] >
+< [clean] up politics > ==> < [holding] polls >
+< PERSON be [caught] > <== < [chase] >
+< body be [found] > <== < [death] >
+< [leaving] office > <== < [terms] >
+< [issued] > <== < [meeting] of council >
+< PERSON be [arrested] > <== < [stepping] off plane >
+< PERSON be [arrested] > <== < [admitting] >
+< PERSON [admitted] > <== < [watching] >
+< trial be [adjourned] > <== < [session] >
+< passengers be [rescued] > <== < [accident] >
+< PERSON [served] > ==> < [resigning] >
+< PERSON [appeared] > ==> < [board] >
+< PERSON be [declared] > <== < [failing] to pay >
+< [won] race > <== < [stage] >
+< people [died] > <== < [eating] mushrooms >
+< PERSON be [expected] > <== < [visit] to LOCATION >
+< helicopter [crashed] > <== < [reporting] failure >
+< PERSON [admitted] > <== < [victory] >
+< [left] LOCATION > <== < [ceremony] >
+< [standings] > <== < [matches] in competition >
+< PERSON [served] > ==> < [released] >
+< PERSON [played] > <== < [leaving] ORGANIZATION >
+< [left] office > <== < [term] >
+< [made] announcement > <== < [holding] talks >
+< minister [arrived] > <== < [visit] to LOCATION >
+< PERSON [play] > <== < [recovering] from injury >
+< soldier [died] > <== < [wounded] in attack >
+< Most be [released] > <== < [payment] of ransom >
+< miners be [trapped] > <== < [explosion] >
+< [formed] > <== < [elections] in DATE >
+< PERSON [graduated] > <== < [war] >
+< man be [arrested] > <== < [incident] >
+< PERSON [spend] > ==> < [returning] to LOCATION >
+< PERSON be [arrested] > <== < [visiting] stronghold >
+< [passed] law > <== < [debate] >
+< PERSON [returned] > <== < [shooting] >
+< PERSON [withdrew] > ==> < [start] of round >
+< [issued] > <== < [summit] in LOCATION >
+< [made] remarks > <== < [listening] to report >
+< PERSON [lived] > ==> < [arrest] >
+< [began] career > <== < [graduating] from ORGANIZATION >
+< PERSON [retired] > <== < [learning] >
+< [held] positions > ==> < [outbreak] of fighting >
+< PERSON be [arrested] > <== < [investigation] by ORGANIZATION >
+< workers [returned] > <== < [strike] >
+< PERSON [traveled] > <== < [meeting] with PERSON >
+< PERSON be [expected] > <== < [visit] >
+< [flush] out them > <== < [securing] light >
+< PERSON [retired] > <== < [helping] >
+< PERSON [died] > <== < [fight] >
+< [qualifying] standings > <== < [matches] >
+< [signed] agreement > <== < [war] >
+< [signed] PERSON > <== < [losing] PERSON >
+< PERSON be [bludgeoned] > <== < [presenting] report >
+< PERSON be [held] > ==> < [freed] >
+< [fled] violence > <== < [invasion] of LOCATION >
+< [lead] 1-0 > <== < [winning] match >
+< average [closed] > <== < [falling] points >
+< PERSON [spent] > <== < [convicted] >
+< PERSON [start] > <== < [posting] time >
+< PERSON be [arrested] > <== < [failing] test >
+< PERSON be [signed] > <== < [released] >
+< [caught] fire > <== < [landing] in LOCATION >
+< PERSON [disappeared] > <== < [leaving] apartment >
+< [rose] cents > <== < [reaching] high >
+< [fled] LOCATION > <== < [accused] >
+< [joined] war > <== < [attacks] on LOCATION >
+< PERSON [arrived] > <== < [attending] conference >
+< [found] body > <== < [search] >
+< PERSON be [suspended] > <== < [accused] >
+< [made] it > ==> < [losing] to LOCATION >
+< [fired] PERSON > <== < [start] >
+< [issued] > <== < [meeting] of committee >
+< security be [tightened] > <== < [attacks] >
+< [received] message > ==> < [crash] >
+< LOCATION be [divided] > <== < [coup] in LOCATION >
+< [study] ruling > ==> < [deciding] to appeal >
+< [made] remarks > <== < [meeting] with ORGANIZATION >
+< market [consolidated] > <== < [gains] >
+< PERSON [died] > <== < [fighting] cancer >
+< [stopped] mining > <== < [extracting] gold >
+< PERSON [advanced] > ==> < [losing] to PERSON >
+< [met] PERSON > <== < [arriving] >
+< PERSON [moved] > <== < [marriage] >
+< PERSON be [jailed] > <== < [arrest] >
+< [regained] independence > <== < [collapse] of LOCATION >
+< PERSON [lied] > <== < [arrest] >
+< PERSON [advanced] > <== < [victory] over PERSON >
+< [declared] cease-fire > <== < [capture] of leader >
+< PERSON [retiring] > <== < [seasons] >
+< ORGANIZATION [moved] > <== < [win] >
+< prices [opened] > <== < [gains] >
+< [brought] in > <== < [scandal] >
+< [launched] operation > <== < [attack] >
+< PERSON be [buried] > <== < [ceremony] >
+< body be [found] > <== < [kidnapping] >
+< [joined] ORGANIZATION > <== < [spending] seasons >
+< PERSON [retire] > <== < [elections] >
+< [made] landing > <== < [developing] problem >
+< [wounding] others > ==> < [killing] himself >
+< [made] remarks > <== < [meeting] with leaders >
+< PERSON be [released] > <== < [detained] for days >
+< PERSON be [shot] > ==> < [elections] >
+< PERSON [died] > <== < [hit] in chest >
+< it [split] > <== < [war] >
+< PERSON be [arrested] > <== < [shootings] >
+< PERSON [returned] > <== < [serving] years >
+< [earnings] of euros > ==> < [depreciation] >
+< PERSON be [sworn] in > <== < [winning] elections >
+< dollar [moved] > <== < [quoted] at a.m. >
+< [left] LOCATION > <== < [attending] summit >
+< PERSON be [held] > <== < [captured] in LOCATION >
+< PERSON [returned] > <== < [games] >
+< PERSON [leave] > <== < [visit] to LOCATION >
+< [miss] rest > <== < [surgery] >
+< soldier [died] > <== < [wounded] >
+< [conference] in LOCATION > <== < [meeting] with PERSON >
+< PERSON [retire] > <== < [finals] >
+< [visited] LOCATION > ==> < [traveling] to LOCATION >
+< PERSON [struggled] > ==> < [beating] PERSON >
+< PERSON be [found] > <== < [shooting] >
+< man [died] > <== < [struck] >
+< [standings] at Games > <== < [events] >
+< law be [imposed] > <== < [coup] >
+< [left] LOCATION > <== < [mission] >
+< [developed] symptoms > <== < [returning] from LOCATION >
+< prices [closed] > <== < [trading] >
+< PERSON be [suspended] > <== < [testing] for ephedrine >
+< [made] announcement > <== < [meeting] between PERSON >
+< [retreat] > ==> < [band] of assassins >
+< PERSON [returning] > <== < [injury] >
+< PERSON [returned] > <== < [learning] >
+< PERSON [resigned] > <== < [accusations] >
+< ORGANIZATION [looked] > <== < [break] >
+< PERSON be [freed] > <== < [questioning] >
+< PERSON be [convicted] > <== < [trial] in LOCATION >
+< [issued] statement > <== < [session] >
+< statement be [released] > <== < [meeting] >
+< PERSON be [shot] > <== < [attempt] >
+< [made] return > <== < [missing] games >
+< people [died] > <== < [hit] >
+< [rose] points > <== < [hitting] high >
+< PERSON [arrived] > <== < [release] >
+< [blew] up themselves > <== < [bombings] >
+< [fled] country > <== < [receiving] threats >
+< [put] letters > <== < [names] >
+< PERSON [stepped] down > <== < [serving] terms >
+< troops [fled] > <== < [losing] war >
+< PERSON [travel] > ==> < [returning] >
+< [fled] province > <== < [losing] war >
+< [miss] rest > <== < [tearing] ligaments >
+< fire [broke] out > <== < [blast] >
+< [arrested] PERSON > <== < [receiving] tip >
+< PERSON [concluded] > <== < [consideration] >
+< PERSON [retired] > <== < [winning] titles >
+< PERSON [consult] > ==> < [deciding] >
+< PERSON [died] > <== < [suffering] seizure >
+< PERSON be [elected] > <== < [defeating] PERSON >
+< LOCATION [broke] > <== < [war] in 1992 >
+< [hold] talks > ==> < [leaving] >
+< PERSON [retire] > <== < [series] >
+< PERSON [returned] > <== < [graduating] >
+< PERSON be [cleared] > <== < [investigation] >
+< [standings] > <== < [games] in round >
+< [changed] name > <== < [converting] to ORGANIZATION >
+< PERSON be [freed] > <== < [negotiations] >
+< [made] remarks > <== < [chairing] meeting >
+< mother [died] > <== < [battle] with cancer >
+< PERSON be [sentenced] > <== < [arrest] >
+< [claimed] victory > <== < [election] >
+< PERSON be [accused] > <== < [arrest] >
+< PERSON be [stripped] > <== < [testing] for stimulant >
+< PERSON [fled] > <== < [revolt] >
+< PERSON [fled] > <== < [bombing] >
+< [standings] of league > <== < [competition] >
+< PERSON [testified] > ==> < [inquiry] >
+< men be [arrested] > <== < [attacks] >
+< PERSON [returned] > <== < [having] >
+< PERSON be [hospitalized] > <== < [attempt] >
+< ORGANIZATION [advanced] > <== < [beating] ORGANIZATION >
+< PERSON [resign] > ==> < [election] >
+< [leaves] office > <== < [term] >
+< [made] remarks > <== < [meeting] with delegation >
+< [leave] > <== < [meeting] with PERSON >
+< [met] PERSON > ==> < [leaving] for LOCATION >
+< PERSON [arrived] > <== < [visit] in LOCATION >
+< PERSON [stop] > ==> < [returning] to LOCATION >
+< PERSON be [traded] > <== < [seasons] >
+< PERSON [died] > <== < [life] >
+< LOCATION [broke] > <== < [collapse] of LOCATION >
+< PERSON [landed] > <== < [flight] >
+< government [retreated] > <== < [losing] war >
+< [chanted] slogans > ==> < [dispersing] >
+< PERSON [advanced] > <== < [win] over PERSON >
+< PERSON be [forced] > <== < [admitting] >
+< PERSON [returned] > <== < [earning] degree >
+< PERSON be [fired] > <== < [accused] >
+< [retained] jersey > <== < [stage] >
+< PERSON [passed] > <== < [illness] >
+< [put] club > ==> < [country] >
+< shares [closed] > <== < [losses] >
+< [miss] rest > <== < [breaking] leg >
+< PERSON [agreed] > <== < [negotiations] >
+< PERSON [appear] > ==> < [hearing] >
+< [rose] points > <== < [rising] points >
+< [visiting] PERSON > <== < [meeting] >
+< [answered] questions > <== < [speech] >
+< PERSON [passed] > <== < [battle] with cancer >
+< LOCATION be [sliced] > <== < [attempt] against PERSON >
+< extremists [fled] > <== < [genocide] >
+< [hit] low > ==> < [rebounding] >
+< PERSON be [sidelined] > <== < [undergoing] operation >
+< PERSON be [suspended] > <== < [failing] tests >
+< PERSON [resigned] > <== < [meeting] >
+< airport be [closed] > <== < [accident] >
+< [sentenced] men > <== < [convicting] them >
+< [clean] up politics > ==> < [reinstating] democracy >
+< whales [died] > <== < [beaching] themselves >
+< PERSON [flew] > <== < [meeting] in LOCATION >
+< PERSON [arrive] > <== < [visit] to LOCATION >
+< [made] decision > <== < [meeting] in LOCATION >
+< jury [deliberated] > ==> < [deciding] >
+< people [died] > <== < [eating] meat >
+< [ran] LOCATION > <== < [invasion] >
+< [fled] LOCATION > <== < [takeover] >
+< people [died] > <== < [accident] >
+< [miss] rest > <== < [tearing] ligament >
+< PERSON [died] > <== < [bout] with pneumonia >
+< [cleared] deal > <== < [identifying] problems >
+< PERSON [retired] > <== < [winning] medal >
+< [released] > <== < [held] hostage >
+< PERSON [arrived] > <== < [attending] ceremony >
+< PERSON be [banned] > <== < [testing] for steroid >
+< [fled] LOCATION > <== < [receiving] threats >
+< [led] ORGANIZATION > ==> < [moving] to ORGANIZATION >
+< PERSON be [released] > <== < [spending] days >
+< PERSON be [released] > <== < [spending] >
+< [adopted] > <== < [attacks] on LOCATION >
+< [made] remarks > <== < [accompanying] PERSON >
+< PERSON [resigned] > <== < [meeting] with PERSON >
+< PERSON be [stripped] > <== < [test] >
+< [made] remarks > <== < [meeting] with al-Shara >
+< PERSON be [appointed] > <== < [death] of PERSON >
+< PERSON [retired] > <== < [match] >
+< PERSON [resigned] > <== < [campaign] >
+< PERSON be [sent] > <== < [incident] >
+< PERSON [played] > ==> < [returning] to LOCATION >
+< PERSON [left] > <== < [speech] >
+< PERSON [recovered] > <== < [surgery] >
+< [held] hostage > ==> < [surrendering] to police >
+< body be [found] > <== < [abduction] >
+< PERSON [moved] > <== < [defeating] PERSON >
+< [leave] LOCATION > <== < [meeting] with PERSON >
+< mother [died] > <== < [birth] >
+< silence be [held] > ==> < [match] >
+< PERSON be [discharged] > <== < [operation] >
+< PERSON [retiring] > <== < [tournament] >
+< people [disappeared] > <== < [arrested] >
+< PERSON [appeared] > <== < [meeting] >
+< leg be [amputated] > <== < [accident] >
+< PERSON be [arrested] > <== < [crime] >
+< [visit] > <== < [trip] to LOCATION >
+< PERSON be [released] > <== < [receiving] treatment >
+< PERSON [moved] > ==> < [joining] ORGANIZATION >
+< [miss] games > ==> < [break] >
+< [saved] points > ==> < [defeating] PERSON >
+< [appear] to explain > ==> < [parliament] >
+< PERSON be [interrogated] > ==> < [released] >
+< [attended] ORGANIZATION > <== < [graduating] from school >
+< soldier [died] > <== < [attack] >
+< [introduced] > <== < [attacks] on LOCATION >
+< PERSON be [fired] > <== < [start] to season >
+< PERSON [retired] > <== < [victory] >
+< PERSON be [sent] off > <== < [tackle] on PERSON >
+< [made] remarks > ==> < [leaving] LOCATION >
+< [held] title > ==> < [losing] it >
+< [trapped] leg > ==> < [wicket] >
+< [seek] approval > ==> < [sending] troops >
+< [given] drugs > ==> < [having] sex >
+< PERSON [passed] away > <== < [illness] >
+< [leave] office > <== < [terms] >
+< [standings] > <== < [matches] in league >
+< PERSON [finished] > <== < [jumps] of meters >
+< [left] ORGANIZATION > <== < [career] >
+< gunmen [escaped] > <== < [attack] >
+< [issued] statement > <== < [attack] >
+< ORGANIZATION [moved] > <== < [victory] over ORGANIZATION >
+< PERSON [headed] > <== < [visit] to LOCATION >
+< PERSON be [ruled] > <== < [picking] up injury >
+< PERSON [turned] > <== < [career] >
+< PERSON [worked] > ==> < [joining] staff >
+< [conference] > <== < [meeting] of ORGANIZATION >
+< PERSON be [freed] > <== < [serving] third >
+< [held] talks > ==> < [leaving] for LOCATION >
+< [fled] country > <== < [accused] >
+< [visit] LOCATION > ==> < [flying] on DATE >
+< PERSON [returned] > <== < [missing] days >
+< [raping] girl > <== < [plying] her >
+< drive [continued] > <== < [ouster] >
+< PERSON [warmed] up > ==> < [game] >
+< PERSON be [quoted] > <== < [meeting] in LOCATION >
+< PERSON [died] > <== < [admitted] >
+< [conference] in LOCATION > <== < [summit] >
+< [imposed] sanctions > <== < [tests] >
+< trial [resumes] > <== < [break] >
+< [standings] of ORGANIZATION > <== < [games] >
+< PERSON be [sent] > <== < [arrest] >
+< [reached] round > ==> < [losing] to PERSON >
+< [leaving] ORGANIZATION > <== < [seasons] >
+< [lost] control > <== < [war] >
+< PERSON [scored] > <== < [collecting] pass >
+< economy [contract] > ==> < [returning] to growth >
+< PERSON [struggled] > <== < [start] >
+< [opened] scoring > <== < [receiving] pass >
+< slump [started] > <== < [experienced] white-hot >
+< [advanced] PERSON > <== < [beating] PERSON >
+< [standings] > <== < [matches] at finals >
+< [statement] > <== < [meeting] of board >
+< PERSON [start] > <== < [finishing] >
+< PERSON be [suspended] > <== < [testing] for stimulant >
+< PERSON [concluded] > <== < [analysis] >
+< PERSON [felt] > <== < [learning] >
+< [introduced] in LOCATION > <== < [attacks] >
+< PERSON [surrendered] > <== < [manhunt] >
+< [missed] months > <== < [surgery] >
+< two [split] > <== < [war] >
+< LOCATION [looks] > <== < [interests] in LOCATION >
+< PERSON [moved] > <== < [beating] PERSON >
+< PERSON [returned] > <== < [holding] talks >
+< [won] independence > <== < [struggle] >
+< index [closed] > <== < [increase] >
+< [signed] contract > <== < [released] >
+< PERSON [headed] > <== < [meeting] >
+< LOCATION [elected] > <== < [winning] toss >
+< PERSON be [transferred] > <== < [arrest] >
+< [war] > <== < [attacks] on LOCATION >
+< rig [sank] > <== < [explosion] >
+< PERSON [led] > <== < [jump] >
+< PERSON [returned] > <== < [serving] in LOCATION >
+< ORGANIZATION be [established] > <== < [war] >
+< wife [died] > <== < [battle] with cancer >
+< PERSON be [disqualified] > <== < [crossing] line >
+< PERSON [returned] > <== < [spending] in hospital >
+< PERSON [felt] > <== < [surgery] >
+< PERSON [walked] > <== < [serving] years >
+< PERSON be [hired] > <== < [search] >
+< LOCATION [moved] > <== < [win] over ORGANIZATION >
+< [left] hospital > <== < [operation] >
+< PERSON [stepped] down > <== < [term] >
+< ORGANIZATION [flew] > <== < [game] >
+< PERSON [moved] > <== < [release] >
+< PERSON [dropped] > ==> < [primary] >
+< PERSON be [listed] > <== < [surgery] >
+< PERSON be [freed] > <== < [posting] bond >
+< [left] game > <== < [pitches] >
+< PERSON be [scheduled] > <== < [meeting] >
+< [released] them > <== < [questioning] >
+< [gained] pence > <== < [results] >
+< [sold] marks > <== < [selling] marks >
+< [spent] seasons > ==> < [signing] with ORGANIZATION >
+< [left] LOCATION > <== < [murder] >
+< PERSON [left] > <== < [giving] up hits >
+< [sworn] in > ==> < [parliament] >
+< index [closed] > <== < [trading] >
+< [gained] independence > <== < [referendum] >
+< suspects be [released] > <== < [questioning] >
+< PERSON be [charged] > <== < [incident] >
+< PERSON [left] > <== < [ceremony] >
+< PERSON [played] > ==> < [traded] to LOCATION >
+< PERSON be [fired] > <== < [leading] ORGANIZATION >
+< [lift] quotas > ==> < [scrapping] them >
+< PERSON be [dismissed] > <== < [seasons] >
+< [hold] conference > ==> < [returning] to LOCATION >
+< PERSON [travel] > <== < [wrapping] up visit >
+< [assess] progress > ==> < [deciding] to open >
+< PERSON [enlisted] > <== < [school] >
+< PERSON be [detained] > <== < [attack] >
+< [pulled] staff > <== < [spate] of attacks >
+< PERSON [withdrew] > <== < [failing] to recover >
+< [passed] law > <== < [attacks] on LOCATION >
+< prices [rebounded] > <== < [sessions] of declines >
+< [hit] high > ==> < [closing] at dollars >
+< [made] landing > <== < [developing] trouble >
+< people [died] > <== < [consuming] liquor >
+< [joined] ORGANIZATION > ==> < [moving] to ORGANIZATION >
+< PERSON be [found] > <== < [search] >
+< PERSON be [re-elected] > <== < [campaign] >
+< PERSON [played] > ==> < [joining] PERSON >
+< [hit] high > ==> < [falling] >
+< [limped] off field > ==> < [stretchered] away in tears >
+< [fled] LOCATION > <== < [attack] >
+< PERSON [led] > <== < [stage] >
+< man be [sentenced] > <== < [convicted] >
+< man be [arrested] > <== < [blast] >
+< [statement] > <== < [meeting] of ORGANIZATION >
+< [fled] area > <== < [attack] >
+< PERSON [resigned] > <== < [incident] >
+< [resume] talks > <== < [elections] >
+< [play] role > <== < [war] >
+< [made] name > ==> < [joining] ORGANIZATION >
+< PERSON [worked] > <== < [graduating] in LOCATION >
+< [filed] complaint > <== < [incident] >
+< [record] > <== < [games] in history >
+< [resume] talks > <== < [election] >
+< [returned] tons > <== < [war] >
+< [opened] fire > ==> < [escaping] >
+< PERSON [served] > ==> < [elected] to ORGANIZATION >
+< PERSON [working] > ==> < [death] >
+< PERSON [retire] > <== < [seasons] >
+< PERSON [admitted] > <== < [win] >
+< PERSON [spent] > <== < [college] >
+< [leading] scorers > <== < [match] >
+< PERSON be [rushed] > <== < [suffering] attack >
+< [received] sentence > <== < [found] >
+< PERSON [returns] > <== < [serving] suspension >
+< PERSON [died] > <== < [transplant] >
+< [hit] high > ==> < [retreating] >
+< PERSON [wait] > ==> < [commenting] >
+< [seized] island > <== < [battle] >
+< [standings] of first-division > <== < [matches] >
+< PERSON be [arrested] > <== < [entering] country >
+< [visit] LOCATION > ==> < [traveling] >
+< PERSON be [ruled] out > <== < [undergoing] surgery >
+< [imposed] sanctions > <== < [coup] >
+< PERSON [met] > ==> < [traveling] to LOCATION >
+< region [broke] > <== < [war] >
+< [rested] case > <== < [testimony] >
+< PERSON [died] > <== < [shot] in LOCATION >
+< [standings] of soccer > <== < [match] >
+< [made] ruling > <== < [hearing] >
+< PERSON [moved] > <== < [marrying] PERSON >
+< PERSON be [found] > <== < [committing] suicide >
+< closure be [imposed] > <== < [bombing] >
+< PERSON [signed] > <== < [seasons] with ORGANIZATION >
+< LOCATION be [suspended] > <== < [execution] of activists >
+< PERSON be [detained] > <== < [arriving] from LOCATION >
+< PERSON be [sacked] > <== < [start] to season >
+< PERSON be [released] > <== < [incident] >
+< PERSON [died] > <== < [struggle] with disease >
+< PERSON [finished] > <== < [closing] >
+< PERSON [fled] > <== < [murder] >
+< LOCATION [shifted] > <== < [regaining] independence >
+< [killed] himself > <== < [named] as source >
+< [made] remark > <== < [meeting] PERSON >
+< woman [died] > <== < [admitted] to hospital >
+< PERSON [returned] > <== < [released] >
+< PERSON [recovered] > <== < [treatment] >
+< youths [left] > <== < [seeking] asylum >
+< PERSON be [arrested] > <== < [confessing] >
+< PERSON [died] > <== < [failing] to recover >
+< PERSON be [suspended] > <== < [shooting] >
+< [sold] copies > <== < [release] >
+< PERSON be [held] > ==> < [killed] >
+< [signed] pact > <== < [war] >
+< [expressed] satisfaction > <== < [meeting] >
+< [$] > <== < [gain] of cents >
+< [re-entering] LOCATION > <== < [deported] >
+< PERSON be [quoted] > <== < [meeting] PERSON >
+< PERSON be [hospitalized] > <== < [crash] >
+< PERSON be [released] > <== < [serving] year >
+< [results] > <== < [stage] of Rally >
+< student [died] > <== < [hit] >
+< [reached] high > ==> < [settling] in LOCATION >
+< [joined] ORGANIZATION > <== < [earning] degree >
+< trading [resumed] > <== < [break] >
+< [formed] > <== < [invasion] of LOCATION >
+< [formed] militia > <== < [war] >
+< [visited] LOCATION > ==> < [tour] >
+< PERSON be [arrested] > <== < [hunt] >
+< shares [closed] > <== < [rally] >
+< [left] LOCATION > <== < [ending] visit >
+< PERSON [met] > ==> < [joined] >
+< PERSON [returned] > <== < [receiving] assurances >
+< [issued] statement > <== < [death] >
+< [play] LOCATION > ==> < [meeting] LOCATION >
+< gunman [fled] > <== < [shooting] >
+< PERSON be [extradited] > <== < [serving] years >
+< [left] LOCATION > <== < [occupation] >
+< results be [expected] > ==> < [morning] >
+< [visiting] LOCATION > <== < [watching] >
+< people be [arrested] > <== < [incident] >
+< [rose] cents > <== < [reporting] >
+< PERSON be [recalled] > <== < [recovering] from injury >
+< [married] PERSON > <== < [marriage] >
+< PERSON be [suspended] > <== < [testing] for marijuana >
+< [signed] contract > <== < [reaching] agreement >
+< PERSON be [released] > <== < [agreeing] to testify >
+< PERSON [wrote] > <== < [visit] >
+< rocket [exploded] > <== < [launch] >
+< PERSON [arrived] > <== < [touring] LOCATION >
+< [standings] > <== < [match] in tournament >
+< [left] LOCATION > <== < [visit] to kingdom >
+< PERSON [died] > <== < [struggle] >
+< [fined] pounds > <== < [found] >
+< [issued] > <== < [meeting] in capital >
+< [sentenced] people > <== < [convicting] them >
+< PERSON [stepped] down > <== < [admitting] >
+< [launched] campaign > ==> < [vote] >
+< [joins] LOCATION > ==> < [settlement] >
+< prices [closed] > <== < [trading] in range >
+< [miss] rest > <== < [injuring] knee >
+< [fled] country > <== < [elections] >
+< PERSON be [arrested] > <== < [murder] of PERSON >
+< [began] selling > <== < [discontinuing] bonds >
+< PERSON [pulled] out > ==> < [match] >
+< [visit] LOCATION > <== < [meeting] in LOCATION >
+< PERSON [drinking] > ==> < [accident] >
+< forces [pulled] > <== < [war] >
+< [left] LOCATION > <== < [wrapping] up visit >
+< PERSON [withdrew] > <== < [losing] set >
+< PERSON [fly] > ==> < [returning] to LOCATION >
+< PERSON be [arrested] > <== < [crossing] from LOCATION >
+< [fought] war > ==> < [winning] elections >
+< [rose] points > <== < [moving] on turnover >
+< [leave] country > <== < [accusing] him >
+< [killed] teacher > ==> < [committing] suicide >
+< ORGANIZATION [sank] > <== < [colliding] in fog >
+< body be [found] > <== < [attack] >
+< [rose] cents > <== < [falling] cents >
+< [send] check > <== < [receiving] copy >
+< PERSON [spent] > ==> < [traveling] to LOCATION >
+< [won] four > <== < [start] >
+< investors [locked] > <== < [rally] >
+< PERSON [recovering] > <== < [treatment] >
+< PERSON [returns] > <== < [missing] game >
+< PERSON [lived] > <== < [fleeing] LOCATION >
+< PERSON be [sidelined] > <== < [tearing] ligaments >
+< PERSON [retire] > <== < [career] >
+< [play] > <== < [recovering] from injury >
+< [won] gold > <== < [beating] PERSON >
+< [suspended] imports > <== < [outbreak] of flu >
+< [upped] tempo > <== < [break] >
+< [seized] power > <== < [driving] out forces >
+< [suspended] participation > <== < [accusing] government >
+< PERSON be [sentenced] > <== < [conviction] on charges >
+< [miss] rest > <== < [suffering] injury >
+< PERSON [worked] > ==> < [leaving] to take >
+< competency be [evaluated] > ==> < [trial] >
+< [issued] ruling > <== < [hearing] >
+< [joined] ORGANIZATION > <== < [playing] seasons >
+< decision be [made] > <== < [meeting] between PERSON >
+< dollar [moved] > <== < [quoted] in trading >
+< soldier be [sentenced] > <== < [pleading] >
+< [hold] balance > <== < [election] >
+< man be [released] > <== < [questioning] >
+< PERSON [married] > <== < [war] >
+< PERSON [returned] > <== < [absence] of years >
+< [qualifying] tables > <== < [matches] >
+< PERSON be [suspended] > <== < [testing] for steroid >
+< PERSON be [suspended] > <== < [pleading] contest >
+< PERSON [remained] > <== < [surgery] >
+< [launched] campaign > <== < [attacks] >
+< [keep] peace > <== < [war] >
+< [led] tallies > <== < [election] >
+< men be [arrested] > <== < [investigation] >
+< soldier [died] > <== < [struck] >
+< [hold] talks > ==> < [leaving] LOCATION >
+< [started] career > ==> < [moving] to ORGANIZATION >
+< PERSON [arrived] > <== < [fleeing] LOCATION >
+< PERSON [died] > <== < [having] >
+< PERSON [signed] > <== < [playing] season >
+< PERSON [returned] > <== < [spending] most >
+< PERSON be [killed] > ==> < [attacks] in LOCATION >
+< [replaced] PERSON > <== < [break] >
+< PERSON be [caught] > <== < [hitting] fours >
+< [charged] mound > <== < [hit] >
+< PERSON [step] down > <== < [tournament] >
+< suspects be [held] > ==> < [released] >
+< PERSON be [suspended] > <== < [picking] up cards >
+< PERSON be [executed] > <== < [found] >
+< [sent] troops > <== < [attacks] >
+< [restore] peace > <== < [war] >
+< [joined] ORGANIZATION > <== < [working] at ORGANIZATION >
+< PERSON [returned] > <== < [having] surgery >
+< aircraft [crashed] > <== < [hit] >
+< [warming] up > ==> < [game] >
+< PERSON [sailed] > <== < [beating] PERSON >
+< [seized] control > <== < [battle] >
+< PERSON [fled] > <== < [accident] >
+< PERSON be [pulled] > <== < [pitches] >
+< PERSON [stepping] down > <== < [serving] terms >
+< PERSON [returned] > <== < [missing] most >
+< PERSON be [fired] > <== < [defeat] >
+< boy [died] > <== < [hit] >
+< [missed] games > ==> < [returning] >
+< PERSON [struggled] > ==> < [defeating] PERSON >
+< PERSON [returned] > <== < [undergoing] treatment >
+< [enacted] > <== < [attacks] on LOCATION >
+< PERSON [returned] > <== < [absence] of months >
+< [launched] war > <== < [attacks] >
+< PERSON be [sent] off > <== < [picking] up card >
+< PERSON be [deported] > <== < [conviction] >
+< PERSON be [disappointed] > <== < [game] >
+< PERSON [resigned] > <== < [losing] struggle >
+< [standings] of division > <== < [match] >
+< [arrested] people > <== < [investigation] >
+< PERSON [signed] > <== < [playing] seasons >
+< [boost] popularity > ==> < [election] >
+< [answering] questions > <== < [delivering] speech >
+< PERSON [resigned] > <== < [losing] election >
+< [imposed] > <== < [invasion] of emirate >
+< [found] guilty > <== < [deliberating] for hours >
+< PERSON be [detained] > <== < [crossing] border >
+< PERSON be [sworn] in > <== < [winning] election >
+< NUMBER [died] > <== < [illness] >
+< PERSON be [fired] > <== < [guiding] LOCATION >
+< team [qualified] > <== < [beating] LOCATION >
+< PERSON be [held] > ==> < [released] on bail >
+< [earnings] of dollars > ==> < [depreciation] >
+< [committed] suicide > <== < [shooting] >
+< [made] remarks > <== < [visiting] PERSON >
+< PERSON [returned] > <== < [treatment] in LOCATION >
+< PERSON be [sent] > <== < [release] >
+< PERSON be [released] > <== < [spending] hours >
+< [faces] ban > <== < [failing] test >
+< jury [deliberated] > ==> < [delivering] verdict >
+< PERSON be [released] > <== < [negotiations] >
+< PERSON be [sidelined] > <== < [tearing] muscle >
+< PERSON be [hospitalized] > <== < [suffering] >
+< PERSON [appeared] > ==> < [council] >
+< [statement] > <== < [meeting] of officials >
+< PERSON be [killed] > <== < [attempt] >
+< [spend] months > <== < [convicted] over incident >
+< delegation [arrived] > <== < [visiting] LOCATION >
+< [miss] > <== < [undergoing] surgery >
+< PERSON be [ruled] out > <== < [sustaining] injury >
+< [wounding] others > ==> < [committing] suicide >
+< agreement be [signed] > <== < [meeting] >
+< PERSON [decided] > <== < [deliberation] >
+< [received] sentence > <== < [convicted] >
+< PERSON [fled] > <== < [killings] >
+< [shot] officer > ==> < [turning] gun >
+< [adopted] > <== < [attacks] in LOCATION >
+< [face] LOCATION > ==> < [hosting] LOCATION >
+< PERSON [returned] > <== < [meeting] PERSON >
+< PERSON be [sent] off > <== < [challenge] on PERSON >
+< PERSON [lived] > <== < [release] >
+< [standings] in J-League > <== < [games] >
+< PERSON [died] > <== < [beating] >
+< PERSON [decided] > <== < [discussion] >
+< PERSON [steps] down > <== < [term] >
+< flights be [grounded] > <== < [attacks] >
+< PERSON be [flown] > <== < [accident] >
+< [withdrew] forces > <== < [occupation] >
+< PERSON be [stripped] > <== < [testing] for testosterone >
+< PERSON [stepping] down > <== < [terms] in office >
+< PERSON [arrived] > <== < [stop] >
+< moment be [observed] > ==> < [game] >
+< PERSON [arrived] > <== < [tour] to LOCATION >
+< PERSON be [arrested] > <== < [indicted] in LOCATION >
+< PERSON [fled] > <== < [accused] >
+< [stormed] island > <== < [killings] >
+< body be [discovered] > <== < [search] >
+< [played] minutes > ==> < [replaced] >
+< [play] LOCATION > <== < [beating] LOCATION >
+< markets [rose] > <== < [gains] in LOCATION >
+< researchers [found] > <== < [adjusting] for factors >
+< [arrested] PERSON > <== < [attack] >
+< [deliberated] hours > ==> < [deciding] >
+< PERSON be [deported] > <== < [release] >
+< PERSON [scored] > <== < [replacing] PERSON >
+< ORGANIZATION [standings] > <== < [stages] >
+< PERSON be [arrested] > <== < [assassination] >
+< PERSON be [shot] > <== < [rally] in LOCATION >
+< driver [escaped] > <== < [accident] >
+< PERSON be [sidelined] > <== < [spraining] ankle >
+< [visit] LOCATION > ==> < [heading] for LOCATION >
+< [play] PERSON > <== < [win] over PERSON >
+< PERSON be [scheduled] > ==> < [heading] to LOCATION >
+< PERSON be [forced] > <== < [accused] >
+< [regrouped] > <== < [defeated] in provinces >
+< [committed] suicide > <== < [identified] as source >
+< PERSON be [sent] > <== < [training] >
+< PERSON be [discharged] > <== < [receiving] treatment >
+< [threatened] attacks > ==> < [election] >
+< PERSON [decided] > <== < [discussions] >
+< Notes [returned] > <== < [missing] games >
+< PERSON [resigned] > <== < [indictment] >
+< [rejoined] ORGANIZATION > <== < [absence] >
+< [adopted] in 2006 > <== < [test] >
+< PERSON [died] > <== < [injured] >
+< [won] two > <== < [losing] four >
+< PERSON [returned] > <== < [concluding] visits >
+< [lost] job > <== < [games] >
+< PERSON be [named] > <== < [death] of PERSON >
+< PERSON [see] > <== < [games] >
+< [evaluate] implications > ==> < [deciding] to travel >
+< [underwent] angioplasty > <== < [suffering] attack >
+< ORGANIZATION [closed] > <== < [reporting] >
+< PERSON [arrived] > ==> < [match] >
+< PERSON be [rushed] > <== < [attack] >
+< PERSON [step] down > <== < [serving] terms >
+< PERSON [resigned] > <== < [failure] >
+< PERSON [retire] > <== < [test] against LOCATION >
+< people [died] > <== < [suffering] symptoms >
+< [held] talks > ==> < [traveling] to LOCATION >
+< [seized] power > <== < [crushing] uprising >
+< PERSON [leave] > <== < [elections] >
+< [released] > <== < [serving] sentence >
+< assailants [fled] > <== < [shooting] >
+< PERSON [died] > <== < [marriage] >
+< PERSON be [arrested] > <== < [alleging] >
+< [sent] in troops > <== < [coup] by supporters >
+< [approved] that > <== < [attacks] >
+< dollar [closed] > <== < [trading] in range >
+< PERSON [slipped] > <== < [finishing] >
+< [missed] games > ==> < [returning] to lineup >
+< [reached] season > ==> < [losing] to LOCATION >
+< PERSON [scored] > <== < [corner] >
+< PERSON [returned] > <== < [cutting] visit >
+< PERSON be [released] > <== < [spending] in custody >
+< PERSON [withdrew] > <== < [missing] test >
+< PERSON be [extended] > ==> < [beating] PERSON >
+< [hit] low > ==> < [recovering] >
+< [joined] ORGANIZATION > <== < [graduating] in LOCATION >
+< LOCATION be [sentenced] > <== < [pleading] >
+< PERSON [found] > <== < [controlling] for factors >
+< PERSON [received] > ==> < [attacks] >
+< PERSON [withdrawn] > <== < [failing] to recover >
+< PERSON be [banned] > <== < [testing] for ephedrine >
+< [made] announcement > <== < [meeting] with representatives >
+< PERSON [fled] > <== < [attempt] >
+< helicopter [crashed] > <== < [hit] >
+< [severed] in DATE > <== < [attack] on parliament >
+< PERSON be [named] > <== < [elections] >
+< prices [closed] > <== < [falls] >
+< driver [fled] > <== < [crash] >
+< results be [released] > <== < [vote] >
+< PERSON be [detained] > <== < [incident] >
+< decision be [made] > <== < [review] >
+< [make] comeback > <== < [absence] >
+< [suffered] loss > <== < [wins] >
+< country be [split] > <== < [war] >
+< PERSON [died] > <== < [battling] disease >
+< [war] > <== < [attacks] in LOCATION >
+< [began] investigating > <== < [receiving] tip >
+< PERSON be [murdered] > ==> < [election] >
+< [standings] of Tour > <== < [stage] >
+< [shot] people > ==> < [committing] suicide >
+< [made] landing > <== < [hit] >
+< [spent] hours > ==> < [rescued] >
+< [earned] degree > <== < [war] >
+< practice [flew] > <== < [crackdown] >
+< [standings] of ORGANIZATION > <== < [matches] >
+< PERSON be [brought] > <== < [arrest] >
+< [imposed] > <== < [series] of bombings >
+< PERSON [flew] > <== < [attending] summit >
+< issue [settled] > <== < [repatriating] victims >
+< [hold] talks > ==> < [flying] on DATE >
+< [open] campaign > ==> < [playing] LOCATION >
+< [standings] > <== < [stage] of ORGANIZATION >
+< [boost] popularity > ==> < [elections] >
+< PERSON be [pronounced] > <== < [rushed] to hospital >
+< PERSON [returned] > <== < [missing] >
+< [changed] mind > <== < [learning] >
+< PERSON [retired] > <== < [winning] gold >
+< PERSON be [sworn] in > <== < [victory] >
+< [work] > <== < [giving] birth >
+< PERSON [flew] > <== < [stop] in LOCATION >
+< PERSON be [sacked] > <== < [string] of results >
+< [interviewed] PERSON > <== < [arrest] >
+< PERSON [steps] down > <== < [election] >
+< [knew] what > ==> < [attacks] >
+< PERSON be [freed] > <== < [pleading] >
+< [fled] scene > <== < [crash] >
+< PERSON [disappeared] > <== < [arriving] in LOCATION >
+< [agreed] contract > <== < [passing] medical >
+< [cause] of death > <== < [accidents] >
+< [booked] profits > <== < [gains] >
+< it be [found] > <== < [investigation] >
+< body be [recovered] > <== < [accident] >
+< PERSON be [sidelined] > <== < [picking] up injury >
+< PERSON be [named] > <== < [scoring] goals >
+< [pitched] innings > ==> < [giving] way >
+< [committed] suicide > ==> < [trial] >
+< [imposed] in 2006 > <== < [test] >
+< PERSON [served] > ==> < [winning] seat >
+< PERSON [returned] > <== < [missing] defeat >
+< LOCATION [returned] > <== < [visit] to LOCATION >
+< [lead] 1-0 > <== < [winning] opener >
+< PERSON [resign] > <== < [defeat] >
+< PERSON [doing] > <== < [operation] >
+< boat [sank] > <== < [hit] >
+< [picked] up win > <== < [retiring] side >
+< [won] four > <== < [losing] games >
+< [rose] cents > <== < [rising] to record >
+< [sacked] PERSON > <== < [start] to season >
+< PERSON [died] > <== < [struck] in head >
+< PERSON [worked] > ==> < [joining] government >
+< PERSON [died] > <== < [wounded] >
+< PERSON [returned] > <== < [spending] in exile >
+< PERSON be [fired] > <== < [complaining] >
+< [left] LOCATION > <== < [school] >
+< PERSON be [pronounced] > <== < [receiving] injection >
+< [earned] victory > <== < [holding] ORGANIZATION >
+< person [died] > <== < [hit] >
+< [opened] fire > ==> < [fleeing] scene >
+< PERSON [returned] > <== < [sitting] out games >
+< PERSON [returned] > <== < [attending] funeral >
+< bill be [put] > ==> < [parliament] >
+< PERSON [played] > ==> < [retiring] >
+< [made] remark > <== < [meeting] in LOCATION >
+< PERSON be [lived] > ==> < [moving] to LOCATION >
+< PERSON [died] > <== < [arriving] in LOCATION >
+< [hold] talks > ==> < [traveling] to meet >
+< [won] stage > <== < [breakaway] >
+< PERSON be [arrested] > <== < [starting] strike >
+< parties be [banned] > <== < [coup] >
+< PERSON [fought] > <== < [losing] set >
+< [join] government > <== < [elections] >
+< PERSON [died] > <== < [stabbed] times >
+< PERSON be [freed] > <== < [serving] half >
+< Timorese [left] > <== < [seeking] sanctuary >
+< Adua [died] > <== < [illness] >
+< [profit] > <== < [charges] from investments >
+< PERSON [fled] > <== < [rebellion] >
+< [spent] time > ==> < [moving] to LOCATION >
+< PERSON [died] > <== < [bombing] >
+< PERSON [returned] > <== < [attempt] >
+< [face] PERSON > <== < [beating] PERSON >
+< [hold] talks > ==> < [leaving] on DATE >
+< [caught] fire > <== < [accident] >
+< statements be [made] > <== < [meeting] >
+< PERSON be [acquitted] > <== < [trial] in 1995 >
+< [declared] state > <== < [series] of clashes >
+< PERSON [passed] away > <== < [battle] with cancer >
+< PERSON [died] > <== < [spending] in coma >
+< man [died] > <== < [hospitalized] >
+< PERSON be [arrested] > <== < [turning] in himself >
+< [won] tournament > <== < [beating] PERSON >
+< PERSON [traveled] > ==> < [settling] in LOCATION >
+< volume [increased] > <== < [netting] out effect >
+< PERSON [returned] > <== < [defeat] >
+< negotiations [resumed] > <== < [break] >
+< PERSON be [held] > ==> < [transferred] to LOCATION >
+< ORGANIZATION [returns] > <== < [absence] >
+< bourse [fluctuated] > ==> < [closing] >
+< [missed] all > <== < [having] surgery >
+< PERSON be [hanged] > <== < [convicted] >
+< PERSON [flew] > <== < [holding] talks >
+< [passed] > <== < [attacks] of DATE >
+< PERSON [remained] > <== < [war] >
+< prices [closed] > <== < [rally] on Street >
+< [married] PERSON > <== < [divorce] from PERSON >
+< body be [found] > <== < [accident] >
+< [made] statements > <== < [meeting] with PERSON >
+< PERSON be [sidelined] > <== < [having] surgery >
+< PERSON be [returned] > <== < [battle] >
+< [washing] hands > ==> < [eating] >
+< [standings] > <== < [matches] of league >
+< PERSON [travel] > ==> < [heading] to LOCATION >
+< [conference] > <== < [meeting] in LOCATION >
+< [rebuild] country > <== < [ouster] of PERSON >
+< miners be [trapped] > <== < [explosion] in LOCATION >
+< [joined] ORGANIZATION > <== < [working] for ORGANIZATION >
+< bodies be [found] > <== < [attack] by forces >
+< [joined] ORGANIZATION > ==> < [start] of season >
+< PERSON [worked] > ==> < [joining] office >
+< [awarded] account > <== < [review] >
+< minister [resigned] > <== < [admitting] >
+< [broke] off dialogue > <== < [attacks] >
+< [profit] > <== < [paying] dividends >
+< PERSON [died] > <== < [hit] in head >
+< [rocked] country > <== < [elections] >
+< PERSON be [reached] > <== < [comment] >
+< PERSON [played] > <== < [games] >
+< [comment] > ==> < officials be [reached] >
+< PERSON be [charged] > <== < [murder] >
+< [appeals] > ==> < court [ruled] >
+< PERSON be [born] > <== < PERSON be [raised] >
+< PERSON be [sentenced] > <== < [death] >
+< PERSON be [indicted] > <== < [charges] >
+< PERSON be [convicted] > <== < [murder] >
+< [divorce] > <== < marriage [ended] >
+< PERSON be [convicted] > ==> < PERSON be [sentenced] >
+< PERSON be [charged] > <== < [crime] >
+< PERSON be [charged] > <== < [assault] >
+< PERSON be [convicted] > <== < [charges] >
+< PERSON be [shot] > <== < [death] >
+< PERSON be [charged] > <== < [conspiracy] >
+< [injury] > ==> < [missed] games >
+< PERSON be [suspended] > <== < [games] >
+< PERSON [died] > <== < PERSON [lived] >
+< PERSON [pleaded] > <== < [conspiracy] >
+< PERSON [appeared] > <== < [games] >
+< [born] in LOCATION > <== < [raised] >
+< PERSON be [acquitted] > <== < [charges] >
+< PERSON [worked] > <== < [campaign] >
+< PERSON [returned] > <== < [work] >
+< [start] of camp > <== < [training] >
+< PERSON [died] > <== < [failure] >
+< PERSON be [charged] > <== < [crimes] >
+< PERSON [returned] > <== < [practice] >
+< PERSON be [charged] > <== < [felony] >
+< PERSON [pleaded] > <== < [charge] >
+< PERSON [pleaded] > <== < [murder] >
+< PERSON [returned] > <== < [game] >
+< ORGANIZATION be [reached] > <== < [comment] >
+< PERSON be [killed] > <== < [crash] >
+< PERSON be [charged] > <== < [attempted] >
+< PERSON be [sentenced] > <== < [murder] >
+< PERSON be [forced] > <== < [resign] >
+< PERSON [died] > <== < [injuries] >
+< [arrest] > ==> < [issued] warrant >
+< PERSON [pleaded] > <== < [felony] >
+< PERSON be [convicted] > <== < [crime] >
+< PERSON be [scheduled] > <== < [appear] >
+< PERSON be [suspended] > <== < [game] >
+< [comment] > ==> < [returned] calls >
+< [arrest] > ==> < warrant be [issued] >
+< PERSON [finished] > <== < [shooting] >
+< PERSON be [expected] > <== < [surgery] >
+< PERSON be [charged] > <== < [counts] >
+< PERSON be [killed] > <== < [accident] >
+< PERSON be [sentenced] > <== < [charges] >
+< [coalition] > ==> < [form] government >
+< [published] in issue > <== < [study] >
+< PERSON be [found] > <== < [death] >
+< [compared] > ==> < shares [traded] >
+< PERSON be [scheduled] > <== < [trial] >
+< PERSON [died] > <== < [death] >
+< PERSON [finished] > <== < [games] >
+< PERSON [served] > <== < [campaign] >
+< PERSON be [scheduled] > <== < [surgery] >
+< PERSON be [charged] > <== < [counts] of murder >
+< PERSON be [charged] > <== < [aggravated] >
+< [injury] > ==> < [missed] game >
+< PERSON be [charged] > <== < [rape] >
+< PERSON [played] > <== < [injury] >
+< [released] > <== < poll [showed] >
+< [convicted] > ==> < [face] years >
+< [released] > <== < poll [found] >
+< PERSON [hit] > <== < [games] >
+< [received] bonus > <== < [signing] >
+< PERSON be [convicted] > <== < [felony] >
+< [conference] > ==> < [held] call >
+< [comment] > ==> < spokesman be [reached] >
+< [terrorism] > <== < [war] in LOCATION >
+< [returned] calls > <== < [seeking] comment >
+< PERSON be [named] > <== < [operating] >
+< PERSON be [placed] > <== < [reserve] >
+< PERSON be [charged] > <== < [death] >
+< PERSON be [ejected] > <== < [game] >
+< PERSON be [arrested] > <== < [assault] >
+< [divorce] > <== < [marriage] to PERSON >
+< PERSON [comment] > <== < [investigation] >
+< [injury] > ==> < [missed] season >
+< PERSON [felt] > <== < [games] >
+< PERSON be [sidelined] > <== < [injury] >
+< PERSON be [named] > <== < [game] >
+< PERSON [arrived] > <== < [work] >
+< [rose] MONEY > <== < [trading] >
+< PERSON be [born] > <== < PERSON be [reared] >
+< [convicted] > ==> < [faces] years >
+< PERSON be [convicted] > <== < [assault] >
+< PERSON be [acquitted] > <== < [murder] >
+< PERSON be [charged] > <== < [kidnapping] >
+< [murder] > ==> < [serving] sentence >
+< [crash] > ==> < [killed] people >
+< [games] > ==> < [played] minutes >
+< PERSON [agreed] > <== < [assessment] >
+< PERSON be [convicted] > <== < [crimes] >
+< PERSON be [expected] > <== < [injury] >
+< PERSON be [born] > <== < PERSON be [lived] >
+< PERSON [admitted] > <== < [game] >
+< PERSON be [expected] > <== < [trial] >
+< PERSON be [expected] > <== < [start] >
+< PERSON [died] > <== < [leading] >
+< PERSON be [held] > <== < [detention] >
+< PERSON be [arrested] > <== < [possession] >
+< PERSON be [stabbed] > <== < [death] >
+< PERSON [appeared] > <== < [conference] >
+< PERSON [declared] > <== < [speech] >
+< PERSON be [expected] > <== < [miss] >
+< [game] > ==> < [scoring] at points >
+< PERSON be [charged] > <== < [robbery] >
+< PERSON [left] > <== < [game] >
+< [crime] > ==> < [found] at scene >
+< PERSON be [scheduled] > <== < [game] >
+< [attacks] > ==> < [claimed] responsibility >
+< PERSON be [convicted] > <== < [charge] >
+< [begin] > <== < trial be [scheduled] >
+< PERSON be [scheduled] > <== < [visit] LOCATION >
+< [death] > ==> < [put] toll >
+< PERSON [pleaded] > <== < [assault] >
+< PERSON [served] > <== < [war] >
+< PERSON be [put] > ==> < [trial] >
+< PERSON be [expected] > <== < [training] >
+< PERSON be [scheduled] > <== < [start] >
+< [trial] > ==> < judge [ruled] >
+< PERSON be [indicted] > <== < [war] >
+< PERSON [died] > <== < [overdose] >
+< PERSON [declared] > <== < [campaign] >
+< PERSON be [charged] > <== < [wrongdoing] >
+< PERSON be [disappointed] > <== < [ruling] >
+< PERSON [died] > <== < [autopsy] >
+< [death] of PERSON > ==> < [murder] >
+< [bombing] > ==> < [claimed] responsibility >
+< PERSON [learned] > <== < [death] >
+< PERSON be [played] > <== < [games] >
+< [compared] > ==> < pound be [quoted] >
+< PERSON [died] > <== < [war] >
+< PERSON [arrived] > <== < [training] >
+< PERSON be [found] > <== < [murder] >
+< PERSON [lives] > ==> < PERSON be [born] >
+< [rose] $ > <== < [trading] >
+< PERSON be [convicted] > <== < [rape] >
+< [remove] tumor > <== < [surgery] >
+< [comment] > ==> < representatives be [reached] >
+< PERSON [graduated] > ==> < [born] in LOCATION >
+< PERSON be [injured] > <== < [game] >
+< PERSON be [indicted] > <== < [murder] >
+< PERSON be [arraigned] > <== < [charges] >
+< [charges] of crimes > <== < [war] >
+< PERSON be [involved] > <== < [accident] >
+< PERSON [pleaded] > <== < [trial] >
+< [appeals] > ==> < court [found] >
+< PERSON [recovering] > <== < [injury] >
+< PERSON be [scheduled] > <== < [conference] >
+< [released] > <== < figures [showed] >
+< PERSON be [accused] > <== < [crime] >
+< [divorce] > <== < marriages [ended] >
+< PERSON be [named] > <== < [replace] PERSON >
+< [election] > ==> < [play] role >
+< [estimated] > <== < shares [traded] >
+< [killed] people > <== < [war] >
+< [broke] > ==> < it [ai] >
+< PERSON be [joined] > <== < [conference] >
+< PERSON be [accused] > ==> < PERSON be [arrested] >
+< PERSON be [indicted] > <== < [crimes] >
+< PERSON be [expected] > <== < [conference] >
+< [averaging] rebounds > <== < [games] >
+< [trading] > ==> < shares [rose] >
+< PERSON [graduated] > <== < [received] degree >
+< PERSON [appeared] > <== < [game] >
+< PERSON [declared] > <== < [conference] >
+< PERSON [died] > <== < PERSON be [buried] >
+< [elections] > ==> < [scheduled] for DATE >
+< PERSON be [suspended] > <== < [violating] policy >
+< [claimed] responsibility > <== < [suicide] >
+< [death] > ==> < cause be [determined] >
+< [filed] with ORGANIZATION > <== < [registration] >
+< PERSON [admitted] > <== < [interview] >
+< [played] role > <== < [war] >
+< PERSON be [charged] > <== < [possession] >
+< PERSON [ruled] > <== < [trial] >
+< [trial] > ==> < case be [scheduled] >
+< PERSON be [arrested] > <== < [felony] >
+< [repair] ligament > <== < [surgery] >
+< PERSON be [convicted] > <== < [robbery] >
+< PERSON be [named] > <== < [succeed] PERSON >
+< PERSON be [indicted] > <== < [conspiracy] >
+< [based] in LOCATION > ==> < [travel] >
+< PERSON [worked] > <== < [war] >
+< [finished] season > <== < [games] >
+< PERSON [returned] > <== < [campaign] >
+< [left] unchanged > <== < [meeting] >
+< PERSON [struggled] > <== < [games] >
+< [found] guilty > <== < [murder] >
+< [attack] > ==> < father [died] >
+< PERSON [served] > <== < [match] >
+< PERSON [recovered] > <== < [injury] >
+< [terror] > ==> < [win] war >
+< PERSON [found] > ==> < PERSON [returned] >
+< PERSON be [expected] > <== < [meeting] >
+< PERSON [recovers] > <== < [surgery] >
+< PERSON [returned] > <== < [play] >
+< PERSON be [charged] > <== < [trial] >
+< [death] > ==> < [played] role >
+< PERSON be [injured] > <== < [accident] >
+< [injury] > ==> < [left] game >
+< [released] > <== < figures [show] >
+< PERSON be [released] > <== < [custody] >
+< PERSON [left] > <== < [work] >
+< PERSON be [convicted] > <== < [penalty] >
+< PERSON be [held] > <== < [murder] >
+< [trading] > ==> < stock [closed] >
+< PERSON be [divorced] > ==> < PERSON be [married] >
+< [injury] > ==> < [missed] most >
+< [repair] cartilage > <== < [surgery] >
+< PERSON [lost] > <== < [election] >
+< [begin] in DATE > <== < [trial] >
+< PERSON [lived] > <== < [death] >
+< PERSON [lived] > <== < [exile] >
+< [awaiting] trial > ==> < [murder] >
+< PERSON be [listed] > <== < [game] >
+< [appeals] > ==> < panel [ruled] >
+< [invasion] of LOCATION > ==> < [war] >
+< [charged] PERSON > <== < [murder] >
+< [election] > ==> < [played] role >
+< PERSON [arrived] > <== < [game] >
+< PERSON be [lost] > <== < [injury] >
+< [accident] > ==> < [leaving] scene >
+< [invasion] of LOCATION > <== < [occupation] >
+< [repair] tendon > <== < [surgery] >
+< [conference] > ==> < [made] comments >
+< PERSON be [jailed] > <== < [charges] >
+< PERSON [felt] > <== < [meeting] >
+< [appeals] > ==> < [upheld] decision >
+< [death] > ==> < [reinstated] penalty >
+< PERSON be [charged] > <== < [shooting] >
+< PERSON [died] > <== < PERSON [gone] >
+< PERSON [moved] > ==> < [born] in LOCATION >
+< [released] > <== < report [showed] >
+< PERSON [arrived] > <== < PERSON [found] >
+< [defeated] LOCATION > <== < [game] >
+< PERSON [finished] > <== < [trials] >
+< PERSON be [convicted] > <== < [kidnapping] >
+< [released] > <== < report [found] >
+< [named] officer > <== < [operating] >
+< [indicted] for crimes > <== < [war] >
+< PERSON be [listed] > <== < [injury] >
+< PERSON be [held] > <== < [custody] >
+< [terrorism] > ==> < [win] war >
+< [attend] meeting > <== < [summit] >
+< PERSON [declared] > <== < [war] >
+< PERSON [resigned] > <== < [investigation] >
+< PERSON [suffered] > <== < [injury] >
+< [comment] > ==> < none be [reached] >
+< [conference] > ==> < [joined] PERSON >
+< PERSON [fought] > <== < [war] >
+< PERSON [met] > <== < [meeting] >
+< PERSON [agreed] > <== < [meeting] >
+< PERSON be [charged] > <== < [murders] >
+< PERSON [returned] > <== < [action] >
+< PERSON be [elected] > <== < [election] >
+< PERSON be [convicted] > <== < [murders] >
+< PERSON be [arrested] > <== < PERSON be [convicted] >
+< [campaign] > ==> < [issued] statement >
+< PERSON be [expected] > <== < [play] role >
+< [murder] > <== < [trial] on charges >
+< [accused] of crimes > <== < [war] >
+< PERSON be [scheduled] > <== < [start] game >
+< PERSON [recalled] > <== < [meeting] >
+< PERSON be [shocked] > <== < [learn] >
+< [violence] > ==> < people [died] >
+< PERSON [spent] > <== < [war] >
+< [declared] area > <== < [disaster] >
+< [games] > ==> < [suspended] PERSON >
+< PERSON be [named] > <== < [indictment] >
+< PERSON be [ordered] > ==> < PERSON be [sentenced] >
+< [fight] war > <== < [terror] >
+< [death] > ==> < penalty be [reinstated] >
+< [appeals] > ==> < [overturned] decision >
+< [arrest] > ==> < warrants be [issued] >
+< [attacks] > ==> < [left] dead >
+< PERSON be [born] > <== < [birth] >
+< PERSON [died] > <== < [poisoning] >
+< [admitting] guilt > <== < [denying] >
+< PERSON be [introduced] > <== < [conference] >
+< PERSON be [expected] > <== < [attend] >
+< PERSON [confessed] > <== < [crime] >
+< PERSON be [arrested] > <== < [immigration] >
+< [injury] > ==> < [miss] game >
+< [broke] PERSON > <== < [game] >
+< PERSON be [removed] > <== < [game] >
+< [campaign] > ==> < [oust] PERSON >
+< PERSON [played] > <== < [tour] >
+< [see] agent > <== < [travel] >
+< [appeals] > ==> < [upheld] ruling >
+< PERSON [know] > <== < [surgery] >
+< [compared] > ==> < mark be [quoted] >
+< PERSON [directed] > ==> < PERSON [wrote] >
+< PERSON be [accused] > <== < [trial] >
+< PERSON [returned] > <== < [training] >
+< PERSON be [scheduled] > <== < [make] $ >
+< PERSON [played] > <== < [training] >
+< [attacks] > ==> < people [died] >
+< PERSON [arrived] > <== < [meeting] >
+< PERSON [wrote] > <== < [meeting] >
+< [declined] to comment > ==> < [reached] >
+< [kidnapping] of PERSON > <== < [murder] >
+< [death] > ==> < [ruled] homicide >
+< PERSON be [charged] > <== < [death] of PERSON >
+< [attended] camp > <== < [training] >
+< PERSON be [scheduled] > <== < [sentenced] >
+< PERSON be [charged] > <== < [espionage] >
+< [war] > ==> < people [died] >
+< PERSON [returned] > <== < PERSON [worked] >
+< [left] dead > <== < [shooting] >
+< [conference] > ==> < [made] remarks >
+< [trading] > ==> < shares [traded] >
+< PERSON be [named] > <== < [replacing] PERSON >
+< PERSON [arrived] > <== < [conference] >
+< [conference] > ==> < [made] announcement >
+< PERSON be [indicted] > <== < [counts] >
+< PERSON be [ousted] > <== < [coup] >
+< PERSON be [arrested] > <== < [robbery] >
+< PERSON [graduated] > <== < [earned] degree >
+< PERSON [made] > <== < it [clear] >
+< PERSON [emerged] > <== < [meeting] >
+< [charges] > <== < [trial] in LOCATION >
+< PERSON [arrived] > <== < [interview] >
+< PERSON be [sidelined] > <== < [games] >
+< PERSON be [scheduled] > <== < [testify] >
+< PERSON [guess] > <== < PERSON [see] >
+< [action] > <== < [starring] PERSON >
+< PERSON be [charged] > <== < [bombing] >
+< [conference] > ==> < [lost] games >
+< [games] of season > ==> < [injury] >
+< PERSON be [expected] > <== < [trip] >
+< [coup] > ==> < [ousted] PERSON >
+< PERSON be [thrilled] > <== < [death] >
+< [begin] on DATE > <== < [trial] >
+< [decided] to have > <== < [surgery] >
+< PERSON be [injured] > <== < [games] >
+< [death] > ==> < [sentenced] him >
+< [games] > ==> < [hit] season >
+< [accused] > <== < [trial] of PERSON >
+< PERSON be [convicted] > <== < [attempted] >
+< PERSON [missing] > <== < [action] >
+< [starting] > <== < [tackle] PERSON >
+< PERSON be [expected] > <== < [make] decision >
+< PERSON be [treated] > <== < [injuries] >
+< PERSON [suffering] > <== < [depression] >
+< PERSON be [charged] > <== < [killing] >
+< [consideration] > <== < [withdrew] name >
+< PERSON be [expected] > <== < [plead] >
+< ORGANIZATION [moved] > <== < [games] >
+< PERSON be [scheduled] > <== < [trip] >
+< PERSON be [scheduled] > <== < [arrive] in LOCATION >
+< PERSON be [paralyzed] > <== < [accident] >
+< [crash] > ==> < people [died] >
+< PERSON be [indicted] > <== < [felony] >
+< [hold] meeting > <== < [summit] >
+< PERSON be [charged] > <== < [murder] in death >
+< PERSON [died] > <== < PERSON [worked] >
+< PERSON be [acquitted] > <== < [charge] >
+< PERSON be [expected] > <== < [recover] >
+< PERSON be [born] > <== < [received] degree >
+< PERSON be [released] > <== < [training] >
+< PERSON be [charged] > <== < [burglary] >
+< PERSON [played] > <== < [match] >
+< PERSON be [charged] > <== < [endangering] welfare >
+< PERSON [arrived] > <== < [practice] >
+< [bringing] toll > <== < [death] >
+< PERSON be [charged] > <== < [counts] of assault >
+< [charges] > <== < [faces] trial >
+< PERSON be [released] > <== < [pending] >
+< PERSON [remains] > <== < [custody] >
+< PERSON [directed] > ==> < [wrote] film >
+< PERSON [died] > <== < [game] >
+< PERSON be [arraigned] > <== < [murder] >
+< PERSON [testify] > ==> < [hearing] >
+< PERSON [resigned] > <== < [protest] >
+< [trial] > ==> < court [ruled] >
+< [war] > ==> < people be [killed] >
+< [election] > ==> < [won] victory >
+< PERSON be [convicted] > <== < [corruption] >
+< [emergency] > ==> < [held] meeting >
+< PERSON [left] > <== < [injury] >
+< PERSON [returned] > <== < [show] >
+< PERSON be [acquitted] > <== < PERSON be [convicted] >
+< PERSON [married] > ==> < [met] PERSON >
+< PERSON be [scheduled] > <== < [campaign] >
+< PERSON be [born] > <== < PERSON be [educated] >
+< [entered] game > <== < [games] >
+< PERSON be [charged] > <== < [war] >
+< PERSON [insisted] > <== < [trial] >
+< PERSON [withdrew] > <== < [injury] >
+< PERSON be [scheduled] > <== < [undergo] surgery >
+< ORGANIZATION be [expected] > <== < [meeting] >
+< PERSON [died] > <== < [treatment] >
+< PERSON be [accused] > <== < [killing] PERSON >
+< PERSON be [benched] > <== < [game] >
+< [moved] articles > <== < [release] >
+< [conference] > ==> < [hold] call >
+< PERSON be [arrested] > <== < [driving] under influence >
+< [charged] with crimes > <== < [war] >
+< [fighting] war > <== < [terrorism] >
+< PERSON be [sentenced] > <== < [conspiracy] >
+< PERSON [pleaded] > <== < [corruption] >
+< PERSON be [expected] > <== < [visit] LOCATION >
+< PERSON be [suspended] > <== < [games] of season >
+< PERSON be [charged] > <== < [trading] >
+< PERSON [heard] > <== < [death] >
+< [elections] > ==> < [won] victory >
+< PERSON be [charged] > <== < [murder] of PERSON >
+< [released] figures > <== < [showing] >
+< NUMBER be [charged] > <== < [murder] >
+< [convicted] > ==> < [faces] fine >
+< PERSON [lives] > <== < [exile] >
+< [attack] > ==> < people [died] >
+< [averaging] minutes > <== < [games] >
+< PERSON [pleaded] > <== < [bribery] >
+< PERSON be [convicted] > <== < [bombing] >
+< PERSON be [suspended] > <== < [pending] >
+< [charged] him > <== < [murder] >
+< [attacks] > ==> < [played] role >
+< PERSON be [invited] > <== < [meeting] >
+< PERSON [played] > <== < [surgery] >
+< PERSON [see] > ==> < [wait] >
+< [elections] > ==> < [play] role >
+< [games] > ==> < [reached] base >
+< PERSON be [indicted] > <== < [charge] >
+< [closing] at $ > <== < [trading] >
+< [election] > ==> < [scheduled] for DATE >
+< PERSON [knew] > <== < [surgery] >
+< [divorce] > ==> < wife [filed] >
+< [compared] > <== < [ended] in DATE >
+< [game] > ==> < [left] PERSON >
+< PERSON [lives] > ==> < PERSON be [married] >
+< PERSON be [released] > <== < [trial] >
+< [combat] > ==> < [flew] missions >
+< PERSON be [charged] > <== < [attack] >
+< [death] > ==> < [sentenced] PERSON >
+< [bought] yen > <== < [trading] >
+< [suffered] injury > <== < [training] >
+< [trial] > <== < case [gone] >
+< PERSON be [convicted] > <== < [possession] >
+< [campaign] > ==> < consultant [worked] >
+< [games] > ==> < [replaced] PERSON >
+< PERSON be [charged] > <== < [terrorism] >
+< [murder] > ==> < men be [charged] >
+< [injury] > ==> < [missed] all >
+< [meeting] > ==> < decision be [made] >
+< ORGANIZATION [closed] > <== < [trading] >
+< PERSON be [signed] > <== < [practice] >
+< PERSON [got] > <== < [accident] >
+< [terror] > ==> < [winning] war >
+< [investigation] > ==> < [played] role >
+< [murder] > ==> < man be [charged] >
+< PERSON be [charged] > <== < [homicide] >
+< PERSON be [played] > <== < [game] >
+< PERSON be [arrested] > <== < [rape] >
+< [declared] winner > <== < [election] >
+< PERSON be [held] > <== < [shooting] >
+< PERSON [confessed] > <== < [murder] >
+< PERSON be [sentenced] > <== < [charge] >
+< PERSON be [charged] > <== < [arson] >
+< PERSON be [expected] > <== < [sign] contract >
+< PERSON [admitted] > <== < [conference] >
+< PERSON [playing] > <== < [injury] >
+< [declaring] > ==> < [issued] statement >
+< [captured] LOCATION > <== < [war] >
+< [release] > ==> < [scheduled] in DATE >
+< PERSON be [benched] > <== < [games] >
+< [game] > ==> < [injured] knee >
+< PERSON be [scheduled] > <== < [attend] >
+< [declined] to comment > <== < [interview] >
+< PERSON be [transferred] > <== < [custody] >
+< [given] sentence > <== < [suspended] >
+< PERSON be [found] > <== < [conspiracy] >
+< [death] > ==> < [overturned] sentence >
+< PERSON be [arrested] > <== < [custody] >
+< [cooperation] > ==> < [signed] agreement >
+< PERSON [missed] > <== < [injury] >
+< PERSON [warned] > <== < [conference] >
+< [ended] > ==> < earnings [rose] >
+< [begin] in LOCATION > <== < [trial] >
+< PERSON [died] > <== < [trial] >
+< [appeals] > ==> < [overturned] conviction >
+< PERSON [arrived] > <== < [campaign] >
+< PERSON be [named] > <== < [succeeding] PERSON >
+< PERSON be [scheduled] > <== < [sentenced] on DATE >
+< [fighting] war > <== < [terror] >
+< [negotiations] > ==> < [played] role >
+< [trip] > ==> < [visit] LOCATION >
+< PERSON [living] > <== < [exile] >
+< [comment] > ==> < company be [reached] >
+< [charges] > <== < [face] trial >
+< [declined] to discuss > <== < [interview] >
+< PERSON be [accused] > <== < [indictment] >
+< PERSON [died] > <== < [suicide] >
+< [terrorism] > ==> < [winning] war >
+< [sent] case > <== < [trial] >
+< [having] ties > ==> < [suspected] >
+< PERSON be [scheduled] > <== < [appearance] >
+< [armed] with rifles > <== < [assault] >
+< PERSON be [charged] > <== < [harassment] >
+< PERSON [left] > <== < [trip] >
+< PERSON [served] > <== < [administrations] >
+< PERSON [moved] > <== < [left] >
+< [support] for war > <== < [terrorism] >
+< PERSON [felt] > <== < [attack] >
+< PERSON [graduated] > <== < PERSON [served] >
+< [game] > ==> < minutes [left] >
+< PERSON be [convicted] > <== < [bribery] >
+< [released] > <== < poll [indicated] >
+< [action] > ==> < [issued] statement >
+< [released] in DATE > <== < [study] >
+< PERSON [learned] > <== < [investigation] >
+< [comment] > ==> < members be [reached] >
+< [attack] > ==> < [played] role >
+< [robbery] > ==> < [serving] sentence >
+< [replace] PERSON > <== < [retiring] >
+< [averaging] points > ==> < [entered] game >
+< [games] > ==> < [trail] LOCATION >
+< [arrest] > ==> < [issue] warrant >
+< PERSON be [extradited] > <== < [trial] >
+< [games] > ==> < [suspended] season >
+< [close] > ==> < deal be [expected] >
+< PERSON be [involved] > <== < [crash] >
+< [ended] season > <== < [injury] >
+< PERSON [served] > <== < [operating] >
+< PERSON [withdrew] > ==> < [consideration] >
+< PERSON be [expected] > <== < [make] announcement >
+< [negotiations] > ==> < progress be [made] >
+< PERSON [sustained] > <== < [injury] >
+< PERSON [comment] > <== < [negotiations] >
+< [death] > ==> < man be [shot] >
+< PERSON be [found] > <== < [assault] >
+< PERSON be [detained] > <== < [immigration] >
+< PERSON [retired] > <== < [teaching] >
+< PERSON [arrived] > <== < [flight] >
+< PERSON be [killed] > <== < [suicide] >
+< PERSON be [arrested] > <== < [conspiracy] >
+< PERSON [traveled] > <== < [campaign] >
+< [accident] > ==> < [suffered] injuries >
+< [game] > ==> < [suspended] PERSON >
+< [issued] statement > <== < [ruling] >
+< PERSON be [charged] > <== < [killings] >
+< [attack] > ==> < [left] dead >
+< PERSON be [convicted] > <== < [aggravated] >
+< PERSON [met] > ==> < PERSON [traveled] >
+< PERSON be [charged] > <== < [sex] >
+< [released] on DATE > <== < [study] >
+< PERSON be [sentenced] > <== < [crime] >
+< [fired] > ==> < [replace] PERSON >
+< [released] report > <== < [showing] >
+< [charges] > ==> < men be [indicted] >
+< [placed] PERSON > <== < [reserve] >
+< PERSON [graduated] > ==> < PERSON be [born] >
+< PERSON [found] > <== < [war] >
+< PERSON [got] > <== < [war] >
+< PERSON [flew] > <== < PERSON [met] >
+< PERSON be [bludgeoned] > <== < [death] >
+< PERSON [served] > <== < [game] >
+< PERSON be [held] > <== < [war] >
+< PERSON [died] > <== < [exile] >
+< PERSON [learned] > <== < [war] >
+< PERSON [admitted] > <== < [campaign] >
+< PERSON be [convicted] > ==> < PERSON be [sent] >
+< PERSON be [killed] > <== < [death] >
+< [attending] meeting > <== < [summit] >
+< [issued] statement > <== < [noting] >
+< PERSON [admitted] > <== < [testimony] >
+< PERSON be [recovered] > <== < [surgery] >
+< PERSON be [recovered] > <== < [injury] >
+< PERSON [resigned] > <== < [operating] >
+< [begin] in DATE > <== < trial be [scheduled] >
+< [interview] with ORGANIZATION > ==> < [published] >
+< PERSON be [sentenced] > <== < [assault] >
+< PERSON be [pleased] > <== < [ruling] >
+< PERSON [pleaded] > <== < [crime] >
+< PERSON [arrived] > <== < [emergency] >
+< PERSON be [named] > <== < [conference] >
+< [left] dead > <== < [war] >
+< PERSON be [charged] > <== < [killing] PERSON >
+< PERSON be [sidelined] > <== < [injuries] >
+< PERSON [see] > <== < [election] >
+< [injury] > ==> < [played] games >
+< PERSON [spent] > <== < [training] >
+< PERSON [recalled] > <== < [conversation] >
+< PERSON [pleaded] > <== < [death] >
+< PERSON [learned] > <== < [trip] >
+< [close] in quarter > ==> < deal be [expected] >
+< [comment] > ==> < spokesmen be [reached] >
+< PERSON [met] > <== < [visit] >
+< PERSON [confessed] > <== < [killing] >
+< PERSON be [charged] > <== < [extortion] >
+< [remove] cartilage > <== < [surgery] >
+< [death] > ==> < [upheld] sentence >
+< [trading] > ==> < shares be [suspended] >
+< PERSON [gone] > ==> < [trial] >
+< PERSON [resigned] > <== < [charges] >
+< [war] > ==> < soldiers [died] >
+< PERSON [made] > <== < [meeting] >
+< [crash] > ==> < [suffered] injuries >
+< PERSON be [convicted] > <== < [sex] >
+< [denying] > ==> < [issued] statement >
+< [comment] > ==> < [reached] at home >
+< PERSON be [killed] > <== < [war] >
+< NUMBER be [sentenced] > <== < [death] >
+< [hearing] > ==> < [scheduled] for DATE >
+< PERSON be [sent] > <== < [detention] >
+< PERSON [entered] > <== < [games] >
+< [conflict] > ==> < people [died] >
+< PERSON be [indicted] > <== < [corruption] >
+< [found] evidence > <== < [study] >
+< PERSON be [sent] > <== < [death] >
+< NUMBER [died] > <== < [attack] >
+< PERSON [worked] > <== < [investigation] >
+< [commuted] sentence > <== < [death] >
+< PERSON [insisted] > <== < [meeting] >
+< PERSON be [sentenced] > <== < [robbery] >
+< PERSON [heard] > <== < [shooting] >
+< PERSON be [arrested] > <== < [aggravated] >
+< PERSON [insisted] > <== < [remained] >
+< PERSON [admitted] > <== < [games] >
+< [charges] > ==> < [indicted] PERSON >
+< PERSON [struggled] > <== < [injury] >
+< PERSON be [scheduled] > <== < [work] >
+< PERSON be [named] > <== < [games] >
+< PERSON [found] > <== < [ruling] >
+< PERSON [died] > ==> < PERSON [learned] >
+< PERSON [declared] > <== < [election] >
+< [carry] sentence > <== < [death] >
+< [arrest] criminals > <== < [war] >
+< PERSON [testified] > ==> < [death] >
+< [crash] > ==> < cause be [determined] >
+< PERSON [served] > <== < [combat] >
+< [scheduled] to begin > <== < [trial] >
+< [fired] PERSON > <== < [hired] PERSON >
+< PERSON [pleaded] > <== < [rape] >
+< PERSON [died] > <== < [campaign] >
+< PERSON [spent] > <== < [death] >
+< PERSON [admitted] > <== < [trial] >
+< [crash] > ==> < [played] role >
+< PERSON be [indicted] > <== < [assault] >
+< PERSON [recovering] > <== < [injuries] >
+< [missing] in action > <== < [war] >
+< [concluding] > ==> < [issued] report >
+< PERSON be [charged] > <== < [complaint] >
+< PERSON [returned] > <== < [conference] >
+< PERSON [retiring] > ==> < [replace] PERSON >
+< PERSON be [charged] > <== < [forgery] >
+< PERSON be [placed] > <== < [paid] >
+< PERSON [resigned] > ==> < [replaces] PERSON >
+< [prosecution] > ==> < witnesses [testified] >
+< [support] in LOCATION > <== < [war] >
+< PERSON be [jailed] > <== < [trial] >
+< PERSON [ordered] > <== < [hearing] >
+< [coup] > ==> < [led] attempt >
+< PERSON be [sent] > <== < [treatment] >
+< PERSON be [acquitted] > <== < [conspiracy] >
+< PERSON be [accused] > <== < [killing] >
+< PERSON [died] > <== < [injury] >
+< [death] > <== < toll [stood] >
+< PERSON be [arrested] > <== < [violence] >
+< PERSON be [charged] > <== < [murder] in deaths >
+< [fighting] > ==> < people [died] >
+< PERSON [moved] > <== < [standings] >
+< LOCATION [won] > <== < [games] >
+< PERSON be [born] > <== < [play] >
+< PERSON [traveled] > <== < [trip] >
+< PERSON be [scheduled] > <== < [fly] to LOCATION >
+< PERSON be [charged] > <== < [attacks] >
+< PERSON be [saddened] > <== < [death] >
+< [convicted] of crimes > <== < [sex] >
+< [stop] in LOCATION > <== < [trip] >
+< PERSON [indicated] > <== < [meeting] >
+< [attack] > ==> < man [died] >
+< [hearing] on DATE > <== < [pending] >
+< PERSON [met] > <== < [trip] >
+< [injury] > ==> < [played] season >
+< PERSON be [placed] > <== < [injury] >
+< [acquitted] PERSON > <== < [murder] >
+< [repair] tear > <== < [surgery] >
+< PERSON [pleaded] > <== < [indictment] >
+< PERSON be [married] > <== < [marriage] >
+< PERSON be [injured] > <== < [crash] >
+< PERSON be [wanted] > <== < [murder] >
+< [combat] > ==> < [declared] end >
+< PERSON [learned] > <== < [meeting] >
+< PERSON [guess] > ==> < PERSON [replied] >
+< [repair] ligaments > <== < [surgery] >
+< PERSON be [charged] > <== < [felonies] >
+< PERSON be [expected] > <== < [retire] >
+< [admitting] allegations > <== < [denying] >
+< ORGANIZATION be [scheduled] > <== < [vote] >
+< [broke] record > <== < [games] >
+< [convicted] > ==> < [face] fine >
+< PERSON [pleaded] > <== < [aggravated] >
+< PERSON be [scratched] > <== < [game] >
+< [left] LOCATION > <== < [war] >
+< [comment] > ==> < spokeswoman be [reached] >
+< PERSON be [expected] > <== < [appear] >
+< PERSON be [killed] > <== < [bombing] >
+< PERSON be [appointed] > <== < [replace] PERSON >
+< PERSON [admitted] > <== < [affair] >
+< PERSON be [arrested] > <== < [death] >
+< PERSON be [convicted] > <== < [killing] >
+< PERSON be [arrested] > <== < [burglary] >
+< PERSON [struggled] > <== < [shooting] >
+< PERSON be [arrested] > <== < [attempted] >
+< PERSON [resign] > <== < [scandal] >
+< [lasted] minutes > <== < [meeting] >
+< PERSON [pleaded] > <== < [agreed] to cooperate >
+< PERSON [died] > <== < [training] >
+< [study] > ==> < year [found] >
+< PERSON be [married] > <== < [sex] >
+< PERSON be [imprisoned] > <== < [charges] >
+< PERSON [returned] > <== < [interview] >
+< PERSON [wrote] > <== < [incident] >
+< PERSON [resigned] > ==> < [replacing] PERSON >
+< PERSON be [arrested] > <== < [crimes] >
+< PERSON [returned] > <== < [competition] >
+< PERSON [pleaded] > <== < PERSON [testified] >
+< PERSON [died] > <== < [murder] >
+< PERSON be [born] > <== < [spent] most >
+< PERSON [die] > ==> < PERSON be [born] >
+< PERSON be [forced] > <== < [resign] in DATE >
+< PERSON be [convicted] > <== < [killing] PERSON >
+< [born] in LOCATION > <== < [living] in LOCATION >
+< PERSON be [born] > <== < [lives] in LOCATION >
+< [indicted] on charges > <== < [war] >
+< PERSON be [scheduled] > <== < [face] PERSON >
+< [made] progress > <== < [negotiations] >
+< PERSON be [expected] > <== < [released] >
+< [campaign] > ==> < [made] promise >
+< PERSON be [charged] > <== < [corruption] >
+< PERSON be [ordered] > <== < [trial] >
+< [crimes] > ==> < [indicted] on charges >
+< PERSON be [elected] > <== < PERSON be [served] >
+< [issued] statement > <== < [suggesting] >
+< [find] guilty > <== < [murder] >
+< [published] > <== < poll [found] >
+< [murder] > <== < [trial] of PERSON >
+< PERSON be [released] > <== < [charge] >
+< PERSON be [arrested] > <== < [kidnapping] >
+< [death] > ==> < [faces] sentence >
+< [miss] season > <== < [surgery] >
+< PERSON [recalled] > <== < [conference] >
+< [vote] > ==> < court [ruled] >
+< PERSON [decided] > <== < [meeting] >
+< PERSON be [expected] > <== < [undergo] surgery >
+< PERSON [heard] > <== < [incident] >
+< PERSON [returned] > <== < [teaching] >
+< PERSON be [scheduled] > <== < [fight] PERSON >
+< [appeals] > ==> < [upheld] conviction >
+< PERSON [recovered] > <== < [injuries] >
+< PERSON be [disappointed] > <== < [play] >
+< PERSON [remains] > <== < [investigation] >
+< PERSON [served] > <== < [death] >
+< PERSON be [scheduled] > <== < [make] appearance >
+< PERSON [started] > <== < [training] >
+< PERSON be [expected] > <== < [arrive] >
+< PERSON be [charged] > <== < [failure] >
+< PERSON [insisted] > <== < [negotiations] >
+< PERSON be [disappointed] > <== < [vote] >
+< PERSON be [convicted] > <== < [murder] of PERSON >
+< PERSON be [accused] > <== < [rape] >
+< PERSON be [charged] > <== < [bribery] >
+< PERSON be [shot] > <== < [robbery] >
+< PERSON [moved] > <== < [games] >
+< PERSON be [convicted] > <== < [shooting] >
+< PERSON [returned] > <== < PERSON [served] >
+< [left] note > <== < [suicide] >
+< PERSON [died] > <== < [death] of PERSON >
+< [accused] > <== < [trial] of men >
+< PERSON [worked] > <== < [election] >
+< [abolished] penalty > <== < [death] >
+< [bruised] > ==> < [left] game >
+< PERSON [met] > <== < [game] >
+< PERSON be [detained] > <== < [charges] >
+< PERSON be [charged] > <== < [custody] >
+< [campaign] > ==> < [made] promises >
+< PERSON be [released] > <== < [hearing] >
+< [dropped] $ > <== < [trading] >
+< [moving] in categories > <== < [release] >
+< [convicted] > ==> < [faces] maximum >
+< [negotiations] > ==> < [play] role >
+< PERSON be [scheduled] > <== < [training] >
+< [conference] > <== < [release] report >
+< [conference] > <== < [speech] in LOCATION >
+< PERSON [returning] > <== < [trip] >
+< PERSON be [devastated] > <== < [death] >
+< PERSON be [indicted] > <== < [trial] >
+< [declined] comment > <== < [investigation] >
+< PERSON be [expected] > <== < [arrive] in LOCATION >
+< [crashes] > ==> < people [died] >
+< PERSON be [charged] > <== < [driving] under influence >
+< PERSON [died] > <== < [funeral] >
+< [death] > ==> < [given] sentence >
+< PERSON [arrived] > <== < PERSON [learned] >
+< PERSON be [charged] > <== < [accused] >
+< [broke] record > <== < [held] >
+< [ordered] to stand > <== < [trial] >
+< [released] > ==> < report be [expected] >
+< PERSON be [convicted] > <== < [terrorism] >
+< PERSON [died] > <== < [birth] >
+< [death] > ==> < men be [sentenced] >
+< PERSON [died] > <== < PERSON [left] >
+< [bombing] > ==> < people be [killed] >
+< [campaign] > ==> < [fined] $ >
+< PERSON [served] > <== < [rape] >
+< PERSON [agreed] > <== < [war] >
+< PERSON [found] > <== < [interview] >
+< [games] > ==> < [suffered] injury >
+< [game] > ==> < [retired] batters >
+< PERSON [decided] > <== < [surgery] >
+< PERSON be [placed] > <== < [investigation] >
+< [trip] > ==> < [won] games >
+< PERSON be [expected] > <== < [play] in game >
+< PERSON [sidelined] > <== < [injury] >
+< [conflict] > ==> < people be [killed] >
+< PERSON [pleaded] > <== < [hearing] >
+< PERSON be [charged] > <== < [killing] of PERSON >
+< PERSON [recovers] > <== < [injury] >
+< [scheduled] for DATE > <== < [trial] >
+< PERSON [arrived] > <== < PERSON [saw] >
+< [accident] > ==> < [played] role >
+< PERSON [flew] > <== < [flight] >
+< [accident] > ==> < son [died] >
+< PERSON [heard] > <== < [crash] >
+< PERSON be [sentenced] > <== < [counts] >
+< [armed] > ==> < [serving] in forces >
+< [campaign] > ==> < [made] decision >
+< [suicide] > ==> < people [died] >
+< [released] > <== < report [shows] >
+< [blast] > ==> < [claimed] responsibility >
+< PERSON [died] > <== < [custody] >
+< [attended] ORGANIZATION > ==> < [born] in LOCATION >
+< [attack] > ==> < husband [died] >
+< [death] of PERSON > <== < [trial] >
+< PERSON be [fired] > <== < [investigation] >
+< [defeated] LOCATION > <== < [games] >
+< [conference] > ==> < [issued] statement >
+< [bombings] > ==> < people be [killed] >
+< [averaging] assists > <== < [games] >
+< PERSON be [arrested] > <== < [abuse] >
+< PERSON be [scheduled] > <== < [release] >
+< [crimes] > ==> < people be [convicted] >
+< PERSON be [scheduled] > <== < [play] >
+< [defeated] PERSON > <== < [match] >
+< PERSON [declared] > <== < [game] >
+< PERSON be [scheduled] > <== < [flight] >
+< PERSON [learned] > <== < [surgery] >
+< PERSON be [acquitted] > <== < [counts] >
+< [declined] to say > <== < [interview] >
+< PERSON be [sentenced] > <== < [penalty] >
+< [games] > ==> < [played] game >
+< [murder] > ==> < man be [convicted] >
+< PERSON [pleaded] > <== < [robbery] >
+< [attacks] > ==> < those [died] >
+< PERSON be [charged] > <== < [possession] of marijuana >
+< PERSON be [hit] > <== < [games] >
+< [blast] > ==> < people [died] >
+< PERSON be [arrested] > <== < [violation] >
+< PERSON be [quoted] > <== < [release] >
+< PERSON [learned] > ==> < PERSON [returned] >
+< [games] > ==> < [played] seasons >
+< PERSON [met] > <== < [trip] to LOCATION >
+< PERSON be [sentenced] > <== < [rape] >
+< [games] > ==> < [played] averaging >
+< PERSON [left] > <== < [training] >
+< PERSON [left] > <== < [trip] to LOCATION >
+< PERSON be [acquitted] > <== < [assault] >
+< PERSON be [charged] > <== < [resisting] arrest >
+< [robbery] > ==> < [serving] time >
+< PERSON [died] > <== < [publishing] >
+< PERSON be [found] > <== < [counts] >
+< PERSON [met] > <== < [visit] to LOCATION >
+< PERSON be [charged] > <== < [violence] >
+< [trial] > ==> < case be [expected] >
+< [crime] > ==> < none be [charged] >
+< PERSON be [convicted] > <== < [burglary] >
+< [death] > ==> < people be [sentenced] >
+< PERSON [graduated] > <== < [education] >
+< [crash] > ==> < [death] of PERSON >
+< PERSON [flew] > <== < [campaign] >
+< PERSON be [found] > <== < [charge] >
+< [coalition] > ==> < [forming] government >
+< [overturned] decision > <== < [ruling] >
+< [accused] > <== < [trial] of man >
+< PERSON be [cleared] > <== < [game] >
+< [campaign] > ==> < [released] statement >
+< PERSON [left] > <== < [games] >
+< PERSON [appear] > <== < [conference] >
+< PERSON [left] > <== < [comment] >
+< PERSON be [charged] > <== < [helping] >
+< PERSON [ordered] > <== < him [held] >
+< [appeals] > ==> < court [ordered] >
+< PERSON be [condemned] > <== < [death] >
+< PERSON [served] > <== < [trial] >
+< PERSON be [wounded] > <== < [attack] >
+< PERSON [returns] > <== < [surgery] >
+< [crash] > ==> < people be [killed] >
+< [defense] > <== < [questioning] by PERSON >
+< [terrorism] > ==> < [waging] war >
+< PERSON be [killed] > <== < [robbery] >
+< [assault] > ==> < [serving] sentence >
+< PERSON be [arrested] > <== < [war] >
+< [prosecution] > ==> < witness [testified] >
+< PERSON [died] > <== < [founding] >
+< PERSON be [ordered] > <== < [pending] >
+< PERSON be [convicted] > <== < [raping] >
+< [found] at scene > <== < [murder] >
+< PERSON [found] > <== < [trip] >
+< PERSON [comment] > <== < [meeting] >
+< [accused] > <== < [murdering] PERSON >
+< PERSON [claimed] > <== < [trial] >
+< PERSON be [named] > <== < [head] ORGANIZATION >
+< [trip] > ==> < [visited] LOCATION >
+< PERSON be [scheduled] > <== < [arraigned] >
+< PERSON be [replaced] > <== < [games] >
+< PERSON be [convicted] > <== < [murdering] PERSON >
+< [claimed] responsibility > <== < [killing] >
+< PERSON [died] > <== < [surviving] >
+< PERSON be [honored] > <== < [ceremony] >
+< [death] of PERSON > ==> < [left] >
+< [confirming] > ==> < [issued] statement >
+< PERSON be [charged] > <== < [trafficking] >
+< PERSON be [charged] > <== < [trial] of PERSON >
+< PERSON [resigned] > ==> < [succeed] PERSON >
+< PERSON be [disappointed] > <== < [action] >
+< PERSON [returned] > <== < [funeral] >
+< PERSON [confessed] > <== < [interview] >
+< PERSON be [expected] > <== < [win] re-election >
+< PERSON [played] > <== < [trip] >
+< PERSON be [expected] > <== < [resign] >
+< [war] > ==> < troops [died] >
+< [bombing] > ==> < people [died] >
+< [death] > ==> < [signed] warrant >
+< [bombing] > ==> < [played] role >
+< [elections] > ==> < [played] role >
+< PERSON be [hit] > <== < [shot] >
+< PERSON [died] > <== < [living] >
+< PERSON be [named] > <== < [campaign] >
+< PERSON be [expected] > <== < [appearance] >
+< [released] > <== < [study] by ORGANIZATION >
+< [investigation] > ==> < [issued] statement >
+< PERSON be [charged] > <== < [murdering] PERSON >
+< PERSON be [accused] > <== < [incident] >
+< PERSON be [placed] > <== < [custody] >
+< [accused] PERSON > <== < [trial] >
+< PERSON be [scheduled] > <== < [murder] >
+< PERSON [died] > <== < [emergency] >
+< [parties] > ==> < [reached] agreement >
+< PERSON [finished] > <== < PERSON [struggled] >
+< PERSON [arrives] > <== < [visit] >
+< PERSON [found] > <== < [trial] >
+< PERSON be [scheduled] > <== < [ceremony] >
+< [custody] of children > <== < [divorce] >
+< PERSON be [scheduled] > <== < [death] >
+< [game] > ==> < [sustained] injury >
+< PERSON be [arrested] > <== < PERSON be [extradited] >
+< [released] > <== < report [concluded] >
+< PERSON be [arrested] > <== < PERSON be [tried] >
+< PERSON [arrived] > <== < [games] >
+< PERSON be [replaced] > <== < [injury] >
+< [conspiracy] > <== < [trial] on charges >
+< PERSON be [scheduled] > <== < [die] by injection >
+< [beating] LOCATION > <== < [games] >
+< PERSON [replied] > <== < [interview] >
+< PERSON be [overthrown] > <== < [coup] >
+< PERSON [left] > <== < [interview] >
+< PERSON be [charged] > <== < [stabbing] >
+< [fighting] > ==> < [left] dead >
+< PERSON be [promoted] > <== < [replace] PERSON >
+< PERSON be [sidelined] > <== < [game] >
+< [ended] career > <== < [injury] >
+< [lasted] hours > <== < [meeting] >
+< PERSON be [put] > <== < [arrest] >
+< PERSON be [accused] > <== < [trial] of PERSON >
+< PERSON [held] > <== < [game] >
+< PERSON [resigned] > ==> < [replaced] PERSON >
+< PERSON [finished] > <== < [marathon] >
+< [driving] car > <== < [stolen] >
+< PERSON [returned] > <== < [tournament] >
+< PERSON be [died] > <== < PERSON be [shot] >
+< PERSON be [indicted] > <== < [bribery] >
+< [game] > ==> < season [ended] >
+< PERSON [quit] > <== < PERSON be [fired] >
+< PERSON be [diagnosed] > <== < [surgery] >
+< PERSON [resign] > ==> < [speculation] >
+< PERSON be [executed] > <== < [murder] >
+< PERSON be [arrested] > <== < [trading] >
+< [conference] > ==> < [made] in LOCATION >
+< PERSON [returned] > <== < [trial] >
+< [trading] > ==> < it be [quoted] >
+< [held] meeting > <== < [summit] >
+< PERSON be [charged] > <== < [deaths] of PERSON >
+< [invading] LOCATION > <== < [war] >
+< [agreed] to resume > <== < [negotiations] >
+< PERSON [remain] > <== < [trial] >
+< [jumped] $ > <== < [trading] >
+< PERSON be [hospitalized] > <== < [injuries] >
+< PERSON [miss] > <== < [injury] >
+< [crash] > ==> < who [died] >
+< PERSON be [charged] > <== < [commit] murder >
+< [arrested] people > <== < [suspected] >
+< [games] > ==> < [missed] game >
+< [comments] > ==> < [issued] statement >
+< PERSON be [lost] > <== < [surgery] >
+< PERSON be [scheduled] > <== < [hold] conference >
+< PERSON [died] > <== < [flight] >
+< PERSON be [born] > <== < PERSON be [served] >
+< PERSON [admitted] > <== < [allegations] >
+< [ended] season > <== < [game] >
+< [elected] > ==> < [overthrew] government >
+< PERSON be [accused] > <== < [shooting] PERSON >
+< [expected] to last > <== < [trial] >
+< ORGANIZATION [ruled] > <== < [vote] >
+< [charged] > <== < [killing] PERSON >
+< [having] links > ==> < [suspected] >
+< [reached] high > <== < [trading] >
+< [injury] > ==> < [losing] PERSON >
+< PERSON be [scheduled] > <== < [arrive] >
+< ORGANIZATION [cooperated] > <== < [investigation] >
+< PERSON be [expected] > <== < [miss] games >
+< PERSON be [diagnosed] > <== < [depression] >
+< PERSON [died] > <== < PERSON [served] >
+< PERSON [lived] > ==> < [born] in LOCATION >
+< [conviction] > ==> < [serving] sentence >
+< PERSON be [sentenced] > <== < [murders] >
+< PERSON [appeared] > <== < [rally] >
+< [battle] > ==> < [left] dead >
+< [left] dead > <== < [rampage] >
+< PERSON [returned] > <== < [missed] games >
+< PERSON be [charged] > <== < [deaths] >
+< [carries] sentence > <== < [death] >
+< PERSON be [expected] > <== < [negotiations] >
+< PERSON [declared] > <== < [trial] >
+< [conference] > ==> < announcement be [made] >
+< [close] by end > ==> < deal be [expected] >
+< PERSON [pleaded] > <== < [kidnapping] >
+< PERSON [returned] > <== < [injuries] >
+< [murder] > ==> < [spent] years >
+< [war] > ==> < those [died] >
+< PERSON [emerged] > <== < [election] >
+< [arrest] > ==> < [issued] warrants >
+< [murder] > ==> < [serving] time >
+< PERSON [withdrew] > <== < [event] >
+< [held] in LOCATION > <== < [summit] >
+< ORGANIZATION be [expected] > <== < [election] >
+< [attack] > ==> < people be [wounded] >
+< PERSON [finished] > <== < [training] >
+< PERSON be [arraigned] > <== < [assault] >
+< PERSON be [disappointed] > <== < [interview] >
+< PERSON be [appointed] > <== < [succeed] PERSON >
+< PERSON be [returned] > <== < [trial] >
+< PERSON [arrived] > <== < [event] >
+< PERSON [recover] > <== < [injury] >
+< PERSON be [expected] > <== < [attend] meeting >
+< PERSON [finished] > <== < [injury] >
+< PERSON be [expected] > <== < [underwent] surgery >
+< PERSON be [charged] > <== < [accident] >
+< PERSON [presided] > ==> < [hearing] >
+< PERSON be [scheduled] > <== < [appear] in court >
+< PERSON be [suspended] > <== < [investigation] >
+< PERSON be [kidnapped] > <== < PERSON be [killed] >
+< PERSON [pleaded] > <== < PERSON be [scheduled] >
+< PERSON [see] > <== < [trial] >
+< [game] > ==> < [left] to tie >
+< PERSON be [sentenced] > <== < [contest] >
+< PERSON [resigned] > <== < PERSON be [fired] >
+< PERSON [found] > <== < [visit] >
+< [collected] points > <== < [games] >
+< PERSON [returned] > <== < [speech] >
+< PERSON be [arrested] > <== < [indictment] >
+< [exchange] > ==> < shares [closed] >
+< PERSON be [hospitalized] > <== < [surgery] >
+< [based] in LOCATION > ==> < [tour] >
+< [attacks] > ==> < [claimed] lives >
+< [commuted] sentences > <== < [death] >
+< PERSON [rehabilitating] > <== < [surgery] >
+< PERSON be [elected] > <== < [replace] PERSON >
+< PERSON [recalled] > <== < [visit] >
+< PERSON be [scheduled] > <== < [executed] >
+< PERSON [quit] > <== < [game] >
+< PERSON be [married] > <== < [wedding] >
+< PERSON [concluded] > <== < [based] >
+< PERSON be [charged] > <== < [violation] >
+< PERSON be [sent] > <== < [war] >
+< PERSON be [killed] > <== < [action] >
+< people be [disappeared] > ==> < people be [killed] >
+< [charges] of robbery > <== < [murder] >
+< PERSON be [scheduled] > <== < [leave] LOCATION >
+< [crash] > ==> < father [died] >
+< PERSON [got] > <== < [meeting] >
+< [injury] > ==> < [played] minutes >
+< PERSON be [acquitted] > <== < [rape] >
+< PERSON [resigned] > <== < [corruption] >
+< PERSON be [disappointed] > <== < [played] way >
+< [incident] > ==> < [played] role >
+< PERSON [denied] > <== < [investigation] >
+< [left] people > <== < [missing] >
+< [assassination] > ==> < [escaped] attempt >
+< PERSON [learned] > <== < [incident] >
+< PERSON be [traded] > <== < [games] >
+< [conflict] > ==> < [left] dead >
+< [crash] > ==> < son [died] >
+< PERSON [stayed] > <== < [trip] >
+< PERSON [spent] > <== < [detention] >
+< PERSON be [convicted] > <== < [death] of PERSON >
+< PERSON [graduated] > <== < [training] >
+< PERSON be [scheduled] > <== < [travel] to LOCATION >
+< PERSON [retired] > <== < [injury] >
+< [combat] > ==> < [sending] troops >
+< PERSON [learned] > <== < [accident] >
+< [faces] charges > <== < [trial] >
+< PERSON [found] > <== < [surgery] >
+< PERSON [admitted] > <== < [crime] >
+< ORGANIZATION be [scheduled] > <== < [meeting] >
+< PERSON [met] > <== < [war] >
+< [opposed] war > <== < [start] >
+< PERSON be [sentenced] > <== < [faces] years >
+< PERSON be [scheduled] > <== < [tour] >
+< PERSON [returned] > <== < [flight] >
+< PERSON be [killed] > <== < [battle] >
+< ORGANIZATION [returns] > <== < [break] >
+< PERSON [heard] > <== < [arrest] >
+< [trading] > ==> < it [closed] >
+< PERSON [admitted] > <== < [questioning] >
+< PERSON [flew] > <== < [trip] >
+< [accident] > ==> < [lost] leg >
+< PERSON [pleaded] > <== < [investigation] >
+< [fired] PERSON > <== < [games] >
+< [investigation] > ==> < decision be [made] >
+< ORGANIZATION [returned] > <== < [trip] >
+< [explosion] > ==> < people [died] >
+< [conference] > <== < [visit] to LOCATION >
+< [election] > ==> < [won] term >
+< PERSON [returning] > <== < [surgery] >
+< PERSON [recovered] > <== < [start] >
+< PERSON be [released] > <== < [conviction] >
+< [trial] > ==> < men be [convicted] >
+< PERSON be [captured] > <== < [war] >
+< [attack] > ==> < woman [died] >
+< PERSON [returns] > <== < [trip] >
+< PERSON [found] > <== < [accident] >
+< [incident] > ==> < [issued] statement >
+< PERSON be [treated] > <== < [surgery] >
+< PERSON be [declared] > <== < [election] >
+< PERSON be [found] > <== < [suicide] >
+< [election] > ==> < [won] presidency >
+< PERSON [found] > <== < [hearing] >
+< PERSON [learned] > <== < [attacks] >
+< [spent] time > <== < [war] >
+< PERSON be [arrested] > <== < [murders] >
+< PERSON [admitted] > <== < [shooting] >
+< [killed] > <== < [shot] PERSON >
+< PERSON [found] > <== < [attacks] >
+< PERSON be [sent] > <== < [games] >
+< PERSON be [convicted] > <== < [war] >
+< PERSON be [suspended] > <== < [hearing] >
+< PERSON [recovering] > <== < [accident] >
+< [conference] > <== < [interview] in LOCATION >
+< [maintained] innocence > <== < [trial] >
+< [ordered] to pay > <== < [trial] >
+< PERSON be [sworn] in > <== < [ceremony] >
+< PERSON be [convicted] > <== < [trials] >
+< PERSON be [elected] > <== < [meeting] >
+< PERSON [playing] > <== < [surgery] >
+< PERSON [flew] > <== < [rally] >
+< PERSON [feels] > <== < [surgery] >
+< [negotiations] > ==> < sides [agreed] >
+< PERSON be [released] > <== < [investigation] >
+< PERSON [determined] > <== < [investigation] >
+< [denied] request > <== < [hearing] >
+< PERSON [died] > <== < [attempt] >
+< PERSON [felt] > <== < [operation] >
+< PERSON be [arrested] > <== < [protests] >
+< PERSON be [freed] > <== < [trial] >
+< PERSON [agreed] > <== < [meeting] with PERSON >
+< PERSON be [unbeaten] > <== < [games] >
+< PERSON be [charged] > <== < [detention] >
+< PERSON be [fired] > ==> < [claiming] >
+< PERSON [discovered] > <== < [death] >
+< ORGANIZATION [died] > <== < [attack] >
+< PERSON [spent] > <== < [surgery] >
+< PERSON [departed] > <== < [game] >
+< PERSON [left] > <== < [death] >
+< [meeting] > ==> < [opened] fire >
+< [games] > ==> < [left] LOCATION >
+< [trading] > ==> < average [closed] >
+< [sent] troops > <== < [war] >
+< PERSON [admitted] > <== < [investigation] >
+< PERSON [returned] > <== < [rehabilitation] >
+< [serving] sentence > <== < [trial] >
+< PERSON [concluded] > <== < [trial] >
+< [joined] PERSON > <== < [meeting] >
+< PERSON [confessed] > <== < [trial] >
+< [investigation] > ==> < people be [detained] >
+< PERSON [died] > <== < [incident] >
+< PERSON [died] > <== < [divorce] >
+< PERSON [fled] > <== < [death] >
+< PERSON [flew] > <== < [event] >
+< [injury] > ==> < [started] games >
+< [attack] > ==> < [underwent] surgery >
+< PERSON [died] > <== < [coup] >
+< [found] evidence > <== < [review] >
+< PERSON [returned] > <== < [birth] >
+< PERSON [returned] > <== < [marriage] >
+< PERSON [referred] > <== < [incident] >
+< PERSON be [found] > <== < [hearing] >
+< PERSON [died] > <== < [attack] in LOCATION >
+< [trial] > ==> < case be [dismissed] >
+< PERSON [died] > <== < [shootout] >
+< PERSON [resign] > <== < [meeting] >
+< [attacks] > ==> < people be [detained] >
+< ORGANIZATION [agreed] > <== < [negotiations] >
+< PERSON be [lost] > <== < [games] >
+< PERSON [arrived] > <== < [victory] >
+< PERSON be [expected] > <== < [break] >
+< [consultation] > ==> < decision be [made] >
+< [clashes] > ==> < people [died] >
+< PERSON be [fired] > <== < [campaign] >
+< PERSON be [fired] > <== < [allegations] >
+< PERSON be [injured] > <== < [collision] with PERSON >
+< PERSON [arrived] > <== < [start] >
+< [conference] > <== < [release] of report >
+< PERSON [played] > <== < [game] >
+< PERSON [pleaded] > <== < [charges] >
+< [games] > ==> < [played] season >
+< PERSON [recalled] > <== < [interview] >
+< PERSON [know] > <== < [games] >
+< PERSON be [born] > <== < PERSON be [grew] up >
+< PERSON [pleaded] > <== < [fraud] >
+< [games] > ==> < [scored] goals >
+< [declared] state > <== < [emergency] >
+< [killed] people > <== < [suicide] >
+< [death] > ==> < [face] penalty >
+< [averaging] points > <== < [games] >
+< PERSON be [charged] > <== < [fraud] >
+< PERSON be [scared] > <== < [death] >
+< PERSON be [expected] > <== < [game] >
+< PERSON be [convicted] > <== < [fraud] >
+< PERSON be [expected] > <== < [play] >
+< [trading] > ==> < dollar be [quoted] >
+< [bombing] > ==> < [killed] people >
+< PERSON be [born] > <== < PERSON be [graduated] >
+< ORGANIZATION [lost] > <== < [games] >
+< [declined] to comment > <== < [investigation] >
+< [leading] > ==> < [played] role >
+< [compared] > ==> < it be [quoted] >
+< PERSON [stayed] > <== < [game] >
+< PERSON be [put] > <== < [death] >
+< PERSON be [convicted] > <== < [conspiracy] >
+< ORGANIZATION [won] > <== < [games] >
+< PERSON be [released] > ==> < PERSON be [treated] >
+< [born] in LOCATION > <== < [raised] in LOCATION >
+< [bombings] > ==> < [killed] people >
+< PERSON be [born] > <== < PERSON be [moved] >
+< PERSON [finished] > <== < [game] >
+< PERSON [insisted] > <== < [interview] >
+< PERSON [lost] > <== < [games] >
+< PERSON [pleaded] > ==> < PERSON be [sentenced] >
+< PERSON [started] > <== < [games] >
+< [game] > ==> < [played] season >
+< [game] > ==> < [played] minutes >
+< [ended] > ==> < income [rose] >
+< PERSON be [expected] > <== < [practice] >
+< PERSON be [beaten] > <== < [death] >
+< PERSON [traveling] > <== < [comment] >
+< PERSON be [expected] > <== < [win] >
+< PERSON [won] > <== < [games] >
+< PERSON be [indicted] > <== < [fraud] >
+< [averaged] rebounds > <== < [games] >
+< [commit] murder > ==> < [conspiracy] >
+< PERSON be [expected] > <== < [campaign] >
+< [campaign] > ==> < [played] role >
+< [rose] 1\/4 > <== < [trading] >
+< PERSON [died] > <== < [work] >
+< PERSON [worked] > <== < [game] >
+< PERSON [moved] > <== < PERSON [worked] >
+< PERSON [cooperating] > <== < [investigation] >
+< ORGANIZATION [played] > <== < [game] >
+< [close] at $ > <== < [trading] >
+< [comment] > <== < [declined] citing >
+< PERSON be [convicted] > <== < [counts] >
+< PERSON [traveling] > <== < PERSON be [reached] >
+< [rose] 1\/8 > <== < [trading] >
+< PERSON be [cleared] > <== < [play] >
+< PERSON [pleaded] > <== < [counts] >
+< PERSON [finished] > <== < [standings] >
+< [comment] > ==> < lawyer be [reached] >
+< [injuries] > ==> < [missed] games >
+< [rose] 3\/8 > <== < [trading] >
+< [helping] > ==> < [played] role >
+< [ended] streak > <== < [games] >
+< PERSON be [accused] > <== < [murder] >
+< PERSON [testify] > <== < [trial] >
+< PERSON [played] > <== < [playoff] >
+< [comment] > ==> < attorney be [reached] >
+< PERSON [agreed] > <== < [interview] >
+< PERSON be [expected] > <== < [games] >
+< PERSON be [involved] > <== < [negotiations] >
+< [rose] cents > <== < [trading] >
+< [campaign] > ==> < [play] role >
+< ORGANIZATION [played] > <== < [games] >
+< PERSON [conceded] > <== < [interview] >
+< PERSON [denied] > <== < [interview] >
+< PERSON be [expected] > <== < [testify] >
+< [games] > ==> < [scoring] goals >
+< PERSON [learned] > <== < [game] >
+< [death] > <== < toll [rose] >
+< PERSON be [scheduled] > <== < [hearing] >
+< [injury] > ==> < [lost] PERSON >
+< PERSON [played] > <== < [injuries] >
+< PERSON [remained] > <== < [game] >
+< ORGANIZATION [finished] > <== < [games] >
+< [violence] > ==> < people be [killed] >
+< [games] > ==> < [hit] homers >
+< [rose] 1\/2 > <== < [trading] >
+< PERSON [believed] > <== < [death] >
+< PERSON be [accused] > <== < [crimes] >
+< [charges] > ==> < [pleaded] contest >
+< [abolish] penalty > <== < [death] >
+< [rose] pence > <== < [trading] >
+< [rose] points > <== < [trading] >
+< PERSON be [held] > <== < [game] >
+< PERSON be [hired] > <== < [replace] PERSON >
+< PERSON be [charged] > <== < [abuse] >
+< [game] > ==> < [played] way >
+< [rose] 5\/8 > <== < [trading] >
+< PERSON be [accused] > <== < [wrongdoing] >
+< PERSON be [named] > <== < [tournament] >
+< PERSON [insisted] > <== < [conference] >
+< [election] > ==> < [spent] $ >
+< [comment] > ==> < executives be [reached] >
+< PERSON [bled] > <== < [death] >
+< [rose] 3\/4 > <== < [trading] >
+< [bombings] > ==> < [claimed] responsibility >
+< [faces] charges > <== < [murder] >
+< [death] > ==> < [receive] penalty >
+< PERSON be [found] > <== < [charges] >
+< PERSON [cooperated] > <== < [investigation] >
+< [convicted] PERSON > <== < [murder] >
+< PERSON be [sentenced] > <== < [fraud] >
+< PERSON [comment] > <== < [speculation] >
+< PERSON be [charged] > <== < [theft] >
+< [games] > ==> < [scoring] points >
+< PERSON be [brought] > <== < [trial] >
+< PERSON [played] > <== < [practice] >
+< PERSON be [cleared] > <== < [charges] >
+< PERSON be [expected] > <== < [speech] >
+< PERSON [homered] > <== < [games] >
+< PERSON be [released] > <== < [charges] >
+< PERSON [worked] > <== < [training] >
+< [appeals] > ==> < court [agreed] >
+< [conference] > ==> < [won] games >
+< [driving] with license > <== < [suspended] >
+< [injuring] others > ==> < [killing] people >
+< PERSON [coached] > ==> < PERSON [played] >
+< [carry] penalty > <== < [death] >
+< PERSON be [charged] > <== < [charges] >
+< [forced] to miss > <== < [games] >
+< [comment] > ==> < calls be [returned] >
+< [crash] > ==> < [killed] PERSON >
+< PERSON be [hit] > <== < [game] >
+< PERSON [struggled] > <== < [game] >
+< [championship] > ==> < [reached] game >
+< [campaign] > ==> < [hit] trail >
+< [explosion] > ==> < [killed] people >
+< PERSON be [born] > <== < [attended] ORGANIZATION >
+< [death] > ==> < [faces] penalty >
+< PERSON be [wanted] > <== < [charges] >
+< PERSON be [charged] > <== < [possession] of weapon >
+< [claimed] lives > <== < [war] >
+< [show] > ==> < report be [expected] >
+< [games] > ==> < [start] season >
+< PERSON be [scheduled] > <== < [speech] >
+< PERSON be [expected] > <== < [hearing] >
+< PERSON be [expected] > <== < [charges] >
+< [appeals] > ==> < [overturned] ruling >
+< PERSON [comment] > <== < [rumors] >
+< [charge] > ==> < [pleaded] contest >
+< PERSON be [expected] > <== < [election] >
+< PERSON [met] > <== < [campaign] >
+< [rose] 1 > <== < [trading] >
+< [averaged] minutes > <== < [games] >
+< [injury] > ==> < [sidelined] him >
+< PERSON be [expected] > <== < [action] >
+< [left] dead > <== < [violence] >
+< [game] > ==> < [suffered] injury >
+< [exhibition] > ==> < [play] game >
+< PERSON be [expected] > <== < [replace] PERSON >
+< [played] round > <== < [practice] >
+< [comment] > ==> < lawyers be [reached] >
+< PERSON [pleaded] > <== < [evasion] >
+< PERSON [pleaded] > <== < [mail] >
+< PERSON [declared] > <== < [interview] >
+< PERSON [met] > <== < [conference] >
+< [games] > ==> < [trail] ORGANIZATION >
+< [appeals] > ==> < court [held] >
+< PERSON [appeared] > <== < [campaign] >
+< [attempted] > ==> < [charges] of murder >
+< [games] > <== < [violating] policy >
+< PERSON be [charged] > <== < [offense] >
+< PERSON be [scheduled] > <== < [charges] >
+< [games] > ==> < [won] game >
+< PERSON be [accused] > <== < [conspiracy] >
+< PERSON be [arrested] > <== < [fraud] >
+< PERSON be [held] > <== < [pending] >
+< PERSON [pleaded] > <== < [attempted] >
+< [charges] of conspiracy > <== < [murder] >
+< [speculation] > ==> < shares [rose] >
+< PERSON [found] > <== < [death] >
+< [counts] of assault > ==> < [murder] >
+< PERSON be [charged] > <== < [mail] >
+< PERSON be [involved] > <== < [attacks] >
+< PERSON [plead] > <== < [charges] >
+< [death] > ==> < [ruled] suicide >
+< PERSON be [born] > <== < PERSON be [died] >
+< [blast] > ==> < [killed] people >
+< [game] > ==> < [played] most >
+< [training] > <== < camp [opened] >
+< [game] > ==> < [played] time >
+< [injury] > ==> < [miss] games >
+< [game] > ==> < [played] in LOCATION >
+< [acquitted] PERSON > <== < [charges] >
+< PERSON be [accused] > <== < [death] >
+< [games] > ==> < [won] title >
+< PERSON be [accused] > <== < [assault] >
+< ORGANIZATION [pleaded] > <== < [charges] >
+< PERSON be [bothered] > <== < [injury] >
+< [repair] labrum > <== < [surgery] >
+< PERSON be [put] > <== < [charge] >
+< [accidents] > ==> < people [died] >
+< PERSON be [cleared] > <== < [practice] >
+< PERSON [played] > ==> < PERSON [returned] >
+< PERSON [feeling] > <== < [game] >
+< PERSON be [involved] > <== < [incident] >
+< PERSON be [held] > <== < [games] >
+< PERSON be [treated] > <== < [depression] >
+< [comment] > ==> < attorneys be [reached] >
+< PERSON [worked] > <== < [games] >
+< PERSON be [charged] > <== < [stolen] >
+< [injuries] > ==> < [missed] season >
+< [remove] chips > <== < [surgery] >
+< [fighting] > ==> < people be [killed] >
+< [charges] > ==> < [serving] sentence >
+< PERSON be [expected] > <== < [play] against ORGANIZATION >
+< PERSON [moved] > ==> < PERSON [retired] >
+< [game] > ==> < [played] rest >
+< PERSON be [held] > <== < [hearing] >
+< PERSON [died] > <== < [caused] >
+< [aggravated] > ==> < [counts] of assault >
+< [comment] > ==> < [issued] statement >
+< [ending] streak > <== < [games] >
+< [death] > ==> < [received] sentence >
+< PERSON be [charged] > <== < [laundering] >
+< [assault] > ==> < [faces] charges >
+< [games] > ==> < [played] lot >
+< [games] > ==> < [hit] run >
+< [meeting] > ==> < [scheduled] for DATE >
+< [games] > ==> < [sacked] times >
+< [played] games > <== < [playoff] >
+< PERSON [played] > <== < [exhibition] >
+< PERSON be [selected] > <== < [game] >
+< PERSON [insisted] > <== < [war] >
+< [assault] > <== < [endangering] welfare >
+< [cost] $ > ==> < project be [expected] >
+< PERSON be [arrested] > <== < [theft] >
+< [interview] > ==> < [made] comments >
+< PERSON [charged] > <== < [campaign] >
+< [trial] > ==> < witnesses [testified] >
+< PERSON be [fined] > <== < PERSON be [suspended] >
+< NUMBER [pleaded] > <== < [charges] >
+< PERSON [remain] > <== < [custody] >
+< PERSON be [scheduled] > <== < [games] >
+< PERSON be [replaced] > <== < [game] >
+< PERSON be [arrested] > <== < [trial] >
+< PERSON [pleaded] > <== < [theft] >
+< [defeated] ORGANIZATION > <== < [games] >
+< PERSON be [held] > <== < [immigration] >
+< PERSON [made] > <== < [interview] >
+< [campaign] > ==> < [playing] role >
+< [attending] camp > <== < [training] >
+< [conference] > ==> < [won] title >
+< PERSON be [scheduled] > <== < [show] >
+< PERSON [feel] > <== < [election] >
+< PERSON be [arrested] > ==> < PERSON be [sentenced] >
+< [aggravated] > ==> < [charges] of assault >
+< [killed] people > <== < [left] homeless >
+< LOCATION [lost] > <== < [games] >
+< PERSON [struggled] > <== < [injuries] >
+< PERSON [served] > ==> < [joined] ORGANIZATION >
+< [released] > <== < poll [shows] >
+< PERSON be [charged] > <== < [violations] >
+< PERSON [pleaded] > <== < [laundering] >
+< PERSON be [expected] > <== < [elections] >
+< [caused] $ > ==> < [killed] people >
+< [appeals] > ==> < [reversed] decision >
+< PERSON [stressed] > <== < [interview] >
+< [rose] yen > <== < [trading] >
+< PERSON [spent] > <== < [campaign] >
+< [death] > ==> < [imposing] penalty >
+< LOCATION [played] > <== < [game] >
+< PERSON be [killed] > ==> < PERSON be [struck] >
+< [repair] cuff > <== < [surgery] >
+< PERSON [conceded] > <== < [conference] >
+< PERSON be [involved] > <== < [death] >
+< [averaged] assists > <== < [games] >
+< PERSON [died] > ==> < PERSON [heard] >
+< [played] role > <== < [victory] >
+< PERSON [heard] > <== < [meeting] >
+< PERSON be [involved] > <== < [murder] >
+< [seeking] comment > ==> < calls be [returned] >
+< [accident] > ==> < [killed] PERSON >
+< PERSON be [promoted] > <== < [operating] >
+< PERSON [indicated] > <== < [conference] >
+< [fraud] > ==> < [serving] sentence >
+< [injury] > ==> < [missing] games >
+< [game] > ==> < [played] that >
+< PERSON be [involved] > <== < [attack] >
+< PERSON [joked] > <== < [conference] >
+< PERSON [held] > ==> < PERSON [ordered] >
+< PERSON be [injured] > <== < [play] >
+< PERSON [remained] > <== < [custody] >
+< PERSON be [expected] > <== < [join] ORGANIZATION >
+< PERSON [met] > <== < [interview] >
+< [missed] all > <== < [training] >
+< PERSON [married] > ==> < PERSON [met] >
+< PERSON [lost] > ==> < PERSON [played] >
+< [interview] > ==> < [made] remarks >
+< PERSON [comment] > <== < [allegations] >
+< [counts] > ==> < [found] guilty >
+< [named] > <== < [played] by PERSON >
+< PERSON [indicated] > <== < [interview] >
+< PERSON be [limited] > <== < [injury] >
+< [injury] > ==> < [miss] season >
+< [accident] > ==> < [killed] people >
+< PERSON be [accused] > <== < [corruption] >
+< [spent] time > <== < [training] >
+< PERSON be [forced] > <== < [injury] >
+< PERSON [pleaded] > <== < [trading] >
+< [death] > ==> < [shot] PERSON >
+< PERSON [serving] > <== < [match] >
+< [released] > <== < data [showed] >
+< PERSON be [invited] > <== < [training] >
+< [death] > <== < toll [climbed] >
+< PERSON [made] > <== < [conference] >
+< PERSON be [expected] > <== < [make] start >
+< [games] > ==> < [playing] season >
+< [game] > ==> < [played] LOCATION >
+< [remove] tissue > <== < [surgery] >
+< [conflict] > ==> < [killed] people >
+< PERSON be [shot] > <== < PERSON be [wounded] >
+< PERSON be [expected] > <== < [tackle] >
+< PERSON [played] > ==> < PERSON [wish] >
+< [games] > ==> < streak [ended] >
+< PERSON be [convicted] > <== < [mail] >
+< [citing] policy > <== < [comment] >
+< [death] > ==> < [face] sentence >
+< [left] dead > <== < [suicide] >
+< PERSON [joked] > <== < [interview] >
+< PERSON be [charged] > <== < [counts] of fraud >
+< PERSON be [expected] > <== < [miss] game >
+< [finished] season > <== < [game] >
+< PERSON be [born] > <== < PERSON be [studied] >
+< PERSON be [convicted] > <== < [theft] >
+< PERSON [died] > <== < [advertising] >
+< [death] > ==> < [named] PERSON >
+< ORGANIZATION [ruled] > <== < [death] >
+< PERSON [admitted] > <== < [charges] >
+< [bruised] > ==> < [missed] game >
+< PERSON [finished] > <== < [tour] >
+< [named] PERSON > <== < [operating] >
+< PERSON [pleaded] > <== < [crimes] >
+< PERSON [recalled] > <== < [war] >
+< [game] > ==> < seconds [left] >
+< PERSON be [extradited] > <== < [charges] >
+< PERSON [moved] > <== < [campaign] >
+< [charges] > ==> < [found] guilty >
+< [agreed] to cooperate > <== < [investigation] >
+< PERSON [played] > <== < [matches] >
+< PERSON be [sentenced] > <== < [felony] >
+< [attend] camp > <== < [training] >
+< PERSON [understand] > <== < [war] >
+< [terror] > <== < [war] in LOCATION >
+< PERSON [lived] > ==> < PERSON [married] >
+< PERSON be [involved] > <== < [shooting] >
+< PERSON be [forced] > <== < [retire] >
+< PERSON be [charged] > <== < [misconduct] >
+< [felony] > ==> < [pleaded] contest >
+< PERSON be [lost] > <== < [game] >
+< [games] > ==> < [played] that >
+< [emergency] > ==> < [hold] meeting >
+< PERSON be [convicted] > ==> < [serving] sentence >
+< [death] > ==> < people be [shot] >
+< PERSON [struggled] > <== < [depression] >
+< PERSON [learned] > <== < [interview] >
+< PERSON be [authorized] > <== < [comment] >
+< PERSON [learned] > <== < [training] >
+< PERSON [played] > <== < [event] >
+< ORGANIZATION be [expected] > <== < [make] decision >
+< [election] > ==> < [won] seat >
+< [acquitted] him > <== < [charges] >
+< PERSON be [found] > <== < [fraud] >
+< [death] > ==> < [given] penalty >
+< PERSON be [hurt] > <== < [games] >
+< [game] > ==> < [played] role >
+< [faces] charges > <== < [felony] >
+< PERSON be [scheduled] > <== < [give] speech >
+< [assault] > ==> < [pleaded] contest >
+< PERSON [pleaded] > <== < [sex] >
+< [injured] 1,000 > ==> < [killed] people >
+< PERSON be [sentenced] > <== < [crimes] >
+< [charges] of assault > <== < [murder] >
+< ORGANIZATION [ruled] > <== < [trial] >
+< [game] > ==> < [sprained] ankle >
+< PERSON [played] > <== < [start] >
+< [convicted] of murder > <== < [death] >
+< PERSON [died] > <== < [practice] >
+< PERSON be [reached] > <== < [declined] to comment >
+< PERSON be [expected] > <== < [succeed] PERSON >
+< [appeals] > ==> < [reversed] ruling >
+< PERSON be [sent] > <== < [game] >
+< PERSON be [expected] > <== < [ruling] >
+< [games] > ==> < [won] 13 >
+< [game] > ==> < decision be [made] >
+< [death] > ==> < [receive] sentence >
+< PERSON [confessed] > <== < [crimes] >
+< ORGANIZATION be [scheduled] > <== < [game] >
+< PERSON be [accused] > <== < [war] >
+< PERSON be [accused] > <== < [election] >
+< [honor] those > ==> < those [died] >
+< PERSON be [convicted] > <== < [evasion] >
+< PERSON [appear] > <== < [game] >
+< PERSON [plead] > <== < [charge] >
+< PERSON be [expected] > <== < [survive] >
+< [death] > ==> < [raised] toll >
+< PERSON [heard] > <== < [conference] >
+< PERSON [died] > <== < [affairs] >
+< PERSON [died] > <== < [games] >
+< [bruised] > ==> < [missed] games >
+< PERSON [heard] > <== < [war] >
+< [campaign] > ==> < [met] PERSON >
+< PERSON be [convicted] > <== < [counts] of fraud >
+< PERSON be [scheduled] > <== < [event] >
+< PERSON [understood] > <== < [game] >
+< PERSON [found] > <== < [games] >
+< PERSON [died] > <== < [play] >
+< PERSON [decided] > <== < [war] >
+< [flight] > ==> < [left] LOCATION >
+< [contributions] > ==> < [returned] $ >
+< [broke] serve > <== < [game] >
+< PERSON [testified] > <== < [meeting] >
+< [practice] > ==> < [suffered] injury >
+< PERSON be [quoted] > <== < [interview] >
+< PERSON be [expected] > <== < [join] team >
+< PERSON be [arrested] > <== < [sex] >
+< PERSON [led] > <== < [games] >
+< PERSON be [involved] > <== < [war] >
+< PERSON [pleaded] > <== < [counts] of murder >
+< [killed] soldiers > <== < [suicide] >
+< [games] > ==> < [hit] homer >
+< PERSON be [forced] > <== < [leave] game >
+< PERSON [admitted] > <== < [training] >
+< [games] > ==> < [lost] 12 >
+< [found] guilty > <== < [fraud] >
+< PERSON [pleaded] > <== < [campaign] >
+< PERSON [learned] > <== < [conference] >
+< [game] > ==> < [suffered] concussion >
+< PERSON [played] > <== < [conference] >
+< [broke] record > <== < [game] >
+< [charges] > ==> < men [pleaded] >
+< [death] > ==> < [received] penalty >
+< [trial] > ==> < [waived] right >
+< PERSON [insisted] > <== < [investigation] >
+< [played] role > <== < [show] >
+< PERSON be [expected] > <== < [decide] >
+< [trial] > ==> < prosecutors [argued] >
+< [crimes] > ==> < [serving] sentences >
+< PERSON [ordered] > <== < [pending] >
+< [left] dead > <== < [shootings] >
+< PERSON be [charged] > <== < [immigration] >
+< ORGANIZATION be [expected] > <== < [conference] >
+< [played] role > <== < [starring] >
+< PERSON [comment] > <== < [charges] >
+< PERSON [retired] > <== < [work] >
+< [appeals] > ==> < court [noted] >
+< [games] > ==> < [lost] 13 >
+< PERSON [learned] > <== < [games] >
+< PERSON be [charged] > <== < [controlled] >
+< PERSON be [scheduled] > <== < [practice] >
+< PERSON be [involved] > <== < [bombing] >
+< [support] effort > <== < [war] >
+< PERSON [pleaded] > <== < [possession] >
+< PERSON [insisted] > <== < [election] >
+< PERSON be [convicted] > <== < [offense] >
+< PERSON [emerged] > <== < [meeting] with PERSON >
+< [games] > ==> < [trailing] ORGANIZATION >
+< PERSON be [invited] > <== < [conference] >
+< PERSON be [convicted] > <== < [abuse] >
+< [killing] people > <== < [wounding] 100 >
+< [attempted] > ==> < [charges] of assault >
+< PERSON be [convicted] > <== < [counts] of murder >
+< PERSON be [expected] > <== < [left] >
+< PERSON be [named] > <== < [complaint] >
+< [exile] > ==> < [living] in LOCATION >
+< PERSON [recalled] > <== < [training] >
+< PERSON be [involved] > <== < [conspiracy] >
+< [emergency] > ==> < state be [declared] >
+< [games] > ==> < [played] way >
+< PERSON be [accused] > <== < [kidnapping] >
+< PERSON [pleaded] > <== < [charges] of fraud >
+< PERSON be [tried] > <== < [war] >
+< [issued] statement > <== < [remarks] >
+< [conspiracy] > ==> < [serving] sentence >
+< [bring] penalty > <== < [death] >
+< [comment] > ==> < call be [returned] >
+< PERSON be [expected] > <== < [game] against ORGANIZATION >
+< PERSON [concluded] > <== < [death] >
+< PERSON [traveled] > <== < [work] >
+< PERSON [died] > <== < [remained] >
+< [games] for ORGANIZATION > ==> < [played] season >
+< PERSON be [scheduled] > <== < [deliver] speech >
+< [injuries] > ==> < [missed] game >
+< [sending] troops > <== < [war] >
+< [crime] > ==> < [played] role >
+< PERSON [learned] > <== < [trial] >
+< PERSON [confessed] > <== < [murders] >
+< PERSON [insisted] > <== < [death] >
+< PERSON [confessed] > <== < [killing] PERSON >
+< PERSON [appeared] > <== < [interview] >
+< PERSON be [sent] > <== < [trial] >
+< PERSON [died] > <== < [charges] >
+< PERSON [moved] > ==> < PERSON be [born] >
+< PERSON [pleaded] > <== < [reduced] >
+< PERSON [returned] > ==> < [left] LOCATION >
+< [injuries] > ==> < [played] season >
+< PERSON [ruled] > <== < [death] >
+< PERSON be [sacked] > <== < [game] >
+< [death] > <== < toll [stands] >
+< PERSON [served] > <== < [charges] >
+< PERSON [admits] > <== < [games] >
+< PERSON be [convicted] > <== < [extortion] >
+< PERSON be [expected] > <== < [injuries] >
+< PERSON [insisted] > <== < [games] >
+< PERSON be [murdered] > ==> < PERSON be [raped] >
+< PERSON be [expected] > <== < [prosecution] >
+< PERSON [stayed] > <== < [games] >
+< PERSON be [expected] > <== < [war] >
+< PERSON [finished] > ==> < PERSON [returned] >
+< PERSON [declared] > <== < [death] >
+< [injuries] > ==> < [missed] most >
+< [game] > ==> < team [played] >
+< PERSON be [extradited] > <== < [face] charges >
+< PERSON be [invited] > <== < [ceremony] >
+< PERSON [comment] > <== < [interview] >
+< [crimes] against crimes > <== < [war] >
+< PERSON be [convicted] > <== < [trafficking] >
+< [retiring] > ==> < [succeed] PERSON >
+< [trading] > ==> < prices [rose] >
+< PERSON be [acquitted] > <== < [fraud] >
+< PERSON [stressed] > <== < [conference] >
+< PERSON be [suspended] > <== < [charges] >
+< [conspiracy] > ==> < [found] guilty >
+< PERSON be [charged] > <== < [penalty] >
+< PERSON be [convicted] > <== < [trading] >
+< [conspiracy] > ==> < defendants be [charged] >
+< PERSON [felt] > <== < [incident] >
+< PERSON [complained] > <== < [conference] >
+< [death] > ==> < [facing] sentence >
+< [games] > ==> < [left] ORGANIZATION >
+< PERSON [feel] > <== < [trip] >
+< PERSON [felt] > <== < [attacks] >
+< PERSON [appeared] > <== < [trial] >
+< PERSON [spent] > <== < [trial] >
+< PERSON be [scheduled] > <== < [meetings] >
+< PERSON be [defeated] > <== < [campaign] >
+< PERSON be [expected] > <== < [operation] >
+< PERSON be [treated] > <== < [released] >
+< [death] > ==> < [play] role >
+< [game] > ==> < [scored] points >
+< [games] > ==> < [scored] points >
+< [games] > ==> < [won] season >
+< [campaign] > ==> < [spent] $ >
+< PERSON [testified] > <== < [trial] >
+< [averaged] points > <== < [games] >
+< [games] > ==> < [started] season >
+< [playoff] > ==> < [won] game >
+< PERSON [lived] > <== < PERSON [worked] >
+< [scored] points > <== < [shooting] >
+< PERSON [explained] > <== < [interview] >
+< [averaged] season > <== < [game] >
+< [declined] request > <== < [interview] >
+< [games] > ==> < [lost] season >
+< [death] > ==> < [seeking] penalty >
+< PERSON [lost] > <== < [game] >
+< PERSON [scored] > <== < [games] >
+< ORGANIZATION [lost] > <== < [game] >
+< [averaged] rebounds > <== < [game] >
+< [close] at $ > ==> < [rose] cents >
+< [game] > ==> < [scoring] points >
+< [averaging] rebounds > <== < [game] >
+< PERSON [won] > <== < [game] >
+< PERSON [started] > <== < [game] >
+< [games] > ==> < [scored] goal >
+< PERSON [noted] > <== < [interview] >
+< [trading] > ==> < dollar [rose] >
+< PERSON be [supposed] > <== < [game] >
+< [playoff] > ==> < [won] games >
+< PERSON [insisted] > <== < [campaign] >
+< PERSON [guess] > <== < [game] >
+< [attempted] > ==> < [counts] of murder >
+< PERSON [worked] > <== < [practice] >
+< PERSON [played] > <== < [tournament] >
+< PERSON be [involved] > <== < [campaign] >
+< PERSON be [forced] > <== < [game] >
+< [game] > ==> < [scored] goals >
+< PERSON be [involved] > <== < [game] >
+< PERSON [recalled] > <== < [game] >
+< PERSON be [tried] > <== < [charges] >
+< [death] > ==> < [support] penalty >
+< [games] > ==> < [won] lot >
+< [ended] > ==> < profit [rose] >
+< [lost] game > <== < [playoff] >
+< PERSON [played] > <== < [tournaments] >
+< [death] > ==> < [oppose] penalty >
+< PERSON be [sentenced] > ==> < [fined] $ >
+< PERSON be [convicted] > ==> < PERSON be [tried] >
+< [game] > ==> < it be [played] >
+< [averaged] season > <== < [games] >
+< PERSON [argued] > <== < [trial] >
+< PERSON be [expected] > <== < [work] >
+< PERSON [know] > <== < [conference] >
+< [scoring] points > <== < [shooting] >
+< [death] > ==> < [facing] penalty >
+< PERSON [grew] up > ==> < [born] in LOCATION >
+< [declined] to comment > <== < [negotiations] >
+< PERSON be [hurt] > <== < [game] >
+< PERSON be [tried] > <== < [murder] >
+< [defeated] ORGANIZATION > <== < [game] >
+< PERSON [sat] > <== < [conference] >
+< [death] > <== < toll [rise] >
+< PERSON [argued] > <== < [interview] >
+< PERSON [noted] > <== < [conference] >
+< PERSON be [accused] > <== < [fraud] >
+< [killed] people > <== < [violence] >
+< PERSON [comment] > <== < [pending] >
+< [campaign] > ==> < [made] centerpiece >
+< [faces] charges > <== < [fraud] >
+< [death] > ==> < [sought] penalty >
+< [games] > ==> < [won] 10 >
+< [face] charges > <== < [murder] >
+< [murder] > <== < [possession] of weapon >
+< [allegations] > ==> < [declined] to comment >
+< [game] > ==> < [scoring] with points >
+< PERSON be [limited] > <== < [games] >
+< [games] > ==> < [won] times >
+< PERSON [comment] > <== < [litigation] >
+< [trading] > ==> < stocks [rose] >
+< PERSON be [supposed] > <== < [games] >
+< [declined] to comment > <== < [meeting] >
+< [games] > ==> < [scored] season >
+< [charges] > ==> < [declined] to comment >
+< [averaged] assists > <== < [game] >
+< [campaign] > ==> < [spent] much >
+< [game] > ==> < [playing] minutes >
+< PERSON be [involved] > <== < [investigation] >
+< [game] > ==> < [hit] homer >
+< PERSON [insisted] > <== < [game] >
+< [rose] average > <== < [trading] of shares >
+< [lost] $ > <== < [trading] >
+< [accused] > <== < [killing] PERSON >
+< [claimed] lives > <== < [violence] >
+< PERSON [played] > <== < PERSON [won] >
+< [conference] > ==> < [held] in LOCATION >
+< [averaging] season > <== < [game] >
+< [championship] > ==> < [lost] game >
+< PERSON [emphasized] > <== < [interview] >
+< PERSON be [accused] > <== < [campaign] >
+< [game] > ==> < [lost] season >
+< [suicide] > ==> < people be [killed] >
+< PERSON be [cleared] > <== < [wrongdoing] >
+< [charges] of conspiracy > <== < [fraud] >
+< PERSON [complained] > <== < [interview] >
+< [game] > ==> < [hit] homers >
+< PERSON [testified] > <== < [deposition] >
+< [declined] to comment > <== < [ruling] >
+< ORGANIZATION be [expected] > <== < [earn] $ >
+< PERSON [played] > <== < [tackle] >
+< [games] > ==> < [sidelined] him >
+< PERSON be [expected] > <== < [remain] >
+< [game] > ==> < [missed] season >
+< PERSON [testified] > <== < [murder] >
+< [conspiracy] > ==> < [faces] charges >
+< PERSON [feel] > <== < [training] >
+< [games] > ==> < [won] series >
+< [surgery] > ==> < [underwent] hours >
+< PERSON be [involved] > <== < [crime] >
+< PERSON [suffered] > <== < [injuries] >
+< [declined] to comment > <== < [remarks] >
+< PERSON [homered] > <== < [game] >
+< PERSON [recalled] > <== < [campaign] >
+< [conference] > ==> < [won] championship >
+< [death] > ==> < [faced] penalty >
+< [games] > ==> < [won] 11 >
+< [investigation] > ==> < it [cooperating] >
+< PERSON [moved] > <== < [game] >
+< PERSON [hit] > <== < [game] >
+< [played] role > <== < [supporting] >
+< PERSON be [pulled] > <== < [game] >
+< PERSON [gone] > <== < [war] >
+< [conference] > ==> < [won] titles >
+< PERSON [missed] > <== < [games] >
+< [game] > ==> < [replaced] PERSON >
+< PERSON be [involved] > <== < [discussions] >
+< [games] > ==> < [lost] 10 >
+< [death] > ==> < [opposed] penalty >
+< PERSON [played] > <== < [finals] >
+< PERSON [heard] > <== < [interview] >
+< [conspiracy] > ==> < [face] charges >
+< LOCATION [lost] > <== < [game] >
+< PERSON be [fouled] > <== < [left] >
+< [batted] season > <== < [games] >
+< PERSON [feel] > <== < [interview] >
+< [averaging] assists > <== < [game] >
+< PERSON [learned] > <== < [campaign] >
+< [game] > ==> < [spent] most >
+< [bombings] in LOCATION > ==> < [killed] people >
+< [game] > ==> < [lost] PERSON >
+< who [lost] > ==> < who [won] >
+< PERSON [conceded] > <== < [campaign] >
+< PERSON [met] > <== < PERSON [worked] >
+< [forced] to miss > <== < [injury] >
+< [bombing] in LOCATION > ==> < [killed] people >
+< [death] > ==> < [supported] penalty >
+< [claimed] lives > <== < [conflict] >
+< PERSON be [expected] > <== < [make] recovery >
+< [declaring] state > <== < [emergency] >
+< PERSON [asserted] > <== < [interview] >
+< PERSON [worked] > ==> < [met] PERSON >
+< PERSON [worked] > ==> < [joined] ORGANIZATION >
+< [agreed] to plead > <== < [charges] >
+< people be [killed] > <== < people be [wounded] >
+< [game] > ==> < [scored] season >
+< [lost] games > <== < [playoff] >
+< [game] > ==> < [left] in half >
+< PERSON [joked] > <== < [game] >
+< PERSON [explained] > <== < [conference] >
+< [exhibition] > ==> < [play] games >
+< ORGANIZATION [finished] > <== < [game] >
+< PERSON [denied] > ==> < [played] role >
+< PERSON [remember] > <== < [games] >
+< [game] > ==> < team [lost] >
+< [death] > ==> < [spared] penalty >
+< [faces] counts > <== < [fraud] >
+< PERSON be [involved] > <== < [games] >
+< PERSON [played] > <== < [postseason] >
+< PERSON [warned] > <== < [interview] >
+< [campaign] > ==> < [declined] to comment >
+< [games] > ==> < [won] 14 >
+< PERSON be [hampered] > <== < [injury] >
+< PERSON be [expected] > <== < [make] >
+< [played] role > <== < [success] >
+< PERSON [died] > <== < [sports] >
+< ORGANIZATION be [expected] > <== < [vote] on bill >
+< PERSON be [opposed] > <== < [death] >
+< [games] > ==> < [won] 12 >
+< PERSON be [forced] > <== < [exile] >
+< PERSON be [accused] > <== < [helping] >
+< [death] > <== < toll be [expected] >
+< PERSON be [accused] > <== < [sex] >
+< PERSON [wrote] > <== < [interview] >
+< [charges] of fraud > <== < [mail] >
+< [game] > ==> < [played] ORGANIZATION >
+< [game] > ==> < [sacked] times >
+< PERSON be [held] > <== < [practice] >
+< PERSON [practiced] > <== < [game] >
+< PERSON be [expected] > <== < [argue] >
+< PERSON [denied] > <== < [conference] >
+< [war] > ==> < [won] battle >
+< PERSON be [expected] > <== < [running] >
+< [trading] > ==> < [valued] at pesos >
+< [development] > ==> < [played] role >
+< PERSON [pleaded] > <== < [counts] of fraud >
+< [charged] PERSON > <== < [fraud] >
+< PERSON [sounded] > <== < [interview] >
+< PERSON be [sentenced] > <== < PERSON be [tried] >
+< [form] government > <== < [negotiations] >
+< [death] > ==> < people be [put] >
+< PERSON [died] > <== < [opera] >
+< PERSON [agreed] > <== < [conference] >
+< PERSON be [accused] > <== < [abuse] >
+< [published] > <== < poll [showed] >
+< PERSON be [expected] > <== < [stay] >
+< PERSON [presiding] > <== < [trial] >
+< [game] > ==> < [spent] much >
+< [conference] > ==> < [won] game >
+< [charges] of laundering > <== < [fraud] >
+< [championship] > ==> < game be [played] >
+< ORGANIZATION be [expected] > <== < [game] >
+< ORGANIZATION [stayed] > <== < [game] >
+< [accidents] > ==> < people be [killed] >
+< [collapse] > ==> < [played] role >
+< [declined] to say > <== < [investigation] >
+< [attend] > ==> < people be [expected] >
+< [game] > ==> < [played] defense >
+< PERSON be [involved] > <== < [interview] >
+< [game] > ==> < [played] it >
+< PERSON [felt] > <== < [treatment] >
+< PERSON [denied] > <== < PERSON be [involved] >
+< PERSON be [surprised] > <== < [interview] >
+< [death] > ==> < [put] in LOCATION >
+< [death] > ==> < [killed] people >
+< PERSON be [accused] > <== < [harassment] >
+< PERSON be [involved] > <== < [training] >
+< [operations] > ==> < [played] role >
+< [game] > ==> < [won] that >
+< PERSON be [sacked] > <== < [play] >
+< PERSON [testified] > <== < [trials] >
+< ORGANIZATION be [expected] > <== < [post] profit >
+< ORGANIZATION [cooperating] > <== < [investigation] >
+< ORGANIZATION [advanced] > <== < [game] >
+< [investigation] > ==> < company [cooperating] >
+< [abolishing] penalty > <== < [death] >
+< [rise] > ==> < toll be [expected] >
+< PERSON be [acquitted] > ==> < PERSON be [tried] >
+< PERSON [died] > <== < [efforts] >
+< [declared] states > <== < [emergency] >
+< PERSON [understand] > <== < [games] >
+< [practice] > ==> < [sprained] ankle >
+< [game] > ==> < [scoring] goals >
+< [charges] of evasion > <== < [fraud] >
+< PERSON [worked] > <== < [flight] >
+< PERSON [maintained] > <== < [interview] >
+< PERSON be [located] > <== < [comment] >
+< PERSON be [expected] > <== < [event] >
+< PERSON [pleaded] > <== < [commit] fraud >
+< [conference] > ==> < [declined] to comment >
+< PERSON be [convicted] > ==> < PERSON be [served] >
+< [games] > ==> < [lost] series >
+< ORGANIZATION be [expected] > <== < [ruling] >
+< [filed] charges > <== < [murder] >
+< PERSON [recalled] > <== < [speech] >
+< PERSON [insisted] > <== < [charges] >
+< [assault] > ==> < [face] charges >
+< PERSON [guess] > <== < [games] >
+< [pending] > ==> < company [comment] >
+< [carries] penalty > <== < [death] >
+< [faces] counts > <== < [felony] >
+< [conspiracy] > ==> < [faces] counts >
+< [investigation] > ==> < [refused] to comment >
+< [declined] to comment > <== < [incident] >
+< PERSON be [accused] > <== < [misconduct] >
+< PERSON [replied] > <== < [comment] >
+< PERSON be [convicted] > <== < [laundering] >
+< [games] > ==> < [lost] times >
+< [debate] > ==> < [played] role >
+< [forced] to miss > <== < [game] >
+< ORGANIZATION be [involved] > <== < [investigation] >
+< PERSON [testified] > <== < [investigation] >
+< [faces] charge > <== < [murder] >
+< LOCATION [gone] > <== < [war] >
+< PERSON [met] > <== < [speech] >
+< PERSON be [involved] > <== < [terrorism] >
+< PERSON [admitted] > <== < [practice] >
+< [declined] to comment > <== < [hearing] >
+< [clashes] > ==> < people be [killed] >
+< [gained] cents > <== < [trading] >
+< [death] > ==> < [seek] penalty >
+< [averaging] points > <== < [game] >
+< [led] by ORGANIZATION > ==> < stocks [rose] >
+< [grabbed] rebounds > ==> < [scored] points >
+< [averaged] points > <== < [game] >
+< [games] > ==> < [scored] runs >
+< [averaging] yards > <== < [game] >
+< [games] > ==> < [missed] season >
+< [game] > ==> < [scored] goal >
+< PERSON [scored] > <== < [game] >
+< PERSON [played] > <== < [championship] >
+< PERSON [felt] > <== < [play] >
+< [led] by shares > ==> < stocks [rose] >
+< PERSON [know] > <== < [practice] >
+< [playoff] > ==> < [won] series >
+< PERSON be [supposed] > <== < [win] >
+< [game] > ==> < [scored] runs >
+< [averaged] yards > <== < [game] >
+< [game] > ==> < [hit] run >
+< [grabbing] rebounds > ==> < [scoring] points >
+< ORGANIZATION be [expected] > <== < [earn] share >
+< [counts] of fraud > <== < [mail] >
+< PERSON [understand] > <== < [game] >
+< ORGANIZATION [won] > <== < [game] >
+< [death] > ==> < [opposes] penalty >
+< PERSON [graduated] > ==> < PERSON [grew] up >
+< [declined] to comment > <== < [speculation] >
+< PERSON [served] > <== < [defense] >
+< [counts] of conspiracy > <== < [fraud] >
+< [death] > ==> < [supports] penalty >
+< PERSON [finished] > <== < [tournament] >
+< PERSON [heard] > <== < [game] >
+< [death] > ==> < [support] for penalty >
+< [scored] points > <== < [victory] >
+< [averaging] minutes > <== < [game] >
+< [offense] > ==> < [scored] points >
+< PERSON [suffered] > <== < [depression] >
+< PERSON [won] > <== < [election] >
+< [game] > ==> < [left] in quarter >
+< [averaged] yards > <== < [games] >
+< ORGANIZATION be [expected] > <== < [earn] cents >
+< [game] > ==> < [scored] run >
+< [game] > ==> < [started] season >
+< PERSON [worked] > <== < [campaigns] >
+< [averages] points > <== < [game] >
+< PERSON [died] > <== < [research] >
+< [found] way > <== < [game] >
+< [assault] > <== < [possession] of weapon >
+< PERSON [found] > <== < [game] >
+< PERSON [testified] > <== < [prosecution] >
+< [games] > ==> < [scored] touchdowns >
+< PERSON be [expected] > <== < [sign] bill >
+< [earn] cents > ==> < company be [expected] >
+< [game] > ==> < it be [supposed] >
+< PERSON [feel] > <== < [practice] >
+< [declined] to comment > <== < [pending] >
+< PERSON [sat] > <== < [interview] >
+< PERSON [lost] > <== < [tournament] >
+< [face] charges > <== < [fraud] >
+< PERSON [played] > <== < PERSON [worked] >
+< [training] > <== < camp [began] >
+< [scored] points > <== < [win] >
+< ORGANIZATION [scored] > <== < [game] >
+< [charges] of fraud > <== < [conspiracy] >
+< PERSON [lost] > <== < [championship] >
+< ORGANIZATION be [expected] > <== < [based] >
+< [game] > ==> < [won] season >
+< PERSON [died] > <== < [married] PERSON >
+< PERSON be [expected] > <== < [sign] it >
+< PERSON be [forced] > <== < [leave] >
+< [game] > ==> < [scored] touchdowns >
+< [games] > ==> < [limited] season >
+< [games] > ==> < [scored] touchdown >
+< [averaged] minutes > <== < [game] >
+< [ended] > ==> < [lost] $ >
+< PERSON be [slowed] > <== < [injury] >
+< PERSON be [involved] > <== < [study] >
+< [convicted] > ==> < [faces] sentence >
+< [admitting] wrongdoing > <== < [denying] >
+< PERSON [argued] > <== < [hearing] >
+< PERSON [felt] > <== < [tournament] >
+< [game] > ==> < [scored] to tie >
+< PERSON [participated] > <== < [conference] >
+< [games] > ==> < [scored] times >
+< [death] > ==> < [received] threat >
+< [game] > ==> < [left] in period >
+< [averaging] points > <== < [shooting] >
+< PERSON [admits] > <== < [game] >
+< ORGANIZATION [lost] > <== < [championship] >
+< [death] > ==> < [pursue] penalty >
+< [championship] > ==> < [won] game >
+< PERSON [died] > <== < [education] >
+< [playoff] > ==> < [winning] game >
+< PERSON [complained] > <== < [game] >
+< [playoff] > ==> < [scored] points >
+< [scored] points > <== < [tournament] >
+< PERSON [agreed] > <== < [game] >
+< PERSON [argued] > <== < [death] >
+< [game] > ==> < [scored] seconds >
+< [convicted] > ==> < [face] sentence >
+< [games] > ==> < [won] championship >
+< PERSON [recalled] > <== < PERSON [worked] >
+< PERSON [broke] > <== < [game] >
+< [game] > ==> < [left] in regulation >
+< PERSON [testified] > <== < [crime] >
+< [death] > <== < toll [risen] >
+< [game] > ==> < [start] season >
+< [attempted] > <== < [possession] of weapon >
+< [cost] $ > ==> < it be [expected] >
+< PERSON [emerged] > <== < [game] >
+< [play] > ==> < [scored] points >
+< ORGANIZATION [moved] > <== < [game] >
+< [speculation] > ==> < dollar [rose] >
+< [defense] > ==> < [played] role >
+< PERSON [won] > <== < [tour] >
+< PERSON be [involved] > <== < [operation] >
+< PERSON [died] > <== < [known] >
+< [declined] to comment > <== < [litigation] >
+< [averaging] yards > <== < [games] >
+< PERSON be [expected] > <== < [testimony] >
+< ORGANIZATION [scored] > <== < [games] >
+< [counts] of laundering > <== < [fraud] >
+< PERSON [spoken] > <== < [interview] >
+< [possession] of weapon > ==> < [robbery] >
+< [averages] rebounds > <== < [game] >
+< [game] > ==> < [made] appearance >
+< [facing] charges > <== < [murder] >
+< PERSON [proved] > <== < [game] >
+< [litigation] > ==> < company [comment] >
+< PERSON be [opposed] > <== < [penalty] >
+< [death] > ==> < [reinstate] penalty >
+< [game] > ==> < [won] title >
+< [games] > ==> < [miss] season >
+< PERSON be [expected] > <== < [starting] >
+< [campaign] > ==> < [declined] to say >
+< PERSON [conceded] > <== < [game] >
+< [declined] to comment > <== < [inquiry] >
+< [campaign] > ==> < [spent] time >
+< [play] > ==> < [scored] goals >
+< PERSON [lost] > <== < [campaign] >
+< [delayed] minutes > <== < [game] >
+< [declined] to comment > <== < [discussions] >
+< [postseason] > ==> < [won] games >
+< [combined] > ==> < [scored] points >
+< [game] > ==> < [starting] PERSON >
+< [reserve] > ==> < [scored] points >
+< PERSON [finished] > <== < [tournaments] >
+< PERSON be [hampered] > <== < [injuries] >
+< [tour] > ==> < [won] event >
+< PERSON [assisted] > ==> < [scored] goal >
+< PERSON [met] > <== < [married] PERSON >
+< [carries] sentence > <== < [felony] >
+< [games] > ==> < [won] titles >
+< [games] > ==> < [winning] season >
+< PERSON [felt] > <== < [break] >
+< PERSON be [forced] > <== < [elections] >
+< [games] > ==> < [hit] runs >
+< [commit] fraud > ==> < [conspiracy] >
+< [death] > ==> < [impose] penalty >
+< [averaged] yards > <== < [carry] >
+< PERSON [sat] > <== < [game] >
+< PERSON [remember] > <== < [game] >
+< PERSON [finished] > <== < [carries] >
+< PERSON [decided] > <== < [game] >
+< [game] > ==> < [scored] touchdown >
+< PERSON be [knocked] > <== < [game] >
+< [game] > ==> < [made] play >
+< [release] > ==> < [scheduled] articles >
+< [play] > ==> < [scored] goal >
+< [game] > ==> < it [appeared] >
+< PERSON [figured] > <== < [game] >
+< ORGANIZATION [scored] > <== < [play] >
+< [championship] > ==> < [won] season >
+< PERSON be [thrown] > <== < [game] >
+< PERSON [lost] > <== < [playoff] >
+< PERSON be [surprised] > <== < [game] >
+< [game] > ==> < [won] it >
+< [death] > ==> < [impose] sentence >
+< [rushing] > ==> < [scored] touchdowns >
+< [played] > ==> < it be [supposed] >
+< PERSON [started] > <== < [left] >
+< PERSON [lost] > <== < [finals] >
+< PERSON [won] > <== < [campaign] >
+< [averaging] runs > <== < [game] >
+< [averaging] points > <== < [playoffs] >
+< [offense] > ==> < [scored] runs >
+< [scored] goal > <== < [tying] >
+< PERSON [lost] > <== < [semifinals] >
+< [game] > ==> < [scoring] runs >
+< [games] > ==> < [scoring] runs >
+< [averaging] points > <== < [offense] >
+< [death] > ==> < [decided] to seek >
+< PERSON [scored] > <== < [remaining] >
+< [game] > ==> < [threw] interceptions >
+< [game] > ==> < [hit] shot >
+< ORGANIZATION [lost] > <== < [tournament] >
+< PERSON be [involved] > <== < [play] >
+< [practice] > ==> < [spent] time >
+< PERSON [understands] > <== < [game] >
+< PERSON be [gone] > <== < [game] >
+< [averaged] points > <== < [shooting] >
+< [game] > ==> < [returned] yards >
+< PERSON [lives] > <== < [interview] >
+< [appeals] > ==> < court [sided] >
+< [championship] > ==> < [won] games >
+< [handed] out assists > ==> < [scored] points >
+< PERSON [agreed] > <== < [trial] >
+< [averaged] yards > <== < [offense] >
+< [championship] > ==> < [defeated] LOCATION >
+< [game] > ==> < [won] championship >
+< PERSON be [caught] > <== < [game] >
+< [game] > ==> < [spent] time >
+< ORGANIZATION [lost] > <== < [semifinals] >
+< [scored] goal > <== < [victory] >
+< [death] > ==> < sentence be [commuted] >
+< [game] > ==> < [left] ORGANIZATION >
+< PERSON [participated] > <== < [game] >
+< PERSON [spoken] > <== < [conference] >
