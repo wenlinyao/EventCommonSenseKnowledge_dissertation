@@ -1,5 +1,5 @@
 # EventCommonSenseKnowledge_dissertation
-All event relational (common-sense) knowledge extracted by previous papers (also in Ph.D. dissertation). This knowledge includes subevent, temporal, and causal relations between events. If you find it is useful, please cite my previous papers. Thanks!
+All event relational (common-sense) knowledge extracted by previous papers (also in Ph.D. dissertation). **This knowledge includes subevent, temporal, and causal relations between events. The entire knowledge graph contains 126K event nodes, 174K happens-before edges, 239K parent-subevent edges and 49K cause-effect edges.** If you find it is useful, please cite my previous papers. Thanks!
 
 1. regular_event_pairs.txt: temporal before/after relational knowledge between events. Please refer to "A Weakly Supervised Approach to Train Temporal Relation Classifiers and Acquire Regular Event Pairs Simultaneously" for more details.
 
